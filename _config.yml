@@ -1,12 +1,13 @@
-markdown: rdiscount
-permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
+markdown: redcarpet
+highlighter: null
+permalink: /:title
 
-gems:
-  - jekyll-sitemap
+url:    erikreinertsen.github.io
+baseurl:
 
-name: Erik Reinertsen
-url: 
-description: A fantastic blog that is fantastic.
-twitter: erikreinertsen
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
