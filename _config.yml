@@ -26,7 +26,7 @@ theme:
   # "Hi, I'm _______"
   name: Erik Reinertsen
   email: erikpreinertsen@gmail.com
-  tagline: "weak opinions, strongly held"
+  tagline: 
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
