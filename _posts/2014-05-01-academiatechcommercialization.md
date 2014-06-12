@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can academia encourage a culture of technology commercialization?
+title: How to commercialize technology in academia
 ---
 
 The American Physician Scientists Association 10th annual meeting featured a Policy Panel with leaders in device development, entrepreneurship, and FDA/governmental oversight:

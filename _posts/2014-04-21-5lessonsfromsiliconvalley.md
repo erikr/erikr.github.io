@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five culture lessons academic medicine must learn from Silicon Valley
+title: Five lessons from Silicon Valley for academic medicine
 ---
 
 Advances in technology, ranging from vaccines to MRI, have always driven the greatest revolutions in healthcare. Progress in molecularly targeted therapeutics, silencing RNA, and gene therapy is promising, but digital health is perhaps the fastest growing frontier in medicine. In 2013, digital health funding rose more than 39%, exceeding $1.9B with 195 venture deals ($2M+). However, this rapid growth is from tech diffusing into medicine, and not the other way around. Clinicians continue to use antiquated electronic medical record (EMR) systems with clunky interfaces on ten-year old Dell desktops. Why is medicine so slow to change, especially in academia?
