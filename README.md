@@ -1,38 +1,58 @@
-# brume
+# hikari
 
-I am not a designer so I cannot impress you with breathtaking Jekyll themes, but brume is something that just came to my mind and I had to build it. It is a clean and simple theme, which has an index page that lists all your blog posts divided by year and an about page. brume uses redcarpet as the Markdown processor with strikethrough extension enabled by default (so you can use ~~ to strike out words).
+Hikari is an open-source [Jekyll](http://jekyllrb.com) theme perfect for bloggers and developers who want the best of both worlds: sharing snippets and stories/pictures of their latest vacation in Tokyo (that's just for the example, you may want to go to Kyoto too). 
 
-This is how the "Home" page looks like.
+But Hikari is also:
 
-![Home](https://dl.dropboxusercontent.com/u/9924988/Screen%20Shot%202014-02-26%20at%2018.48.57.png)
+- Simple & elegant
+- Fluid, responsive
+- Lightweight (no JS library has been abused during the development of this theme thanks to my buddy [Julien](https://github.com/evarouss))
+- & packed with syntax highlighting for you coders (thanks to Jekyll & Pygments)
 
-And this is a single post.
+[View demo](http://m3xm.github.io/hikari-for-Jekyll)
 
-![Home](https://dl.dropboxusercontent.com/u/9924988/Screen%20Shot%202014-04-06%20at%2012.56.08.png)
 
-## Usage
+### How to install
 
-**Important:** The latest version of brume uses `site.baseurl` for links, therefore, if you want to put your site in a subdirectory, update the *_config.yml* file!
+1. Clone this repo
+2. Customize \_config.yml and \_includes/header.html
+3. Publish (with Github Pages, it's free!) :)
 
-- Download the ZIP file and extract it's contents.
-- Open *_config.yml* file and enter your site's URL and add additional configuration or update the existing one if needed.
-- Open *_data/brume.yml* file and fill in values for site name (site title), author (your name) and description (blog description). This file contains all the custom information about your page. You can access it using `site.data.brume` object.
-- Open *about/index.md* file and add information about you or your site. You can delete this file and directory if not needed.
-- Open *_data/links.yml* and add additional links or update the existing ones that you want to be displayed in the navigation menu.
-- If you don't want to use CC BY-NC 4.0 licence for the content, then you should change the footer text, which is located in *_layouts/default.html*.
-- Generate your site and be happy!
 
-## Theme customization
+### Development
 
-This theme has 4 predefined colors that can be used for links:
+- `master` for development and pull requests.
+- `gh-pages` for the demo page; don't bother.
 
-- azul
-- ruby
-- amber
-- avocado
 
-![Color Examples](https://dl.dropboxusercontent.com/u/9924988/colors_new.png)
+#### Running locally
 
-By default it uses *azure*, but if you want to select another one just change the second class of `container` div in *_layouts/default.html* to one of the provided names.
+1. Clone this repo
+2. Install required dependencies with [Bundler](http://bundler.io/)
 
-Express your thoughts about brume on Twitter [@aigarsdz](http://twitter.com/aigarsdz), and help me make it better!
+        bundle install
+3. Run the site with Jekyll
+
+        bundle exec jekyll serve --watch
+4. Visit the site at [http://localhost:4000](http://localhost:4000)
+
+
+### Author
+
+**Mathieu Mayer-Mazzoli**
+- <http://m3xm.github.io>
+- <http://twitter.com/mx3m>
+- <http://www.dribbble.com/m3xm>
+
+### Main Contributors
+
+**Ross Allen**
+- <https://github.com/ssorallen>
+
+**Julien Rousseau**
+- <https://github.com/evarouss>
+
+
+### License
+
+Open source. [MIT license](http://opensource.org/licenses/MIT).
