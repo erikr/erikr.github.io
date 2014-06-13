@@ -19,4 +19,4 @@ To mitigate the planning fallacy, you can do three things:
 2. Obtain enough info from those event planners to make a baseline cost prediction
 3. Adjust the prediction based on the specifics of our case (several experienced event planners in Atlanta told me to expect cost overruns above what we calculated)
 
-As planning progressed, our budget is currently at ~$50,000, which is 2.5x our original estimate. We are incredibly excited to host this Hackathon, and the learning experience has been invaluable.
+As planning progressed, our budget rose to $50,000, or 2.5x our original estimate. But things are looking good. We are incredibly excited to host this Hackathon, and the learning experience has been invaluable.
