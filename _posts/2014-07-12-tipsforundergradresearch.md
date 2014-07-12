@@ -49,7 +49,7 @@ title: Tips for new undergraduate researchers
 
 ##How to be a good researcher
 ---
-* Document everything you do
+* Document everything you do. This is a resource for your lab's future students. The PI will appreciate it.
 * Every other week, re-organize your documents
 * Back everything up (Dropbox, Box, Time Machine)
 * Electronically map your physical lab notebooks
