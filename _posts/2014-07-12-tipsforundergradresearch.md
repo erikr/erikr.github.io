@@ -33,7 +33,7 @@ title: Tips for new undergraduate researchers
 	* but drama is annoying, your PI may not be politically powerful, and lab may not be efficient because it is just establishing protocols
 * Large lab / established PI:
 	* more independence, more research $ for nicer equipment and supplies
-	* but lab may be potentially disorganized, and you have to fight for attention / work harder to make your accomplishments known to the faculty
+	* but lab may be disorganized, and you have to fight for attention to make your accomplishments known to the faculty
 * Start working with a good senior undergraduate, or graduate student. Ideally someone who has published anything before.
 * Transition to an independent project after a year or two.
 * Faculty mentor fit is not as important now, especially if you have a good grad student mentor. The PI is more important once you are in grad school.
