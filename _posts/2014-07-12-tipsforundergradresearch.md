@@ -47,7 +47,7 @@ title: Tips for new undergraduate researchers
 * Bad email == obtuse, redundantly polite: “Dear Professor Firstname Lastname, I am writing to you to express my interest in potentially pursuing a research opportunity. I have Y years of experience in high school doing Z. My future interests include Q. etc… and it goes on for 4 paragraphs”
 * Better email == direct, concise: “Dr. Lastname, I would like to meet you and discuss doing research in your lab. I am interested in X, Y, and Z. Attached is my CV. Please let me know if you have time to meet next week.”
 
-##How to be a good researcher (more for wet lab context)
+##How to be a good researcher
 ---
 * Document everything you do
 * Every other week, re-organize your documents
