@@ -3,22 +3,21 @@ layout: post
 title: Tips for new undergraduate researchers
 ---
 
-###General things to think about before diving into the hell that is research:
+###General things to think about before diving in:
 ---
    * Do not think of this as a binding commitment. Try it out and see if you enjoy the endeavor upon which academia is built.
    * Most people do not like it, and most people are not good at it.
    * Clearly understand outcome metrics that define a productive research experience.
    * Do not expect to get paid in $
    * Ideal outcomes:
-   * 
       * a strong letter of recommendation
       * abstracts & posters, publication(s)
       * experience (== firsthand understanding of the chronically dark & painful failure that is research)
       * relationships with faculty (you may come back to that institution when you want to do residency, postdoc, faculty, etc.)
    * You want 2-3 years of continual experience in the same group. This may improve your chance of publication.
 
-##What to look for (specific)
-
+###What to look for (specific)
+---
    * The typical process of judging a lab is not objective. You will Google the PI, judge the lab based on appearance of lab website (like wine), and correlate the merit of their research with how many times the word “Nature” appears in their PubMed.
    * To find a good work environment, talk to the PI and students instead of relying on Google
       * At the meeting, focus on mentoring, teaching, and previous undergraduate student outcomes. How is the lab organized?
@@ -39,7 +38,7 @@ title: Tips for new undergraduate researchers
    * Faculty mentor fit: not as important now, especially if you have a good grad student mentor. The PI is more important once you are in grad school.
 
 ###How to look for a lab position
-
+---
    * You won’t find the best research mentors teaching your lower division courses.
    * Most awesome faculty members either teach upper division courses, or graduate / medical courses, or nothing at all.
    * Ask your “assigned faculty mentor”. At UCLA, we had mandatory mentoring where faculty would be forced to meet students 1:1 for 15 minutes to provide career advice. They can give you some suggestions of who to contact.
@@ -69,7 +68,6 @@ title: Tips for new undergraduate researchers
    * Pay it forward to mentor and help younger students. Every day you get one step closer to be being the boss. And you went through the same valley of ignorance they went through.
    * Be a great single-tasker. You will be inefficient if you multi-task. You will be tempted to multi-task because you have coursework and volunteer crap to do. Don’t. Turn off your phone. Don’t think about your upcoming exam while you are working at the bench. It is less efficient than pure study in the library, and you may mess something up at the bench and cost yourself more time.
    * Be aware of the context in which you work, and who you learn from.
-   * 
       * If you think you are above average, then by definition most of your peers (or even the students / grads ahead of you) are below your level.
       * If you are actually above average, you will know what you don’t know, and work to improve it.
       * If you are at or below average, you will lack the ability to realize this, and you will think you are average or above average
