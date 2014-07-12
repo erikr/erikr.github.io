@@ -4,7 +4,7 @@ title: Tips for new undergraduate researchers
 ---
 
 ###General things to think about before diving into the hell that is research:
-<br>
+---
    * Do not think of this as a binding commitment. Try it out and see if you enjoy the endeavor upon which academia is built.
    * Most people do not like it, and most people are not good at it.
    * Clearly understand outcome metrics that define a productive research experience.
