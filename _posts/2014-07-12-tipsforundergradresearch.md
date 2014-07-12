@@ -18,7 +18,7 @@ title: Tips for new undergraduate researchers
 ###What to look for (specific)
 ---
 * Mentoring environment of the lab is MUCH MORE important for your career success than how interesting you find the topic.
-* While I believe the topic is not as important as the mentoring enviroment, [@heydavemathews](https://twitter.com/heydavemathews) suggests both are important. Intrinsic meaning is rewarding, and therefore sustainable. Just working to put in you dues is not. Dave says "does the work resonate with you? Is it intrinsically interesting to YOU? Being weirdly into it is healthy. and necessary."
+* [@heydavemathews](https://twitter.com/heydavemathews) has another view: the topic is important. Intrinsic meaning is rewarding, and therefore sustainable. Merely working to put in your dues is not. Dave says "does the work resonate with you? Is it intrinsically interesting to YOU? Being weirdly into it is healthy. and necessary."
 * The typical process of judging a lab is not objective. You will Google the PI, judge the lab based on appearance of lab website (like wine), and correlate the merit of their research with how many times the word “Nature” appears in their PubMed. This feels right but it is incorrect.
 * To find a good work environment, talk to the PI and students instead of relying on Google
 	* Ask the PI about their thoughts on mentoring, teaching, previous student outcomes, and lab organization.
