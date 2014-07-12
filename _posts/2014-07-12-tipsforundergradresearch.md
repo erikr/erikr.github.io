@@ -26,7 +26,7 @@ title: Tips for new undergraduate researchers
 	* Everyone lies and embellishes, so talking to five people will let you establish an average assessment that should be closer to reality than what the PI alone claims.
 * You won’t find the best research mentors teaching your lower division courses. These faculty either enjoy teaching more than research, or have been forced to teach by their chair.
 * Strong researchers in specialized fields teach upper division courses, or graduate / medical courses, or nothing at all.
-* Ask your “assigned faculty mentor”. At UCLA, we had mandatory mentoring where faculty would be forced to meet students 1:1 for 15 minutes to provide career advice. They can give you some suggestions of who to contact.
+* Ask your “assigned faculty mentor”. At UCLA, faculty were forced to meet students 1:1 for 15 minutes. They can give you some suggestions of who to contact.
 * Lab size is not that important, because there are pros and cons to small and large labs.
 	* Small lab / new PI:
 		* more attention with PI, closer relationships between lab members
