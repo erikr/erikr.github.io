@@ -5,15 +5,14 @@ title: Tips for new undergraduate researchers
 
 ###General things to think about before diving in:
 ---
-   * Do not think of this as a binding commitment. Try it out and see if you enjoy the endeavor upon which academia is built.
-   * Most people do not like it, and most people are not good at it.
-   * Clearly understand outcome metrics that define a productive research experience.
-   * Do not expect to get paid in $
-   * Ideal outcomes:
-      * a strong letter of recommendation
+	* You aren't selling your soul. Try it out and see if you enjoy the endeavor upon which academia is built.
+	* Clearly understand outcome metrics that define a productive research experience.
+	* Do not expect to get paid in $
+	* Ideal outcomes:
+      * strong letter of recommendation
       * abstracts & posters, publication(s)
       * experience (== firsthand understanding of the chronically dark & painful failure that is research)
-      * relationships with faculty (you may come back to that institution when you want to do residency, postdoc, faculty, etc.)
+      * relationships with faculty (you may come back to that institution for your next career move)
    * You want 2-3 years of continual experience in the same group. This may improve your chance of publication.
 
 ###What to look for (specific)
@@ -33,7 +32,6 @@ title: Tips for new undergraduate researchers
    * Large lab / established PI:
       * more independence, more research $ for nicer equipment and supplies
       * but lab may be potentially disorganized, and you have to fight for attention / work harder to make your accomplishments known to the faculty
-   * Do not start with an independent project. You will fail for a year and not produce anything.
    * Start working with a good senior undergraduate, or graduate student. Ideally someone who has published anything before. Transition to an independent project after a year or two.
    * Faculty mentor fit: not as important now, especially if you have a good grad student mentor. The PI is more important once you are in grad school.
 
