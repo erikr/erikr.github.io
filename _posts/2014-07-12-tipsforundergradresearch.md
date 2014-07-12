@@ -4,7 +4,7 @@ title: Tips for new undergraduate researchers
 ---
 
 ###General things to think about before diving into the hell that is research:
-
+<br>
    * Do not think of this as a binding commitment. Try it out and see if you enjoy the endeavor upon which academia is built.
    * Most people do not like it, and most people are not good at it.
    * Clearly understand outcome metrics that define a productive research experience.
@@ -25,23 +25,20 @@ title: Tips for new undergraduate researchers
       * These are more important for you than the nebulous, political vanity metrics that most labs are judged on.
       * These metrics change once you are a grad student, fellow / postdoc, and eventual collaborator.
    * Email / talk to the students.
-   * 
       * Do your due diligence about the lab and the PI.
       * Everyone lies and embellishes, so talking to five people will let you establish an average assessment that should be closer to reality than what the PI alone claims.
    * Lab size is not that important, because there are pros and cons to small and large labs.
-   * Small lab / new PI
-   * 
+   * Small lab / new PI:
       * more attention with PI, closer relationships between lab members
       * but drama is annoying, your PI may not be politically powerful, and lab may not be efficient because it is just establishing protocols
-   * Large lab / established PI
-   * 
+   * Large lab / established PI:
       * more independence, more research $ for nicer equipment and supplies
       * but lab may be potentially disorganized, and you have to fight for attention / work harder to make your accomplishments known to the faculty
    * Do not start with an independent project. You will fail for a year and not produce anything.
    * Start working with a good senior undergraduate, or graduate student. Ideally someone who has published anything before. Transition to an independent project after a year or two.
    * Faculty mentor fit: not as important now, especially if you have a good grad student mentor. The PI is more important once you are in grad school.
 
-##How to look for a lab position
+###How to look for a lab position
 
    * You won’t find the best research mentors teaching your lower division courses.
    * Most awesome faculty members either teach upper division courses, or graduate / medical courses, or nothing at all.
