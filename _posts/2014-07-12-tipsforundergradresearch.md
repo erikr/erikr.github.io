@@ -21,10 +21,9 @@ title: Tips for new undergraduate researchers
 
    * The typical process of judging a lab is not objective. You will Google the PI, judge the lab based on appearance of lab website (like wine), and correlate the merit of their research with how many times the word “Nature” appears in their PubMed.
    * To find a good work environment, talk to the PI and students instead of relying on Google
-   * 
-      > At the meeting, focus on mentoring, teaching, and previous undergraduate student outcomes. How is the lab organized?
-      > These are more important for you than the nebulous, political vanity metrics that most labs are judged on.
-      > These metrics change once you are a grad student, fellow / postdoc, and eventual collaborator.
+      * At the meeting, focus on mentoring, teaching, and previous undergraduate student outcomes. How is the lab organized?
+      * These are more important for you than the nebulous, political vanity metrics that most labs are judged on.
+      * These metrics change once you are a grad student, fellow / postdoc, and eventual collaborator.
    * Email / talk to the students.
    * 
       * Do your due diligence about the lab and the PI.
