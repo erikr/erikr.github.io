@@ -28,12 +28,12 @@ title: Tips for new undergraduate researchers
 * Strong researchers in specialized fields teach upper division courses, or graduate / medical courses, or nothing at all.
 * Ask your “assigned faculty mentor”. At UCLA, faculty were forced to meet students 1:1 for 15 minutes. They can give you some suggestions of who to contact.
 * Lab size is not that important, because there are pros and cons to small and large labs.
-	* Small lab / new PI:
-		* more attention with PI, closer relationships between lab members
-		* but drama is annoying, your PI may not be politically powerful, and lab may not be efficient because it is just establishing protocols
-	* Large lab / established PI:
-		* more independence, more research $ for nicer equipment and supplies
-		* but lab may be potentially disorganized, and you have to fight for attention / work harder to make your accomplishments known to the faculty
+* Small lab / new PI:
+	* more attention with PI, closer relationships between lab members
+	* but drama is annoying, your PI may not be politically powerful, and lab may not be efficient because it is just establishing protocols
+* Large lab / established PI:
+	* more independence, more research $ for nicer equipment and supplies
+	* but lab may be potentially disorganized, and you have to fight for attention / work harder to make your accomplishments known to the faculty
 * Start working with a good senior undergraduate, or graduate student. Ideally someone who has published anything before.
 * Transition to an independent project after a year or two.
 * Faculty mentor fit is not as important now, especially if you have a good grad student mentor. The PI is more important once you are in grad school.
