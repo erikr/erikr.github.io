@@ -17,6 +17,7 @@ title: Tips for new undergraduate researchers
 
 ###What to look for (specific)
 ---
+* Mentoring environment of the lab is MUCH MORE important for your career success than how interesting you find the topic.
 * The typical process of judging a lab is not objective. You will Google the PI, judge the lab based on appearance of lab website (like wine), and correlate the merit of their research with how many times the word “Nature” appears in their PubMed. This feels right but it is incorrect.
 * To find a good work environment, talk to the PI and students instead of relying on Google
 	* Ask the PI about their thoughts on mentoring, teaching, previous student outcomes, and lab organization.
