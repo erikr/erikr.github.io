@@ -2,6 +2,7 @@ name: "Erik Reinertsen"
 description: "a blog"
 
 author: "Erik Reinertsen"
+baseurl: ""
 
 url: "http://m3xm.github.io"
 
