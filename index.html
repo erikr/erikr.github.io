@@ -7,7 +7,6 @@ title: Homepage
   <ul class="posts">
     {% for post in site.posts %}
       <li itemscope itemtype="http://schema.org/BlogPosting">
-        {% unless post.draft %}
         <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
           <div class="p-wrap">
             <time datetime="{{ post.date | date_to_xmlschema }}" class="date"
@@ -17,7 +16,6 @@ title: Homepage
             <p itemprop="name headline">{{ post.title }}</p>
           </div>
         </a>
-        {% endunless}
       </li>
     {% endfor %}
   </ul>
