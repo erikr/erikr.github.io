@@ -4,7 +4,6 @@ description: "a blog"
 author: "Erik Reinertsen"
 
 url: "http://m3xm.github.io"
-baseurl: ""
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
