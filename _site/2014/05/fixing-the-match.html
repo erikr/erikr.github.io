@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+      <title>Erik Reinertsen - stuff</title>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta http-equiv="content-language" content="en-gb" />
+      <meta name="description" content="Fluid, responsive blog theme for Jekyll.">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" type="text/css" href="/css/main.css" />
+      <link rel="stylesheet" type="text/css" href="/css/syntax.css" />
+      <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+  </head>
+
+  <body>
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="off-canvas">
+      <div id="avatar">
+        <img src="/assets/img/avatar.jpg" alt="Profile Picture" title="wow, very face, such photograph, wow">
+      </div>
+      <div id="bio">
+          <h1>Hello!</h1>
+          <p>I'm an MD/PhD student in Bioinformatics at Emory & Georgia Tech.<br>
+          I build software to improve clinical decision-making.<br>
+          I co-founded <a href="http://forgeatl.com" target="_blank">Forge</a> to accelerate healthcare startups.
+          <br>
+          <br><a href="http://www.twitter.com/erikreinertsen" target="_blank">@erikreinertsen</a> |
+          <a href="mailto:erikpreinertsen@gmail.com" target="_blank">email</a> |
+          <a href="https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf" target="_blank">CV</a>
+          </p>
+      </div>
+    </div>
+
+    <header>
+      <div class="h-wrap">
+        <h1 class="title"><a href="" title="Back to Homepage">Erik Reinertsen</a></h1>
+        <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
+      </div>
+    </header>
+
+    <main>
+      <section id="single-wrap">
+  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="feat">
+      <h5 class="page-date">
+        <time datetime="2014-05-04T00:00:00-04:00" itemprop="datePublished">
+          04 May 2014
+        </time>
+      </h5>
+    </div>
+    <h1 class="page-title" itemprop="name headline">Fixing the NRMP match</h1>
+    <div itemprop="articleBody">
+      <p>Amy Ho outlined the flaws of the NMRP match. Her bottom line is pointed:</p>
+
+<blockquote><p>This system is highly wasteful. It incurs massive costs for hospitals and students through the interview process, precludes contract negotiations that could optimize value for both parties and results in depressed wages for young physicians. Additionally, it incurs significant opportunity cost in trading interviews for educational senior year curricula, causes undue duress for applicants and their families and contributes to decreased quality of care in physicians unsatisfied with results of the Match.</p></blockquote>
+
+<p>While her argument is compelling, I want to add some thoughts geared towards solutions. I believe technology offers tangible ways to improve these problems. I encourage readers to think of how they would tackle these challenges.</p>
+
+<p><em>Let’s go:</em></p>
+
+<blockquote><p>Medical education today is nothing like it was 60 years ago. Today, many specialties have more US medical graduates than residency positions, and international medical graduates and physicians reapplying for residency also compete in the match. Medical schools continue to increase, as have the birth of osteopathic schools and Caribbean schools.</p></blockquote>
+
+<p>Oversimplified solution: cut the number of students accepted to medical school and reduce medical school class size. Medical student tuition does not contribute to the majority of academic medical center income. I don’t have a citation handy, but I think the majority of funding is actually research-oriented. Anyways, Johns Hopkins is tightening the belt on PhD programs. Academic science suffers a similar but not fully congruent problem; there are too many PhDs doing multiple postdocs who cannot find faculty positions. The solution is economically obvious, but socially and mechanistically challenging:</p>
+
+<blockquote><p>This year, 5.6% of US allopathic (MD) seniors did not match, and 22.3% of US osteopathic (DO) seniors did not match. On the whole, 25.0% of applicants in the NRMP Match did not match – with a 25% unemployment rate, how successful is the Match, really?</p></blockquote>
+
+<p>This suggests the match algorithm is not robust. I would need to know more about the overall data for unmatched applicants. My understanding is these applicants tend to apply to highly competitive specialities like dermatology, plastic surgery, and urology – with unrealistic expectations and less than competitive applications.The system should incorporate safeguards based on objective, historical information. For example, say 95% (or 99% or 99.9%) of applicants with a Step 1 score of X, Step 2 score of Y, overall grades of Z, and Q number of publications do not match in neurosurgery. The system should simply not allow that applicant to apply to that specialty. Other metrics such as type of school and degree (MD, DO, dual degree, US, foreign) could be incorporated in a regression analysis model that profiles applicants, and compares them to profiles of successful candidates at different programs for different specialties. Some might find this too harsh; perhaps the system can merely warn applicants if they are truly not competitive for a given program before they pour time and money down the drain. Analogy: if Tinder warned you that you were too ugly, it could save everyone time.</p>
+
+<blockquote><p>With a 15% tax rate, $7,470.76 becomes $8,789.13 in pre-tax income. With 34,270 active applicants in the Match in 2014, $302 million is wasted annually, in the setting of tight graduate medical education funding, increasing student debt and decreasing physician reimbursement.</p></blockquote>
+
+<p>As an engineer, I respect these back-of-the envelope calculations. Let me try my own. The average debt of indebted MD graduates of the class of 2013 was $169,901. $8,789.13 is %5.2 of overall medical school debt, which is a small overall fraction. My classmates love eating at nice restaurants such as the Spence, buying expensive clothes, and watching 3D Imax movies instead of illegally bittorrenting. To them, debt is debt. However, $300 million cumulatively is nothing to sneeze at. Be that as it may, a world without a match would still require interviews and travel.</p>
+
+<p>Solution: coordinate group travel, housing, and meals to save tremendous costs. Divide interviews into a quarter system and organize regionally. Usually, this is left to the applicants, and few programs actively coordinate with each other to save students money and time. But vacation-planning services are already abundant online. One plane ticket to the West Coast, with shared housing and ground transportation among several candidates, could knock out 3-5 interviews for the price of 1-2 “typical” interviews done separately. In the first quarter, 25% of applicants interview in the West region, 25% in the Northeast, 25% in the Southeast, and 25% in the NW and Midwest. In the second quarter, the applicant pool rotates to the next region. You might think it sounds insane to use software to force people to decide where to go, when. Oh, wait. Actually, all this does is formalize what already happens but in a more efficient and controlled manner. The challenge lies in aligning incentives. Med students save money, while NRMP and residency programs spend it to make this happen. That is a critical challenge.</p>
+
+<blockquote><p>Dual degrees (MD/JD, MD/MBA, MD/MPH) are ever-increasing and many applicants will bring additional value to their hospital</p></blockquote>
+
+<p>I do not see data to support this claim, but I also lack any data to support a counter-argument. I can see how MD/MBAs in executive positions might bring $ value through enacting economically beneficial policies / financial restructuring, and how the other dual-degrees bring insight from different fields. However, this value is hard to quantify in dollars. I do know that MD/PhDs in academic faculty positions that focus on research or trained in a “cognitive” or diagnostic specialty make less income in salary than their counterparts who only have MDs and perform procedures.</p>
+
+<blockquote><p>Ultimately, the Match translates into thousands of physicians training in an undesired specialty, in an undesired city and in an undesired situation split from their families. These physicians, lives forced by the Match, cannot be assumed to perform at the same quality as those that matched into their ‘dream job’.</p></blockquote>
+
+<p>Of this population, do they end up leaving the profession prematurely?  Are their career trajectories as successful? Are their satisfaction rates the same? What about their suicide rates, addiction rates and wellness?</p>
+
+<p>These issues suggest profoundly important topics of research. If we can’t find the results of these studies today online, they need to be done soon. To motivate change in policy, we need data.</p>
+
+<p>This topic demands insight from thinkers who possess a rigorous understanding of behavioral economics, finance, and systems engineering. But I also think it demands attention from everyone else, especially from rising young physicians who will inherit positions of authority, and the responsibility to enact meaningful change more than any other stakeholder.</p>
+
+    </div>
+    <div id="share" class="feat">
+      <a href="http://twitter.com/share" class="popup">
+        <span class="icon-twitter"></span>
+      </a>
+    </div>
+    
+      <a rel="next" href="/2014/05/icorps-lifescience.html" id="next">
+        <span class="nav-title nav-title-next">newer</span> &rarr;
+      </a>
+    
+    
+      <a rel="prev" href="/2014/05/commercializing-tech-in-academia.html" id="prev">
+        &larr; <span class="nav-title nav-title-prev">older</span>
+      </a>
+    
+  </article>
+</section>
+
+    </main>
+
+    <footer>
+      <small>Powered by Jekyll - Theme: <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a> - &copy; Erik Reinertsen</small>
+    </footer>
+
+    <script src="/js/main.js"></script>
+    
+    
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-47727049-1', 'm3xm.github.io');
+        ga('send', 'pageview');
+      </script>
+    
+
+  </body>
+</html>
