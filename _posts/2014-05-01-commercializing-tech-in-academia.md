@@ -19,9 +19,11 @@ The panelists answered:
 2. **Lex Van Der Ploeg:** Thinking ahead about how to develop a product while doing the research. One way is through mentoring from the technology transfer office, which can be achieved by asking them to be involved in your research team.
 3. **Larissa Laptera:** At the governmental policy level, try to promote collaborations between researchers, technology transfer businesses, and industry for pre-competitive space that focuses on outcomes and endpoints.
 
-Student Thoughts: 
+Student Thoughts:
 
 1. Consider working with your graduate student body leadership to advocate for a research commercialization course, where they can cover topics such as the process of getting a patent submitted to when it is approved, negotiations, what the technology transfer will need from you, and how they can be involved early in the research process in terms of considerations you need when designing experiments so if results are positive they can be taken to the next step more easily. This has been achieved at the University of Nebraska Medical Center (UNMC).
 2. Consider asking your technology transfer office to link with bioscience business programs that offer seminars and webinars where students can earn a certificate after participating.
 3. Consider asking a faculty with significant experience dealing with technology transfer to be on your thesis committee and specifically ask them to provide that perspective regarding the design and implementation of your experiments and extracurriculars available locally and nationally to become more familiar with the technology transfer process.
 4. Many technology transfer offices hire postdocs and so consider talking with them to learn more about the kind of work they do and the internship possibilities during and right after graduate school.
+
+{% include twitter_plug.html %}

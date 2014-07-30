@@ -28,3 +28,5 @@ You need three people:
 *Email [Brandy Nagel](mailto:brandy.nagel@venturelab.gatech.edu) to learn more.*
 
 **More updates soon!**
+
+{% include twitter_plug.html %}

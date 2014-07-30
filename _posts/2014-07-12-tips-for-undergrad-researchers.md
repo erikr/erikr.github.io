@@ -69,3 +69,5 @@ title: Tips for new undergraduate researchers
 	* Regardless, carefully look around you and learn from both victories and defeats of others.
 * People will make suggestions, and do things that you may find sub-optimal. So test those theories instead of blindly following advice that may be bad.
 * PIs have earned the right to give advice because they have years of experience. It doesn’t make it correct though. I know some thoughtless PIs who are very inefficient. I also know incredible faculty who nobody else can emulate. Appreciate the range.
+
+{% include twitter_plug.html %}

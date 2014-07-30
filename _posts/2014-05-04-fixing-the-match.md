@@ -35,3 +35,5 @@ Of this population, do they end up leaving the profession prematurely?  Are thei
 These issues suggest profoundly important topics of research. If we can’t find the results of these studies today online, they need to be done soon. To motivate change in policy, we need data.
 
 This topic demands insight from thinkers who possess a rigorous understanding of behavioral economics, finance, and systems engineering. But I also think it demands attention from everyone else, especially from rising young physicians who will inherit positions of authority, and the responsibility to enact meaningful change more than any other stakeholder.
+
+{% include twitter_plug.html %}

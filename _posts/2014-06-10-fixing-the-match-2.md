@@ -22,3 +22,5 @@ I think we both agree there exist several domains that are not captured in exam 
 The original article by <a href="https://twitter.com/amyfaithho" target="_blank">@amyfaithho</a> which spurred this interesting conversation can be found [here](http://www.forbes.com/sites/theapothecary/2014/04/15/how-a-nobel-economist-ruined-the-residency-matching-system-for-newly-minted-m-d-s/).
 
 *What do you think about the residency match process? How can we make it better? Tweet / blog about it!*
+
+{% include twitter_plug.html %}
