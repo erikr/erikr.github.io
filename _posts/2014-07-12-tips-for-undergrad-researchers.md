@@ -3,7 +3,7 @@ layout: post
 title: Tips for new undergraduate researchers
 ---
 
-###General things to think about before looking for a lab:
+###General things to think about:
 ---
 * You aren't selling your soul. Try it out and see if you enjoy the endeavor upon which academia is built.
 * Do not expect to get paid in $
