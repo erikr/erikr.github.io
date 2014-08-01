@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://m3xm.github.io"
 
 markdown: rdiscount
-permalink: :year/:month/:title.html
+permalink: :title
 pygments: true
 
 # Google Analytics
