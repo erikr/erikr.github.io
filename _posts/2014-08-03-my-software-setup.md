@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software & Productivity Setup
+title: My hardware and software setup
 ---
 
 I am new to the magical world of Terminal / UNIX, software development, web design, etc. There are so many resources it can be hard to know where  to start. I will document my setup, resources, and journey. Hopefully you find this useful!
@@ -18,25 +18,23 @@ I am new to the magical world of Terminal / UNIX, software development, web desi
 * **Pro tip from [mattmight](http://www.twitter.com/mattmight):** Buy multiple laptop chargers. Leave one at your office, one at home, etc. It is convenient if you are on the go with your machine, and can actually [make economic sense](blog link).
 
 ##Terminal tools:
-
-Terminal is Mac OS X's something...
 * [TotalTerminal](http://totalterminal.binaryage.com/): TotalTerminal is a great plugin for Terminal.app. When I press caps + apple + c, a full-screen Terminal pops up. Thanks, [@jgmalcolm](http://www.twitter.com/jgmalcolm)!
 * [IR_Blank](http://toddwerth.com/2008/01/25/a-black-os-x-leopard-terminal-theme-that-is-actually-readable/): a black OS X terminal theme with colors to improve readability.
 * [Solarized](http://ethanschoonover.com/solarized): a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. Courtesy of [@yapatel525](http://www.twitter.com/yapatel525).
 * [Shell interface modifications](github.com/jgmalcolm): Aligns terminal output in readable columns, as well as nice colors. Thanks, [@jgmalcolm](http://www.twitter.com/jgmalcolm)!
 
 ##Text editors:
-* [Atom](http://atom.io): I use Solarized Dark (see above) because I find it easier on the eyes.
+* [Atom](http://atom.io): "A hackable text editor for the 21st Century", built by the talented wizards at GitHub. I like the tabs and customizability. I use Solarized Dark (see above) because I find it easier on the eyes.
 
 ##File uploading & collaborative programming:
-* [CyberDuck](www.google.com): for FTP and WEBDav
-* [GitHub](): You can use either the terminal or the desktop app.
+* [CyberDuck](https://cyberduck.io/?l=en): for FTP and WEBDav
+* [GitHub](github.com): You can use either the terminal or the desktop app. If you [register with a .edu email address](https://education.github.com/), you can get a free upgrade to an academic account which enables private repos for collaborating.
 
 ##Note-taking, Scheduling, & Email:
-* [EverNote](www.google.com): Saves notes to the cloud, syncs between all my devices, and lets me drop almost any document or picture in a note. I have folders for research, startup work, and medicine, with project subfolders within.
-* [Reminders](www.google.com): If I need to do something later, and cannot do it immediately, I add it to Reminders, which nicely syncs between all my devices.
-* [Sunrise Calendar](www.google.com): I like this more than Google Calendar or Calendar.app for OS X because it feels more responsive, adds icons based on meeting key words ("dinner" has a little fork, knife, and plate), and adds pictures of the other people on your calendar events. Free for OS X and iOS.
-* [Mailbox (only for iOS)](www.google.com): I love this app for several reasons. Mailbox has a nice design. If you sign up, you get free Dropbox space. It lets you boomerang emails to handle later. A clean inbox (even with emails incoming later) is great for OCD people. If you achieve inbox 0, you get to see a nice picture! Finally, it only handles Gmail and iCloud. This helps me because I really dislike using my Exchange and Georgia Tech email. Because I prioritize my Gmail, users who contact my other email addresses receive negative feedback of delayed responses. That, plus replying to all emails from my Gmail account, plus a request to send future correspondence to Gmail, helps reduce unwanted emails to my other accounts.
+* [EverNote](https://evernote.com/): Saves notes to the cloud, syncs between all my devices, and lets me drop almost any document or picture in a note. I have folders for research, startup work, and medicine, with project subfolders within.
+* [Reminders](http://support.apple.com/kb/HT4970): If I need to do something later, and cannot do it immediately, I add it to Reminders, which nicely syncs between all my devices.
+* [Sunrise Calendar](http://sunrise.am): I like this more than Google Calendar or Calendar.app for OS X because it feels more responsive, adds icons based on meeting key words ("dinner" has a little fork, knife, and plate), and adds pictures of the other people on your calendar events. Free for OS X and iOS.
+* [Mailbox (only for iOS)](http://www.mailboxapp.com/): I love this app for several reasons. Mailbox has a nice design. If you sign up, you get free Dropbox space. It lets you boomerang emails to handle later. A clean inbox (even with emails incoming later) is great for OCD people. If you achieve inbox 0, you get to see a nice picture! Finally, it only handles Gmail and iCloud. This helps me because I really dislike using my Exchange and Georgia Tech email. Because I prioritize my Gmail, users who contact my other email addresses receive negative feedback of delayed responses. That, plus replying to all emails from my Gmail account, plus a request to send future correspondence to Gmail, helps reduce unwanted emails to my other accounts.
 
 ##PDF management
-* [Mendeley](www.google.com):
+* [Mendeley](http://mendeley.com/): Mendeley is a free reference manager and academic social network. Make your own fully-searchable library in seconds, cite as you write, and read and annotate your PDFs on any device.
