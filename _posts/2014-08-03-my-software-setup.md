@@ -17,7 +17,7 @@ I am new to the magical world of Terminal / UNIX, software development, web desi
 + [iPad Mini Retina](https://www.apple.com/ipad-mini/): This lets me quickly sketch concepts using []() and send image files. It is also a great PDF reader when I ride the shuttle between Emory & Tech, fly on the plane, or just want to read outside of my office. I wish I got 32GB memory though. 16GB fills up fast with lots of apps.
 + [Dell UltraSharp 2408WFP 24" monitor](http://www.cnet.com/products/dell-ultrasharp-2408wfp/): Having at least one large external display is essential for the technical academic: helps productive coding, manuscript writing, reading, etc.
 
-Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop chargers. Leave one at your office, one at home, etc. It is convenient if you are on the go with your machine. Oh, it can actually [make economic sense](http://matt.might.net/articles/artificial-scarcity/) if the cost of packing up your charger exceeds the cost of buying another one.
+Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop chargers. Leave one at your office, one at home, etc. It can actually [make economic sense](http://matt.might.net/articles/artificial-scarcity/) if the cost of packing up your charger exceeds the cost of buying another one.
 
 ##Terminal tools & modifications:
 + [TotalTerminal](http://totalterminal.binaryage.com/): TotalTerminal is a great plugin for Terminal.app. When I press caps + apple + c, a full-screen Terminal pops up. Thanks, [@jgmalcolm](http://www.twitter.com/jgmalcolm)!
