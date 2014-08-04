@@ -8,7 +8,7 @@ I am new to the magical world of Terminal / UNIX, software development, web desi
 ---
 
 ##Hardware:
-*I think tools you use all day & every day are worth paying top dollar. Great tools make your work joyful. Apple products do this for me, although they cost a lot of money.*
+*I think quality tools you use all day, every day are worth every dollar. Great tools make your work joyful. Apple products do this for me, although they cost a lot of money.*
 
 + [15" Macbook Pro with Retina Display (2012) - $1450](http://totalterminal.binaryage.com/): I purchased a lightly used baseline MBPr for $1450 off eBay - by far the best laptop I ever used. The MBPr has a great balance of portability, computing power, and display awesomeness. However, the battery life is sub-par. Later this year, Apple may be releasing a 12" Macbook Air with Retina, which will be a more ideal laptop for my needs. I installed the OS X Yosemite Public Beta (maybe unwise to do on one's primary machine), but so far so good.
 + [Keyboard cover - $10](http://totalterminal.binaryage.com/): this washable cover prevents your keyboard from getting smudged over time.
