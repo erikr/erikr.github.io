@@ -1,15 +1,15 @@
 name: "Erik Reinertsen"
-description: "a blog"
+description: ""
 
 author: "Erik Reinertsen"
 baseurl: ""
 
-url: "http://m3xm.github.io"
+url: "http://erikreinertsen.com"
 
 markdown: rdiscount
 permalink: :title
 pygments: true
 
 # Google Analytics
-ga_domain: m3xm.github.io
+ga_domain: erikreinertsen.com
 ga_tracking_id: UA-47727049-1
