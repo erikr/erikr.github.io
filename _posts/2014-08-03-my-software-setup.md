@@ -44,6 +44,7 @@ Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop 
 
 ##The Dream Setup
 > I see now that technology can only nip at the margins of happiness, creativity and productivity relative to the effect of having sharp colleagues, good friends and close family nearby.
-[Professor Matt Might](http://matt.might.usesthis.com/)
+
+via [Professor Matt Might](http://matt.might.usesthis.com/)
 
 This. But I'm still figuring out those other things.
