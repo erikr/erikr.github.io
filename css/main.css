@@ -220,7 +220,7 @@ header .h-wrap .close .lines::after {
 }
 
 #off-canvas #bio p {
-  font-family: 'Lora', serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 160%;
   font-size: 100%;
   margin-bottom: 0;
@@ -313,7 +313,7 @@ section#single-wrap {
   width: 100%;
   max-width: 780px;
   margin: 20px auto;
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Open Sans', sans-serif;
   background: #fff;
   z-index: 1;
 }
