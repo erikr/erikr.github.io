@@ -8,15 +8,13 @@ I am new to the magical world of Terminal / UNIX, software development, web desi
 ---
 
 ##Hardware:
-*I think quality tools you use all day, every day are worth every dollar. Great tools make your work joyful. Apple products do this for me, although they cost a lot of money.*
-
+I think quality tools you use all day, every day are worth every dollar. Great tools make your work joyful. Apple products do this for me, although they cost a lot of money.
 + [15" Macbook Pro Retina](http://www.apple.com/macbook-pro/): I purchased a lightly used 2012 MBPr for $1450 off eBay. This was the best money I ever spent. The MBPr has a great balance of portability, computing power, and display awesomeness. However, the battery life is sub-par. Later this year, Apple may be releasing a 12" Macbook Air with Retina, which will be a more ideal laptop for my needs. I installed the OS X Yosemite Public Beta (maybe unwise to do on one's primary machine), but so far so good.
 + [Keyboard cover - $10](http://www.amazon.com/gp/product/B007FL6100/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1): this washable cover prevents your keyboard from getting smudged over time.
 + [Incase Sling Sleeve Deluxe](http://goincase.com/shop/incase-sling-sleeve-deluxe-for-macbook-pro-15): carries just what I need (MBPr, iPad, moleskine notebook, pens, papers) in a slim form factor. I would not buy a bigger or smaller bag. The material is not high-end, but neither is the price.
 + [iPhone 5S](https://www.apple.com/iphone-5s/): I went iOS over Android due to the superior medical app ecosystem, and prevalence of iMessage among my friends. Plus, I really like the aesthetics of iOS 7, and app integration with OS X. This will only improve with OS X Yosemite.
 + [iPad Mini Retina](https://www.apple.com/ipad-mini/): This lets me quickly sketch concepts using []() and send image files. It is also a great PDF reader when I ride the shuttle between Emory & Tech, fly on the plane, or just want to read outside of my office. I wish I got 32GB memory though. 16GB fills up fast with lots of apps.
 + [Dell UltraSharp 2408WFP 24" monitor](http://www.cnet.com/products/dell-ultrasharp-2408wfp/): Having at least one large external display is essential for the technical academic: helps productive coding, manuscript writing, reading, etc.
-
 Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop chargers. Leave one at your office, one at home, etc. It can actually [make economic sense](http://matt.might.net/articles/artificial-scarcity/) if the cost of packing up your charger exceeds the cost of buying another one.
 
 ##Terminal tools & modifications:
