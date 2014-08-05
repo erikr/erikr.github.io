@@ -221,8 +221,6 @@ header .h-wrap .close .lines::after {
 
 #off-canvas #bio p {
   font-family: 'Open Sans', sans-serif;
-  line-height: 160%;
-  font-size: 100%;
   margin-bottom: 0;
 }
 
@@ -360,7 +358,6 @@ section#single-wrap .feat a.popup {
 
 section#single-wrap h1.page-title {
   font-size: 180%;
-  line-height: 135%;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin: 0 0 60px;
@@ -397,7 +394,6 @@ section#single-wrap h3 { font-size: 130%; font-weight: lighter; }
 section#single-wrap h4 { font-size: 120%; font-weight: lighter; text-decoration: underline; text-align: center; }
 section#single-wrap h5 { font-size: 110%; }
 section#single-wrap h6 { font-size: 100%; }
-section#single-wrap p { line-height: 160%; }
 
 section#single-wrap blockquote {
   font-size: inherit;
@@ -406,7 +402,6 @@ section#single-wrap blockquote {
   border-left: 6px solid #39f;
   padding: 0 34px;
   margin: 40px 0;
-  line-height: 165%;
 }
 
 section#single-wrap blockquote p {
