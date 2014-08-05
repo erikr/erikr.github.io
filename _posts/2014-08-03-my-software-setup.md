@@ -9,6 +9,7 @@ I am new to the magical world of Terminal / UNIX, software development, web desi
 
 ##Hardware:
 I think quality tools you use all day, every day are worth every dollar. Great tools make your work joyful. Apple products do this for me, although they cost a lot of money.
+
 + [15" Macbook Pro Retina](http://www.apple.com/macbook-pro/): I purchased a lightly used 2012 MBPr for $1450 off eBay. This was the best money I ever spent. The MBPr has a great balance of portability, computing power, and display awesomeness. However, the battery life is sub-par. Later this year, Apple may be releasing a 12" Macbook Air with Retina, which will be a more ideal laptop for my needs. I installed the OS X Yosemite Public Beta (maybe unwise to do on one's primary machine), but so far so good.
 + [Keyboard cover - $10](http://www.amazon.com/gp/product/B007FL6100/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1): this washable cover prevents your keyboard from getting smudged over time.
 + [Incase Sling Sleeve Deluxe](http://goincase.com/shop/incase-sling-sleeve-deluxe-for-macbook-pro-15): carries just what I need (MBPr, iPad, moleskine notebook, pens, papers) in a slim form factor. I would not buy a bigger or smaller bag. The material is not high-end, but neither is the price.
