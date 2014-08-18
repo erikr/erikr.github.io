@@ -20,9 +20,16 @@ Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop 
 
 ##Terminal tools & modifications:
 + [TotalTerminal](http://totalterminal.binaryage.com/): TotalTerminal is a great plugin for Terminal.app. When I press caps + apple + c, a full-screen Terminal pops up. Thanks, [@jgmalcolm](http://www.twitter.com/jgmalcolm)!
-+ [IR_Blank](http://toddwerth.com/2008/01/25/a-black-os-x-leopard-terminal-theme-that-is-actually-readable/): a black OS X terminal theme with colors to improve readability.
 + [Solarized](http://ethanschoonover.com/solarized): a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. Courtesy of [@yapatel525](http://www.twitter.com/yapatel525).
-+ [Shell interface modifications](https://github.com/jgmalcolm/config): Aligns terminal output in readable columns, as well as nice colors. Thanks, [@jgmalcolm](http://www.twitter.com/jgmalcolm)!
++ [Shell interface modifications](https://github.com/jgmalcolm/config): Aligns terminal output in readable columns, as well as nice colors. Here are steps to set this up via Terminal, courtesy of [@jgmalcolm](http://www.twitter.com/jgmalcolm).
+
+```
+$ mkdir repos
+$ cd repos
+$ git clone git://github.com/jgmalcolm/config.git && cd config && ./update
+$ source ~/.bashrc
+```
+Your terminal should now be aligned and nicely colored!
 
 ##Text editors:
 + [Atom](http://atom.io): "A hackable text editor for the 21st Century", built by the talented wizards at GitHub. I like the tabs and customizability. I use Solarized Dark (see above) because I find it easier on the eyes.
