@@ -21,9 +21,8 @@ Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop 
 ##Terminal tools & modifications:
 + [TotalTerminal](http://totalterminal.binaryage.com/): TotalTerminal is a great plugin for Terminal.app. Make a full-screen Terminal pop up with a custom hotkey combo.
 + [Solarized](http://ethanschoonover.com/solarized): a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.
-+ [Pimp your Terminal](https://github.com/jgmalcolm/config): Aligns terminal output in readable columns, as well as nice colors.
 
-Set this up via Terminal:
+Pimp your terminal using [@jgmalcolm's](http://www.twitter.com/jgmalcolm) config files. This will align text in readable columns, and add color. Open Terminal and enter these commands:
 
 ```
 $ mkdir repos
@@ -31,10 +30,9 @@ $ cd repos
 $ git clone git://github.com/jgmalcolm/config.git && cd config && ./update
 $ source ~/.bashrc
 ```
-Your terminal should now be aligned and nicely colored! Thanks, [@jgmalcolm](http://www.twitter.com/jgmalcolm).
 
 ##Text editors:
-+ [Atom](http://atom.io): "A hackable text editor for the 21st Century", built by the talented wizards at GitHub. I like the tabs and customizability. I use Solarized Dark (see above) because I find it easier on the eyes.
++ [Atom](http://atom.io): "A hackable text editor for the 21st Century", built by the talented wizards at GitHub. I like the tabs and customizability. Solarized Dark (see above) is easier on my eyes.
 
 ##File uploading & collaborative programming:
 + [CyberDuck](https://cyberduck.io/?l=en): for FTP and WEBDav
@@ -49,10 +47,3 @@ Your terminal should now be aligned and nicely colored! Thanks, [@jgmalcolm](htt
 
 ##PDF management
 + [Mendeley](http://mendeley.com/): Mendeley is a free reference manager and academic social network. Make your own fully-searchable library in seconds, cite as you write, and read and annotate your PDFs on any device.
-
-##The Dream Setup
-> I see now that technology can only nip at the margins of happiness, creativity and productivity relative to the effect of having sharp colleagues, good friends and close family nearby.
-
-via [Professor Matt Might](http://matt.might.usesthis.com/)
-
-Wisdom. But I'm still figuring out which colleagues are sharp and which friends are good.
