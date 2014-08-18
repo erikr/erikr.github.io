@@ -6,7 +6,7 @@ baseurl: ""
 
 url: "http://erikreinertsen.com"
 
-markdown: rdiscount
+markdown: kramdown
 permalink: :title
 pygments: true
 
