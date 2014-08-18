@@ -22,14 +22,15 @@ Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop 
 + [TotalTerminal](http://totalterminal.binaryage.com/): TotalTerminal is a great plugin for Terminal.app. Make a full-screen Terminal pop up with a custom hotkey combo.
 + [Solarized](http://ethanschoonover.com/solarized): a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.
 
-Pimp your terminal using [@jgmalcolm's](http://www.twitter.com/jgmalcolm) config files. This will align text in readable columns, and add color. Open Terminal and enter these commands:
+Pimp your terminal using [@jgmalcolm's](http://www.twitter.com/jgmalcolm) config files. This will align text in readable columns, and add color. Open Terminal, cd into your *repos* folder (you need GitHub installed), and enter these commands:
 
 ```
-$ mkdir repos
-$ cd repos
-$ git clone git://github.com/jgmalcolm/config.git && cd config && ./update
+$ git clone git://github.com/jgmalcolm/config.git
+$ cd config
+$ ./update
 $ source ~/.bashrc
 ```
+Finally, go to *gitconfig* in the newly created *config* folder and edit James' [user] name and email to your own.
 
 ##Text editors:
 + [Atom](http://atom.io): "A hackable text editor for the 21st Century", built by the talented wizards at GitHub. I like the tabs and customizability. Solarized Dark (see above) is easier on my eyes.
