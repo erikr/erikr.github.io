@@ -24,12 +24,10 @@ Pro tip from [mattmight](http://www.twitter.com/mattmight): Buy multiple laptop 
 
 Pimp your terminal using [@jgmalcolm's](http://www.twitter.com/jgmalcolm) config files. This will align text in readable columns, and add color. Open Terminal, cd into your *repos* folder (you need GitHub installed), and enter these commands:
 
-```
     $ git clone git://github.com/jgmalcolm/config.git
     $ cd config
     $ ./update
     $ source ~/.bashrc
-```
 
 Finally, go to *gitconfig* in the newly created *config* folder and edit James' [user] name and email to your own.
 
