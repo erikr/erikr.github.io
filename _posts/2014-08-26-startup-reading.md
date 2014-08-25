@@ -3,9 +3,7 @@ layout: post
 title: Startup reading
 ---
 
-Want to learn more about startups? Here are recommended books, blogs, and Twitter feeds.
-
-I do not claim to be an entrepreneur. Reading does not make you a founder, much less a good one. But I like to read and learn, and want to share some interesting things you can check out.
+Reading does not make you a founder, much less a good one. But I like to read and learn, and want to share some books, blogs, and Twitter feeds that talk about startups and/or healthcare entrepreneurship.
 
 ##Books
 
