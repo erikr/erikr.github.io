@@ -3,11 +3,9 @@ layout: post
 title: Startup reading
 ---
 
-Want to learn more about startups? Here are some recommendations.
+Want to learn more about startups? Here are recommended books, blogs, and Twitter feeds.
 
 I do not claim to be an entrepreneur. Reading does not make you an entrepreneur. But I like to read and learn, and want to share some interesting things you can check out.
-
-Lists are in order of increasing complexity. Items the top of the list are accessible. Items at the bottom of the list are more sophisticated, technical, or abstract.
 
 ##Books
 
