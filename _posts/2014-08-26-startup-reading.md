@@ -5,7 +5,7 @@ title: Startup reading
 
 Want to learn more about startups? Here are recommended books, blogs, and Twitter feeds.
 
-I do not claim to be an entrepreneur. Reading does not make you an entrepreneur. But I like to read and learn, and want to share some interesting things you can check out.
+I do not claim to be an entrepreneur. Reading does not make you a founder, much less a good one. But I like to read and learn, and want to share some interesting things you can check out.
 
 ##Books
 
@@ -21,7 +21,7 @@ I do not claim to be an entrepreneur. Reading does not make you an entrepreneur.
 
 ##Blogs
 
-[Flashpoint blog](http://flashpoint.gatech.edu/blog/): FlashPoint is the coolest accelerator in Atlanta. Well, they aren't exactly an accelerator. They teach you how to look at the world with much more clarity, drawing on some work by Daniel Kahneman and other experts in behavioral decision theory, economics, and psychology. It is very hard to describe, but I shadowed a Flashpoint cohort and think their process is on a much higher level of sophistication and insight compared to other typical accelerators.
+[Flashpoint blog](http://flashpoint.gatech.edu/blog/): FlashPoint is the coolest startup accelerator. Merrick let me shadow through their last batch, and I learned a lot. Actually, Flashpoint is not exactly an accelerator. They teach you how to look at the world with much more clarity, drawing on some work by Daniel Kahneman and other experts in behavioral decision theory, economics, and psychology. It is very hard to describe, but I think the process Merrick and his colleagues are developing is more sophisticated and insightful compared to anything else in the field.
 
 [Paul Graham's essays](http://www.paulgraham.com/articles.html): He is is a programmer, venture capitalist, and essayist. Notably, he co-founded Y Combinator.
 
