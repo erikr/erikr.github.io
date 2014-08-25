@@ -3,7 +3,7 @@ layout: post
 title: Startup reading
 ---
 
-Reading does not make you a founder, much less a good one. But I like to read and learn, and want to share some books, blogs, and Twitter feeds that talk about startups and/or healthcare entrepreneurship.
+Reading does not make you a founder, much less a good one. But I like to read and learn. Here are some books, blogs, and Twitter feeds that talk about startups and/or healthcare entrepreneurship.
 
 ##Books
 
