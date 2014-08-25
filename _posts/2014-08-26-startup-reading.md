@@ -21,6 +21,8 @@ I do not claim to be an entrepreneur. Reading does not make you an entrepreneur.
 
 ##Blogs
 
+[Flashpoint blog](http://flashpoint.gatech.edu/blog/): FlashPoint is the coolest accelerator in Atlanta. Well, they aren't exactly an accelerator. They teach you how to look at the world with much more clarity, drawing on some work by Daniel Kahneman and other experts in behavioral decision theory, economics, and psychology. It is very hard to describe, but I shadowed a Flashpoint cohort and think their process is on a much higher level of sophistication and insight compared to other typical accelerators.
+
 [Paul Graham's essays](http://www.paulgraham.com/articles.html): He is is a programmer, venture capitalist, and essayist. Notably, he co-founded Y Combinator.
 
 [Bioentrepreneur](http://www.nature.com/bioent/index.html): This portal, hosted by Nature Biotechnology, is for scientists interested in commercializing their research. It is obviously industry-academia / biotech-focused, but recently they have covered startups more.
