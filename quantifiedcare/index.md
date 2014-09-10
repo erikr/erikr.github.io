@@ -13,11 +13,12 @@ Some colleagues and I work on mHealth technology. Some of us have significant ex
 2. Culture change
 3. Technical & clinical hurdles
 
-> **Thoughts on feedback:** Accept criticism and revise the product. Don't waste time responding to the post, tweet, or email. Fixing the problem that raised the criticism beats winning an online argument.
+**Thoughts on feedback:** Accept criticism and revise the product. Don't waste time responding to the post, tweet, or email. Fixing the problem that raised the criticism beats winning an online argument.
 
-> **We mean well with our criticism:** This is intended to be constructive, positive, and respectful. We respect the herculean effort required to launch a startup, and wish the founders much success.
+**We mean well with our criticism:** This is intended to be constructive, positive, and respectful. We respect the herculean effort required to launch a startup, and wish the founders much success.
 
 ----------
+
 ### Business model
 
 At first glance, QC appears to be a storefront, or warehouse distributor for mHealth devices. If so, they should act like a distributor and find partner hospitals or mobile care units who are willing to beta test new devices in a real healthcare system. If one small clinic at Hopkins does so, runs a trial, and reports improved care and lowered costs, QC would have leverage to expand.
@@ -33,6 +34,7 @@ Who is the customer? MDs? What type of MD? Mid-level providers? Empowered patien
 What is the target market? Early adopters who already believe in these devices and want to find the best ones, or all doctors, even those who are mid- and late-adopters? If it is the latter, pure product won't do it. Education and training are also important.
 
 ----------
+
 ### Culture change
 
 How ambitious will QC be in the bigger picture of mHealth and quantified medicine? Technology adoption will not be enabled by one company or organization. It will come as a result of a cultural shift. mHealth and QC devices must evolve from being "nice to haves", or "fancy" to "essential" for the practice of good medicine.
@@ -50,6 +52,7 @@ They need partnerships (the Bill and Melindas of the medtech world), there need 
 One such idea: an excellent offering, in my opinion, that will ease transition to mHealth technologies and simultaneously draw in the user, is a free-to-use, integrated platform, that centralizes all the user's patient data drawn from these devices and apps, monitors it, and provides a dashboard. If this could integrate with EMRs, I think there is a winner. There is a parallel trend in education with LMSs (Learning Management Systems, essentially the electronic medical records of the education world), which every school now needs, and the biggest selling point is: which and how many apps does your LMS integrate with? In fact, the biggest startup in education right now (Clever, IK12 '12 and YC '13), is solving that problem and that problem alone: they build APIs to get app X's data into LMS Y's system. That's all they do. Perhaps that information management angle is another angle to consider in the ecosystem of mHealth adoption.
 
 ----------
+
 ### Marketing
 
 QC is doing a good job avoiding the cliché of "just another fitness wearables" startup. I like "serious" mHealth that focuses on improving clinical care, not just new fitbits.
@@ -67,6 +70,7 @@ Generally I think the value prop of each product needs to be fleshed out, and th
 If the products are to be sold in a system, I'd like to see information and examples of how they are integrated and managed, and case studies of how others have used them. If doctors are anything like teachers, this will help.
 
 ----------
+
 ### Technical & clinical hurdles
 
 The QC home page and store both do not focus on the strongest selling point of all digital health technology: data management.
@@ -78,11 +82,9 @@ Data management is software, not hardware. But mHealth hardware is useless witho
 Frontend tech faces more subtle challenges. How skilled is the user? Just because they are an attending physician, doesn't mean s/he knows how to use all the equipment properly. This may seem silly because the app walks the user through each step, and the device is straightforward. But insufficient user proficiency is actually a challenge in the field of mobile health technology.
 
 ----------
+
 ### Aside comparing edtech to medtech
 
 We face many of the same issues in education. With the recent edtech boom, there have been mass moves to make new tech / training available to all schools, not just the well-resourced ones. Grants, foundations, and partnerships with community organizations and hardware manufacturers are all essential for massive distribution.
 
 Are there grants available to hospitals, practitioners, or healthcare management orgs in rural and urban areas to staff this technology? Gates as well as many private firms sponsor these in edu. Further, are there discounts available for purchase in bulk? Apple, Google, and Microsoft all do this for iPads, Chromebooks, and tablets respectively. On occasion, teachers even band together (as part of an org) to purchase and get the discount. Could there be a similar effort for group practices? If so, that should be marketed.
-
-----------
-*Props to QC on this initial effort. I hope they continue to build, measure, and learn. -Erik et al.*
