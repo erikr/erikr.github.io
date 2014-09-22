@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Fishbone wallpaper for iPhone 5
 ---
 

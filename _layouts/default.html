@@ -1,75 +1,89 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-{% include google_analytics.html %}
+<html>
   <head>
-      <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta http-equiv="content-language" content="en-gb" />
-      <meta name="description" content="Fluid, responsive blog theme for Jekyll.">
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css" />
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/syntax.css" />
-      <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% if page.author %}
+      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+    {% endif %}
+    {% include open-graph.html %}
+    {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
+    <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
+    <link href="{{ site.url }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <style>
+    .sliding-menu-content {
+      top: 0;
+      right: 0;
+      text-align: center;
+      visibility: hidden;
+      height: 100%;
+      width: 100%;
+      -webkit-transform: translateX(100%);
+      -moz-transform: translateX(100%);
+      -ms-transform: translateX(100%);
+      -o-transform: translateX(100%);
+      transform: translateX(100%);
+    }
+    </style>
+
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
+      <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
   </head>
 
   <body>
-    <!--[if lt IE 7]>
-        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-    <![endif]-->
+    {% include header.html %}
+    {% include navigation-sliding.html %}
 
-    <div id="off-canvas">
-      <div id="avatar">
-        <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Profile Picture" title="wow, very face, such photograph, wow">
-      </div>
-      <div id="bio">
-          <h1>Hello!</h1>
-          <p>I'm an MD-PhD student at Emory & Georgia Tech. Right now, I:<br><br>
-          + work on clinical informatics under <a href="http://gdclifford.info/gari" target="_blank">Professor Gari Clifford</a>.<br>
-          + study <a href="http://www.bme.gatech.edu/research/system.shtml" target="_blank">biosystems, signal processing, & data science</a>.<br>
-          + manage <a href="http://forgeatl.com" target="_blank">Forge</a>, Atlanta's healthcare startup community.<br>
-          + help run an elective course on <a href="https://docs.google.com/document/d/1ir09RVo8xeuBltDeATvJWjpzTf8EDUDHjj5QUPDtKrE/edit?usp=sharing" target="_blank">innovation & entrepreneurship</a>.<br>
+    <div id="page-wrapper">
+      {% include browser-upgrade.html %}
 
-          <br>
-          <a href="https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf" target="_blank">CV</a> |
-          <a href="http://www.twitter.com/ereinerts" target="_blank">@ereinerts</a> |
-          <a>ereinerts [at] gmail [dot] com</a>
-          </p>
-      </div>
+      {{ content }}
+
+      {% include footer.html %}
     </div>
 
-    <header>
-      <div class="h-wrap">
-        <h1 class="title"><a href="/" title="Back to Homepage">{{ site.name }}</a></h1>
-        <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
-      </div>
-    </header>
-
-    <main>
-      {{ content }}
-    </main>
-
-    <footer>
-      <small>Powered by Jekyll - Theme: <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a> - &copy; {{ site.author }}</small>
-    </footer>
-
-    <script src="{{ site.baseurl }}/js/main.js"></script>
-    {% comment %} Google Analytics {% endcomment %}
-    {% if site.ga_tracking_id and site.ga_domain %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.ga_tracking_id }}', '{{ site.ga_domain }}');
-        ga('send', 'pageview');
-      </script>
+    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
+    
+    {% if page.toc == true %}
+    <script type="text/javascript">
+      $('.toc').toc({
+        'selectors': 'h2', //elements to use as headings
+        'container': '.page-content', //element to find all selectors in
+        'smoothScrolling': true, //enable or disable smooth scrolling on click
+        'prefix': 'toc', //prefix for anchor tags and class names
+        'onHighlight': function(el) {}, //called when a new section is highlighted 
+        'highlightOnScroll': true, //add class to heading that is currently in focus
+        'highlightOffset': 100, //offset to trigger the next headline
+        'anchorName': function(i, heading, prefix) { //custom function for anchor name
+          return prefix+i;
+        },
+        'headerText': function(i, heading, $heading) { //custom function building the header-item text
+          return $heading.text();
+        },
+        'itemClass': function(i, heading, $heading, prefix) { //custom function for item class
+          return $heading[0].tagName.toLowerCase();
+        }
+      });
+    </script>
     {% endif %}
 
   </body>
+
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 38 seminal papers in data science
 ---
 

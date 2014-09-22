@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Planning fallacy
 ---
 
@@ -20,5 +20,3 @@ title: Planning fallacy
 3. Adjust the prediction based on the specifics of our case (several experienced event planners in Atlanta told me to expect cost overruns above what we calculated)
 
 As planning progressed, our budget rose to $50,000, or 2.5x our original estimate. But things are looking good. We are incredibly excited to host this Hackathon, and the learning experience has been invaluable.
-
-{% include twitter_plug.html %}

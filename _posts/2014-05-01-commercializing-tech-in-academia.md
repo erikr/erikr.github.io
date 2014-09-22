@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: How to commercialize technology in academia
 ---
 
@@ -25,5 +25,3 @@ Student Thoughts:
 2. Consider asking your technology transfer office to link with bioscience business programs that offer seminars and webinars where students can earn a certificate after participating.
 3. Consider asking a faculty with significant experience dealing with technology transfer to be on your thesis committee and specifically ask them to provide that perspective regarding the design and implementation of your experiments and extracurriculars available locally and nationally to become more familiar with the technology transfer process.
 4. Many technology transfer offices hire postdocs and so consider talking with them to learn more about the kind of work they do and the internship possibilities during and right after graduate school.
-
-{% include twitter_plug.html %}

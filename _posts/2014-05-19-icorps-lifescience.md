@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Announcing the 1st Life Sciences I-Corps Program at GaTech
 ---
 
@@ -26,7 +26,3 @@ You need three people:
 3. Business mentor
 
 *Email [Brandy Nagel](mailto:brandy.nagel@venturelab.gatech.edu) to learn more.*
-
-**More updates soon!**
-
-{% include twitter_plug.html %}

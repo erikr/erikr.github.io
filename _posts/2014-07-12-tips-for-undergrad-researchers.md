@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Tips for new undergraduate researchers
 ---
 
@@ -63,6 +63,3 @@ title: Tips for new undergraduate researchers
 * Be a great single-tasker. You will be inefficient if you multi-task. If you are distracted and make mistakes at the bench, it could cost you hours to repeat the experiment (or months if you ruin rare samples).
 * People will make suggestions, and do things that you may find sub-optimal. Test those theories instead of blindly following advice that may be bad.
 * PIs have earned the right to give advice because they have years of experience. It doesn’t make it correct though. I know thoughtless PIs who are inefficient and not very successful. I also know incredible faculty. Appreciate the range.
-
----
-{% include twitter_plug.html %}

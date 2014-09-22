@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: My hardware and software setup
 ---
 

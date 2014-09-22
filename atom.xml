@@ -1,27 +1,42 @@
 ---
+limit: 25
 ---
-
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ site.name }}</title>
-  <id>{{ site.url }}</id>
-  <link href="{{ site.url }}" />
-  <link href="{{ site.url }}/atom.xml" rel="self" />
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <rights>Copyright 2014, {{ site.author }}</rights>
-  <author>
-    <name>{{ site.author }}</name>
-  </author>
-  {% for post in site.posts %}
+{% if site.url %}
+    {% assign base = site.url %}
+{% elsif site.github.url %}
+    {% assign base = site.github.url %}
+{% endif %}
+    <title>{{ site.title }}</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v{{ jekyll.version }}</generator>
+		<icon>{{ site.url }}/apple-touch-icon-precomposed.png</icon>
+    <subtitle>{{ site.description }}</subtitle>
+    <link href="{{ base }}{{ page.url }}" rel="self"/>
+    <link href="{{ base }}/" rel="alternate" type="text/html"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{ base }}/</id>
+    <author>
+			<name>{{ site.owner.name | xml_escape }}</name>
+			<uri>{{ site.url }}/</uri>
+			{% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
+		</author>
+
+    {% for post in site.posts limit: page.limit %}
     <entry>
-      <title>{{ post.title | xml_escape }}</title>
-      <link href="{{ site.url }}{{ post.url }}" />
-      <summary type="html">{{ post.content | xml_escape }}</summary>
-      <id>{{ site.url }}{{ post.url }}</id>
-      <updated>{{ post.date | date_to_xmlschema }}</updated>
-      <author>
-        <name>{{ site.author }}</name>
-      </author>
+        <title>{{ post.title | xml_escape }}</title>
+        <link href="{{ base }}{{ post.url }}"/>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <id>{{ base }}{{ post.id }}</id>
+        <author>
+					<name>{{ site.owner.name | xml_escape }}</name>
+					<uri>{{ site.url }}/</uri>
+					{% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
+				</author>
+        <content type="html">
+        	{% if post.image.feature %}&lt;img src=&quot;{{ site.url }}/images/{{ post.image.feature }}&quot;&gt;&lt;br/&gt;{% endif %}
+        	{{ post.content | xml_escape }}
+        </content>
     </entry>
-  {% endfor %}
+    {% endfor %}
 </feed>

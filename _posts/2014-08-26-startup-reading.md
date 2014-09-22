@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: article
 title: Startup reading
 ---
-
-Reading is not a substitute for experience, and conceptual knowledge does not make you a successful founder. But learning more can help, and at least be interesting.
 
 Here are some books, blogs, and Twitter feeds that talk about startups and/or healthcare entrepreneurship.
 

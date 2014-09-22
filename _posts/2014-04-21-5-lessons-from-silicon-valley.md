@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Five lessons from Silicon Valley for academic medicine
 ---
 
@@ -40,5 +40,3 @@ This year, we have contributed to Atlanta's innovation culture by hosting hackat
 
 * Tecco, H. 2013 Digital Health Funding Report. Rock Health 2013.
 * Harris, J. G. & Junglas, I. Decoding the Contradictory Culture of Silicon Valley. Accenture 2013.
-
-{% include twitter_plug.html %}

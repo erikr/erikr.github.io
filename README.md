@@ -1,58 +1,16 @@
-# hikari
+# Skinny Bones Jekyll Starter
 
-Hikari is an open-source [Jekyll](http://jekyllrb.com) theme perfect for bloggers and developers who want the best of both worlds: sharing snippets and stories/pictures of their latest vacation in Tokyo (that's just for the example, you may want to go to Kyoto too). 
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
-But Hikari is also:
+I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-- Simple & elegant
-- Fluid, responsive
-- Lightweight (no JS library has been abused during the development of this theme thanks to my buddy [Julien](https://github.com/evarouss))
-- & packed with syntax highlighting for you coders (thanks to Jekyll & Pygments)
+![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
-[View demo](http://m3xm.github.io/hikari-for-Jekyll)
+---
 
+## Notable Features
 
-### How to install
-
-1. Clone this repo
-2. Customize \_config.yml and \_includes/header.html
-3. Publish (with Github Pages, it's free!) :)
-
-
-### Development
-
-- `master` for development and pull requests.
-- `gh-pages` for the demo page; don't bother.
-
-
-#### Running locally
-
-1. Clone this repo
-2. Install required dependencies with [Bundler](http://bundler.io/)
-
-        bundle install
-3. Run the site with Jekyll
-
-        bundle exec jekyll serve --watch
-4. Visit the site at [http://localhost:4000](http://localhost:4000)
-
-
-### Author
-
-**Mathieu Mayer-Mazzoli**
-- <http://m3xm.github.io>
-- <http://twitter.com/mx3m>
-- <http://www.dribbble.com/m3xm>
-
-### Main Contributors
-
-**Ross Allen**
-- <https://github.com/ssorallen>
-
-**Julien Rousseau**
-- <https://github.com/evarouss>
-
-
-### License
-
-Open source. [MIT license](http://opensource.org/licenses/MIT).
+* Stylesheet built using Sass. *Requires Jekyll 2.x*
+* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
+* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* And more.
