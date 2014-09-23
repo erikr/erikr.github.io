@@ -19,4 +19,4 @@ Previously, I worked on biomaterials, nanotechnology, and tissue engineering.<br
 
 [@ereinerts](http://www.twitter.com/ereinerts)
 
-[LinkedIn](www.linkedin.com/in/erikreinertsen/)
+[LinkedIn](http://www.linkedin.com/in/erikreinertsen/)
