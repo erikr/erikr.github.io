@@ -12,7 +12,7 @@ The purpose of this elective course is to expose medical students to topics in i
 
 Advances in technology, such as new vaccines, diagnostics, and therapeutic devices, revolutionize healthcare. Physicians (even trainees) can play important roles in healthcare startups that bring innovations from the bench to the bedside. Although most MDs lack formal opportunities to become technology innovators and/or entrepreneurs, they possess traits helpful for startup founders: intellectual curiosity, a deep desire to solve problems, and leadership.
 
-Healthcare startups deal with regulation, complex financial systems, and a high cost of entry. However, recent breakthroughs in stem cell biology, cloud computing, data science, materials science, and nanotechnology are poised to transform medicine. Furthermore, national healthcare reform has shifted financial incentives and created new market opportunities. Ideally, physicians of the future will be prepared to engage in technology innovation and entrepreneurship as part of the cause to advance patient care. This elective course is merely a tasting menu of a much greater opportunity.
+Healthcare startups deal with regulation, complex financial systems, and a high cost of entry. However, recent breakthroughs in stem cell biology, cloud computing, data science, materials science, and nanotechnology are poised to transform medicine. Furthermore, national healthcare reform has shifted financial incentives and created new market opportunities. Ideally, physicians will be prepared to engage in technology innovation and entrepreneurship as they advance patient care. This elective course is merely a tasting menu of greater opportunities.
 
 ###Learning Objectives
 
