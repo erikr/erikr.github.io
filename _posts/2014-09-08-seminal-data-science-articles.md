@@ -7,6 +7,6 @@ Data Science Central posted [a list of 38 articles every data scientist should r
 
 They cover topics such as random forests, machine learning, database structures, & data mining.
 
-I zipped the PDFs I could find. [Download them here](/assets/files/papers_datascience.zip).
+I zipped the PDFs I could find. [Download them here](/assets/papers_datascience.zip).
 
 Also, none of these papers are focused on big data for healthcare. Once I find some good ones, I will post them.
