@@ -1,4 +1,9 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: About
+  url: /about/
+  image:
+
+- title: IEMed
+  url: /iemed/
+  image:

@@ -1,6 +1,6 @@
 ---
-layout: archive
-permalink: /iemed
+layout: article
+permalink: /iemed/
 title: "IEMed"
 ---
 
