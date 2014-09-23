@@ -5,8 +5,8 @@ description: "Erik's site"
 logo: erik120x120.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://localhost:4000
-# url: http://erikreinertsen.com
+url: http://erikreinertsen.com
+# url: http://localhost:4000
 
 # Jekyll configuration
 
