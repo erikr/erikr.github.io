@@ -1,6 +1,6 @@
 ---
-layout: post
-title: How to improve Quantified Care
+layout: article
+title: Startup feedback - Quantified Care
 ---
 
 [QuantifiedCare](http://www.quantifiedcare.com/) is a new startup from Johns Hopkins University. They are an online store for digital health devices:
