@@ -9,7 +9,7 @@ I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 + work on clinical informatics under [Professor Gari Clifford](http://gdclifford.info/gari)
 + study [systems engineering, signal processing, & data science.](http://www.bme.gatech.edu/research/system.shtml)
 + manage [Forge](http://forgeatl.com), Atlanta's healthcare startup community.
-+ help run a medical school course on [innovation & entrepreneurship](https://docs.google.com/document/d/1ir09RVo8xeuBltDeATvJWjpzTf8EDUDHjj5QUPDtKrE/edit?usp=sharing).
++ help run [innovation & entrepreneurship in medicine](https://docs.google.com/document/d/1ir09RVo8xeuBltDeATvJWjpzTf8EDUDHjj5QUPDtKrE/edit?usp=sharing), a medical school elective course.
 
 I studied Bioengineering with an option in Chemical Engineering at UCLA.<br>
 Previously, I worked on biomaterials, nanotechnology, and tissue engineering.<br>
