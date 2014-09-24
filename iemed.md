@@ -4,7 +4,7 @@ permalink: /iemed/
 title: "IEMed"
 ---
 
-Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. I run this course with Dr. Arun Mohan at Emory University School of Medicine. We meet 1-2 hours a week, from 8/11/14 to 11/14/14.
+Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. I run this course with [Dr. Arun Mohan](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) at Emory University School of Medicine. We meet 1-2 hours a week, from 8/11/14 to 11/14/14.
 
 ###Course Overview
 
