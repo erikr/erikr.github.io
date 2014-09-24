@@ -26,7 +26,8 @@ Healthcare startups deal with regulation, complex financial systems, and a high 
 
 ###Session Schedule
 
-Topic 													 | Speaker 				 	 | LO	| Reading | Date 	   | Time   | Location
+Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 				 	 | LO	| Reading | Date 	   | Time   | Location
+--- | --- |:---:|:---:|:---:|:---:|:---:|
 Overview: innovation in academia | Erik Reinertsen 	 |	1 |	1			  | Mon 8/25 | 3-4 pm | SoM A355
 Startup founder panel 					 | Partha Unnava, Chris Hermann PhD, James Malcolm PhD, Yale Zhang | 7 |		-		| Fri 9/5 | 1-2 pm | SoM A355
 Customer discovery		 					 | Harold Solomon  	 | 2  | 3,4	  	| Tue 9/9 | 2-3 pm | HSRB 160
