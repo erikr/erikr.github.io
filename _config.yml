@@ -21,11 +21,11 @@ gems:
 
 # Site owner
 owner: Erik Reinertsen
-name: Erik
+name: Erik Reinertsen
 email: ereinerts@gmail.com
 twitter: ereinerts
-bio: insert bio here
-avatar: bio-photo.jpg # 160x160 px image for author byline
+bio: hi, i'm erik
+avatar: erik.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
