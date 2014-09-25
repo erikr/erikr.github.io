@@ -8,7 +8,7 @@ Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. 
 
 ###Table of Contents
 
-1. [Course overview](#overview)
+1. [Course Overview](#overview)
 2. [Learning Objectives](#los)
 3. [Schedule](#schedule)
 4. [Calendar](#calendar)
