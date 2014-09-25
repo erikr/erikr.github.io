@@ -28,7 +28,7 @@ Healthcare startups deal with regulation, complex financial systems, and a high 
 
 Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | LO	| Reading | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 --- | --- | --- | --- | --- | --- | --- |
-Overview: innovation in academia | Erik Reinertsen 	 |	1 |	1			  | Mon 8/25 | 3-4 pm | SoM A355
+Innovation in academia 					 | Erik Reinertsen 	 |	1 |	1			  | Mon 8/25 | 3-4 pm | SoM A355
 Startup founder panel 					 | Partha Unnava<br>Chris Hermann PhD<br>James Malcolm PhD<br>Yale Zhang | 7 |		-		| Fri 9/5 | 1-2 pm | SoM A355
 Customer discovery		 					 | Harold Solomon  	 | 2  | 3,4	  	| Tue 9/9 | 2-3 pm | HSRB 160
 Startups in care delivery				 | Arun Mohan MD/MBA | 7  | -				| Fri 9/12 | 2-3 pm | SoM 353A
