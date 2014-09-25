@@ -26,15 +26,16 @@ Healthcare startups deal with regulation, complex financial systems, and a high 
 
 ###Session Schedule
 
-Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 				 	 | LO	| Reading | Date 	   | Time   | Location
+Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | LO	| Reading | Date 	   | Time   | Location
 --- | --- |:---:|:---:|:---:|:---:|:---:|
 Overview: innovation in academia | Erik Reinertsen 	 |	1 |	1			  | Mon 8/25 | 3-4 pm | SoM A355
-Startup founder panel 					 | Partha Unnava, Chris Hermann PhD, James Malcolm PhD, Yale Zhang | 7 |		-		| Fri 9/5 | 1-2 pm | SoM A355
+Startup founder panel 					 | Partha Unnava<br>Chris Hermann PhD<br>James Malcolm PhD<br>Yale Zhang | 7 |		-		| Fri 9/5 | 1-2 pm | SoM A355
 Customer discovery		 					 | Harold Solomon  	 | 2  | 3,4	  	| Tue 9/9 | 2-3 pm | HSRB 160
 Startups in care delivery				 | Arun Mohan MD/MBA | 7  | -				| Fri 9/12 | 2-3 pm | SoM 353A
 Data-driven healthcare				   | Lucienne Ide MD/PhD | 7 | -			| Mon 9/22 | 1-2 pm | SoM 353A
-Regulation & reimbursement		 	 | Rich Duszak MD	 	 | 6 	| 6 			| Fri 9/26 | 1-2 pm | SoM 353A
-Identifying unmet clinical needs | Jeremy Ackerman MD/PhD, Angela Fusaro MD, Felmont Eaves MD | 2 | 2 | tbd | tbd | tbd
+Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Chris Holland MD/PhD<br>Joshua Shak | - 	| -  | Fri 9/26 | 1-2 pm | SoM 353A
+Regulation & reimbursement		 	 | Rich Duszak MD	 	 | 6 	| 6 			| Mon 9/29 | 1-2 pm | SoM 353A
+Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br>Felmont Eaves MD | 2 | 2 | tbd | tbd | tbd
 Design 													 | Wayne Li					 | 3 	| - 			| tbd | tbd | tbd
 Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| tbd | tbd | tbd
 Digital health									 | Nate Gross MD/MBA | 7  | tbd			| tbd | tbd | tbd
@@ -42,7 +43,7 @@ Financing startups							 | Tom Callaway MD/MBA | 4 | 11 	 	| tbd | tbd | tbd
 Drug discovery & biotechnology	 | Dennis Liotta PhD | 6,7 | tbd		| tbd | tbd | tbd
 Startup law and business				 | Ernesto Escobar JD | 5 | 12			| tbd | tbd | tbd
 Technology transfer							 | Todd Sherer PhD 	 | 5 	| 13			| tbd | tbd | tbd
-Pitches													 | Arun Mohan MD/MBA, plus mentors | 2 | 14 | tbd | tbd | tbd
+Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | tbd | tbd | tbd
 
 ###Calendar
 
