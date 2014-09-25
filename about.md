@@ -11,8 +11,7 @@ I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 + manage [Forge](http://forgeatl.com), Atlanta's healthcare startup community.
 + run a medical school course: [innovation & entrepreneurship in medicine](http://erikreinertsen.com/iemed/).
 
-At UCLA, I studied Bioengineering with an option in Chemical Engineering.<br>
-In the lab, I worked on biomaterials, nanotechnology, and tissue engineering,<br> advised by [Benjamin Wu](http://www.bioeng.ucla.edu/people/faculty/Faculty/benjamin-m.-wu-d.d.s.-ph.d) and [Bill Tawil](http://www.bioeng.ucla.edu/people/faculty/adjunct-faculty/bill-j.-tawil-ph.d).
+At UCLA, I studied Bioengineering with an option in Chemical Engineering.  In the lab, I worked on biomaterials, nanotechnology, and tissue engineering, advised by [Benjamin Wu](http://www.bioeng.ucla.edu/people/faculty/Faculty/benjamin-m.-wu-d.d.s.-ph.d) and [Bill Tawil](http://www.bioeng.ucla.edu/people/faculty/adjunct-faculty/bill-j.-tawil-ph.d).
 
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-github"></i> | [github](https://github.com/erikreinertsen)
