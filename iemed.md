@@ -6,6 +6,16 @@ title: "IEMed"
 
 Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. I run this course with [Dr. Arun Mohan](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) at Emory University School of Medicine. We meet 1-2 hours a week, from 8/11/14 to 11/14/14.
 
+###Table of Contents
+
+1. [Course overview](#overview)
+2. [Learning Objectives](#los)
+3. [Schedule](#schedule)
+4. [Calendar](#calendar)
+5. [Reading](#reading)
+
+<a name="overview"></a>
+
 ###Course Overview
 
 The purpose of this elective course is to expose medical students to topics in innovation and entrepreneurship.
@@ -13,6 +23,8 @@ The purpose of this elective course is to expose medical students to topics in i
 Advances in technology, such as new vaccines, diagnostics, and therapeutic devices, revolutionize healthcare. Physicians (even trainees) can play important roles in healthcare startups that bring innovations from the bench to the bedside. Although most MDs lack formal opportunities to become technology innovators and/or entrepreneurs, they possess traits helpful for startup founders: intellectual curiosity, a deep desire to solve problems, and leadership.
 
 Healthcare startups deal with regulation, complex financial systems, and a high cost of entry. However, recent breakthroughs in stem cell biology, cloud computing, data science, materials science, and nanotechnology are poised to transform medicine. Furthermore, national healthcare reform has shifted financial incentives and created new market opportunities. Ideally, physicians will be prepared to engage in technology innovation and entrepreneurship as they advance patient care. This elective course is merely a tasting menu of greater opportunities.
+
+<a name="los"></a>
 
 ###Learning Objectives
 
@@ -24,11 +36,13 @@ Healthcare startups deal with regulation, complex financial systems, and a high 
 6. *Regulatory:* Understand regulatory and reimbursement challenges and opportunities within complex healthcare systems, using examples from biotechnology and health IT.
 7. *Exposure & Networking:* Identify and connect with entrepreneurship resources relevant to healthcare in Atlanta and the Southeast. Meet physician-leaders who advance patient care through innovation.
 
-###Session Schedule
+<a name="schedule"></a>
+
+###Schedule
 
 Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | LO	| Reading | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 --- | --- | --- | --- | --- | --- | --- |
-Innovation in academia 					 | Erik Reinertsen 	 |	1 |	1			  | Mon 8/25 | 3-4 pm | SoM A355
+Innovation in academia 					 jekyll | Erik Reinertsen 	 |	1 |	[1](#reading1)			  | Mon 8/25 | 3-4 pm | SoM A355
 Startup founder panel 					 | Partha Unnava<br>Chris Hermann PhD<br>James Malcolm PhD<br>Yale Zhang | 7 |		-		| Fri 9/5 | 1-2 pm | SoM A355
 Customer discovery		 					 | Harold Solomon  	 | 2  | 3,4	  	| Tue 9/9 | 2-3 pm | HSRB 160
 Startups in care delivery				 | Arun Mohan MD/MBA | 7  | -				| Fri 9/12 | 2-3 pm | SoM 353A
@@ -45,11 +59,16 @@ Startup law and business				 | Ernesto Escobar JD | 5 | 12			| tbd | tbd | tbd
 Technology transfer							 | Todd Sherer PhD 	 | 5 	| 13			| tbd | tbd | tbd
 Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | tbd | tbd | tbd
 
+<a name="calendar"></a>
+
 ###Calendar
 
 <iframe src="https://www.google.com/calendar/embed?src=3p4leat7h2r56vqnkbujth4qvc%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<a name="reading"></a>
+
 ###Reading
+
 1. [Sanberg, P. R. et al. Changing the academic culture: Valuing patents and commercialization toward tenure and career advancement. Proc. Natl. Acad. Sci. (2014).](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020064/)
 2. [Blank, S. “Why Lean May Save Your Life – The I-Corps @ NIH”. Web blog post. June 19, 2014.](http://steveblank.com/2014/06/19/why-lean-may-save-your-life-the-i-corps-nih/)
 3. [Blank, S. Why the Lean Start-Up Changes Everything. Harv. Bus. Rev. (2013).](http://steveblank.com/2013/05/06/free-reprints-of-why-the-lean-startup-changes-everything/)
