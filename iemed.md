@@ -52,6 +52,7 @@ Data-driven healthcare				   | Lucienne Ide MD/PhD | 7 | -			| Mon 9/22 at 1 pm 
 Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Chris Holland MD/PhD<br>Joshua Shak | - 	| -  | Fri 9/26 at 1 pm | SoM 353A
 Regulation & reimbursement		 	 | Rich Duszak MD	 	 | 6 	| 6 			| Mon 9/29 at 1 pm | SoM 353A
 Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br>Felmont Eaves MD | 2 | 2 | tbd | tbd
+Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	| 16  | after fall break | tbd
 Design 													 | Wayne Li					 | 3 	| - 			| tbd | tbd
 Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| tbd | tbd
 Digital health									 | Nate Gross MD/MBA | 7  | tbd			| tbd | tbd
@@ -86,4 +87,4 @@ Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | tbd | tbd
 13. Something about tech transfer. TBD.
 14. Something about pitches. TBD.
 15. [A personal account of translating discoveries in an academic lab. Nature Biotech 2013.](http://www.nature.com/nbt/journal/v31/n6/full/nbt.2609.html)
-16. [Access all areas. Nature Biotech 2014.](http://www.nature.com/nbt/journal/v32/n7/abs/nbt.2941.html)
+16. [Ten simple rules for starting a company. PLoS Comp Bio 2014.](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002439)
