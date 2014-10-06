@@ -42,7 +42,7 @@ Healthcare startups deal with regulation, complex financial systems, and a high 
 
 Default sessions are one hour.
 
-Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | LO	| Reading | Date/Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | LO	| Reading | Date/Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 --- | --- | --- | --- | --- | --- | --- |
 Innovation in academia 					 | Erik Reinertsen 	 |	1 |	1			  | Mon 8/25 at 3 pm | SoM A355
 Startup founder panel 					 | Partha Unnava<br>Chris Hermann PhD<br>James Malcolm PhD<br>Yale Zhang | 7 |		-		| Fri 9/5 at 1 pm | SoM A355
@@ -51,16 +51,16 @@ Startups in care delivery				 | Arun Mohan MD/MBA | 7  | -				| Fri 9/12 at 2 pm
 Data-driven healthcare				   | Lucienne Ide MD/PhD | 7 | -			| Mon 9/22 at 1 pm | SoM 353A
 Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Chris Holland MD/PhD<br>Joshua Shak | - 	| -  | Fri 9/26 at 1 pm | SoM 353A
 Regulation & reimbursement		 	 | Rich Duszak MD	 	 | 6 	| 6 			| Mon 9/29 at 1 pm | SoM 353A
-Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br>Felmont Eaves MD | 2 | 2 | tbd | tbd
-Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	| 16  | after fall break | tbd
-Design 													 | Wayne Li					 | 3 	| - 			| tbd | tbd
-Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| tbd | tbd
-Digital health									 | Nate Gross MD/MBA | 7  | tbd			| tbd | tbd
-Financing startups							 | Tom Callaway MD/MBA | 4 | 11 	 	| tbd | tbd
-Drug discovery & biotechnology	 | Dennis Liotta PhD | 6,7 | tbd		| tbd | tbd
-Startup law and business				 | Ernesto Escobar JD | 5 | 12			| tbd | tbd
-Technology transfer							 | Todd Sherer PhD 	 | 5 	| 13			| tbd | tbd
-Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | tbd | tbd
+Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br>Felmont Eaves MD | 2 | 2 | - | -
+Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	| 16  | - | -
+Design 													 | Wayne Li					 | 3 	| - 			| - | -
+Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| - | -
+Digital health									 | Nate Gross MD/MBA | 7  | -			| - | -
+Financing startups							 | Tom Callaway MD/MBA | 4 | 11 	 	| - | -
+Drug development & commercialization	 | Dennis Liotta PhD | 6,7 | -	| Fri 10/24 @ 1 pm | SoM 353A
+Startup law and business				 | Ernesto Escobar JD | 5 | 12			| - | -
+Technology transfer							 | Todd Sherer PhD 	 | 5 	| 13			| - | -
+Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | - | -
 
 <a name="calendar"></a>
 
@@ -78,13 +78,13 @@ Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | tbd | tbd
 4. [The Lean Startup. 2011.](http://www.amazon.com/dp/0307887898/?tag=googhydr-20&hvadid=32548561951&hvpos=1t1&hvexid=&hvnetw=g&hvrand=5091541203456127884&hvpone=14.64&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_848hom633v_b)
 5. [Hackathons Aren’t Just for Hacking. Blog post 2014.](http://www.wired.com/2012/06/hackathons-arent-just-for-hacking/)
 6. [From concept to CPT code to compensation: how the payment system works. J Am Coll Radiol 2004.](http://www.sciencedirect.com/science/article/pii/S1546144003000206)
-7. Overview of Startup resources in Atlanta. TBD.
+7. Overview of Startup resources in Atlanta. -.
 8. [Flashpoint: Jobs you can't not do. Blog post. 2014.](http://flashpoint.gatech.edu/jobs-you-cant-not-do/).
 9. [Flashpoint: Startup Catchphrases and Rules of Thumb. Bloog post. 2011.](http://flashpoint.gatech.edu/startup-catchphrases-and-rules-of-thumb/)
 10. [Flashpoint: Lean Entrepreneurship is Undermining the U.S. Economy – The 60% Challenge. Blog post. 2011.](http://flashpoint.gatech.edu/lean-entrepreneurship-is-undermining-the-u-s-economy-the-60-challenge-2/)
 11. [The view beyond venture capital. Nature Biotech 2014.](http://www.nature.com/nbt/journal/v32/n1/full/nbt.2780.html)
-12. Something about patent law and business. TBD.
-13. Something about tech transfer. TBD.
-14. Something about pitches. TBD.
+12. Something about patent law and business. -.
+13. Something about tech transfer. -.
+14. Something about pitches. -.
 15. [A personal account of translating discoveries in an academic lab. Nature Biotech 2013.](http://www.nature.com/nbt/journal/v31/n6/full/nbt.2609.html)
 16. [Ten simple rules for starting a company. PLoS Comp Bio 2014.](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002439)
