@@ -55,11 +55,11 @@ Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br
 Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	| 16  | - | -
 Design 													 | Wayne Li					 | 3 	| - 			| - | -
 Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| - | -
-Digital health									 | Nate Gross MD/MBA | 7  | -			| - | -
-Financing startups							 | Tom Callaway MD/MBA | 4 | 11 	 	| - | -
+Digital health									 | tbd | 7  | -			| - | -
+Startup funding, angel investing, & VC | tbd | 4 | 11 	 	| - | -
 Drug development & commercialization	 | Dennis Liotta PhD | 6,7 | -	| Fri 10/24 @ 1 pm | SoM 353A
 Startup law and business				 | Ernesto Escobar JD | 5 | 12			| - | -
-Technology transfer							 | Todd Sherer PhD 	 | 5 	| 13			| - | -
+Technology transfer							 | tbd | 5 	| 13			| - | -
 Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | - | -
 
 <a name="calendar"></a>
