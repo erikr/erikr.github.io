@@ -56,7 +56,7 @@ Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	
 Design 													 | Wayne Li					 | 3 	| - 			| - | -
 Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| - | -
 Digital health									 | tbd | 7  | -			| - | -
-Startup funding, angel investing, & VC | tbd | 4 | 11 	 	| - | -
+Startup funding, angel investing, & VC | Tom Callaway MD/MBA | 4 | 11 | Wed 11/5 at 11 am | SoM 178P
 Drug development & commercialization	 | Dennis Liotta PhD | 6,7 | -	| Fri 10/24 @ 1 pm | SoM 353A
 Startup law and business				 | Ernesto Escobar JD | 5 | 12			| - | -
 Technology transfer							 | tbd | 5 	| 13			| - | -
