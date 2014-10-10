@@ -53,10 +53,8 @@ Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Chris Holland MD/Ph
 Regulation & reimbursement		 	 | Rich Duszak MD	 	 | 6 	| 6 			| Mon 9/29 at 1 pm | SoM 353A
 Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br>Felmont Eaves MD | 2 | 2 | - | -
 Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	| 16  | - | -
-Design 													 | Wayne Li					 | 3 	| - 			| - | -
-Startup engineering							 | Merrick Furst PhD | 2 	| 8-10		| - | -
-Digital health									 | tbd | 7  | -			| - | -
-Angel investing & venture capital	 | Tom Callaway MD/MBA | 4 | 11 | Wed 11/5 at 11 am | SoM 178P
+Venture capital, part 1	 | Spence McLellan | 4 | 11 | Wed 10/29 at 11 am | tbd
+Venture capital, part 2	 | Tom Callaway MD/MBA | 4 | - | Wed 11/5 at 11 am | SoM 178P
 Drug development & commercialization	 | Dennis Liotta PhD | 6,7 | -	| Fri 10/24 @ 1 pm | SoM 353A
 Law and business issues for startups | Ernesto Escobar JD | 5 | 12			| - | -
 Technology transfer							 | tbd | 5 	| 13			| - | -
