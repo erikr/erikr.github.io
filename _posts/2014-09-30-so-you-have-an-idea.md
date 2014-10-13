@@ -3,7 +3,7 @@ layout: article
 title: So you have an idea...
 ---
 
-*My Forge co-founder [@Evan_McClure](https://twitter.com/evan_mcclure) and I get a lot of emails from people who want to ambiguously "move forward with something". Evan wants to make this process more specific so more healthcare technology survives limbo. Here are three of his thoughts and recommended first steps, influenced by lean startup approaches. This the email reply you would get if you asked "so I have an idea..."*
+*My Forge co-founder [@Evan_McClure](https://twitter.com/evan_mcclure) and I get a lot of emails from people who want to ambiguously "move forward with something". Evan wants to make this process more specific so more healthcare technology survives limbo. Here are three of his thoughts and recommended first steps, influenced by lean startup approaches.*
 
 ## 1. Identify where you are in the process.
 
