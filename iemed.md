@@ -51,13 +51,10 @@ Startups in care delivery				 | Arun Mohan MD/MBA | 7  | -				| Fri 9/12 at 2 pm
 Data-driven healthcare				   | Lucienne Ide MD/PhD | 7 | -			| Mon 9/22 at 1 pm | SoM 353A
 Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Chris Holland MD/PhD<br>Joshua Shak | - 	| -  | Fri 9/26 at 1 pm | SoM 353A
 Regulation & reimbursement		 	 | Rich Duszak MD	 	 | 6 	| 6 			| Mon 9/29 at 1 pm | SoM 353A
-Identifying unmet clinical needs | Jeremy Ackerman MD/PhD<br>Angela Fusaro MD<br>Felmont Eaves MD | 2 | 2 | - | -
-Customer discovery feedback w/ mentors	 | Erik Reinertsen<br>Misc. mentors | - 	| 16  | - | -
+	Law and business issues for startups | Ernesto Escobar JD | 5 | 12			| Mon 10/27 at 1 pm | -
 Venture capital, part 1	 | Spence McLellan | 4 | 11 | Wed 10/29 at 11 am | tbd
+Drug development & commercialization	 | Dennis Liotta PhD | 6,7 | -	| Mon 11/3 @ 11 am | SoM 190P
 Venture capital, part 2	 | Tom Callaway MD/MBA | 4 | - | Wed 11/5 at 11 am | SoM 178P
-Drug development & commercialization	 | Dennis Liotta PhD | 6,7 | -	| Fri 10/24 @ 1 pm | SoM 353A
-Law and business issues for startups | Ernesto Escobar JD | 5 | 12			| - | -
-Technology transfer							 | tbd | 5 	| 13			| - | -
 Pitches													 | Arun Mohan MD/MBA<br>Misc. mentors | 2 | 14 | - | -
 
 <a name="calendar"></a>

@@ -16,7 +16,7 @@ Hello, I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 Before coming to Atlanta, I studied Bioengineering with an option in Chemical Engineering at UCLA. In the lab, I worked on biomaterials, nanotechnology, and tissue engineering, advised by [Benjamin Wu](http://www.bioeng.ucla.edu/people/faculty/Faculty/benjamin-m.-wu-d.d.s.-ph.d) and [Bill Tawil](http://www.bioeng.ucla.edu/people/faculty/adjunct-faculty/bill-j.-tawil-ph.d).
 
 I was also an [Emergency Medicine Research Associate](http://www.uclaemra.com/), and founded<br>
-[ISPE @ UCLA](http://www.ispeucla.com/), the first campus organization for students pursuing careers in <br>
+[ISPE @ UCLA](http://www.ispeucla.com/), the first organization for students pursuing careers in<br>
 the biotech & life science industry.
 
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
