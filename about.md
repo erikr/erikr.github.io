@@ -8,16 +8,12 @@ title: "About"
 
 Hello, I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 
-+ work on biomedical informatics, advised by [Gari Clifford](http://gdclifford.info/gari)
-+ study [signal processing, machine learning, & data science.](http://www.bme.gatech.edu/research/system.shtml)
++ work on medical informatics, advised by [Gari Clifford](http://gdclifford.info/gari).
++ study signal processing, machine learning, statistics, and behavioral economics.
 + manage [Forge](http://forgeatl.com), Atlanta's healthcare startup community.
 + run a medical school course: [innovation & entrepreneurship in medicine](http://erikreinertsen.com/iemed/).
 
-Before coming to Atlanta, I studied Bioengineering with an option in Chemical Engineering at UCLA. In the lab, I worked on biomaterials, nanotechnology, and tissue engineering, advised by [Benjamin Wu](http://www.bioeng.ucla.edu/people/faculty/Faculty/benjamin-m.-wu-d.d.s.-ph.d) and [Bill Tawil](http://www.bioeng.ucla.edu/people/faculty/adjunct-faculty/bill-j.-tawil-ph.d).
-
-I was also an [Emergency Medicine Research Associate](http://www.uclaemra.com/), and founded<br>
-[ISPE @ UCLA](http://www.ispeucla.com/), the first organization for students pursuing careers in<br>
-the biotech & life science industry.
+Before coming to Atlanta, I studied Bioengineering at UCLA. In the lab, I performed research on biomaterials, nanotechnology, and tissue engineering, advised by [Benjamin Wu](http://www.bioeng.ucla.edu/people/faculty/Faculty/benjamin-m.-wu-d.d.s.-ph.d) and [Bill Tawil](http://www.bioeng.ucla.edu/people/faculty/adjunct-faculty/bill-j.-tawil-ph.d). I also did a bunch of other stuff, but you can read my CV.
 
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-github"></i> | [github](https://github.com/erikreinertsen)
