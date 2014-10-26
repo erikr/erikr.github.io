@@ -5,7 +5,7 @@ title: The importance of writing (online)
 
 People sometimes ask "how's it going?". You can think of the reply in three dimensions.
 
-Dimension one as "level of detail". Even if you are introspective, crafting a response requires cognitive bandwidth. First, you have to quickly decide how detailed to make your response. Is the person an acquaintance? A close friend?
+Dimension one is "level of detail". Even if you are introspective, crafting a response requires cognitive bandwidth. First, you have to quickly decide how detailed to make your response. Is the person an acquaintance? A close friend?
 
 Dimension two is "domains to cover". You have to select which domains of your life to cover. This might include business stuff, relationships, family life, hobbies, or spiritual matters.
 
