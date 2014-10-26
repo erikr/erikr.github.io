@@ -1,6 +1,6 @@
 ---
 layout: article
-title: How blogging saves you time
+title: The importance of writing (online)
 ---
 
 People sometimes ask "how's it going?". You can think of the reply in three dimensions.
