@@ -8,7 +8,7 @@ title: "About"
 
 Hello, I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 
-+ work on medical informatics, advised by [Gari Clifford](http://gdclifford.info/gari).
++ work on medical informatics, advised by [Gari Clifford](http://gdclifford.info/gari.html).
 + study signal processing, machine learning, statistics, and behavioral economics.
 + manage [Forge](http://forgeatl.com), Atlanta's healthcare startup community.
 + run a medical school course: [innovation & entrepreneurship in medicine](http://erikreinertsen.com/iemed/).
