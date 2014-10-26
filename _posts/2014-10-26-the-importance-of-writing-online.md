@@ -21,6 +21,6 @@ First, writing forces you reflect on your thoughts. I suspect the quality of tho
 
 Second, writing is a common medium by which we convey information. Improvement requires conscious effort, but also practice. Becoming a better writer is a worthy endeavor.
 
-Third, writing (online) can save you time because content is easily sharable and semi-permanent. Frequently asked questions, or "FAQs", are always in the form of writing. If you notice you send the same emails or write the same memos over and over, make it a blog post and share that link.
+Third, writing (online) can save you time because content is easily sharable and semi-permanent. Frequently asked questions, or "FAQs", are always in written form. If you notice you send the same emails or write the same memos over and over, make it a blog post and share that link.
 
 When people ask you "how's it going?", I won't send them a link to this blog post (or any other). That would be rude. But cataloging your progress in life can reduce the magnitude of the three dimensions, because people will sometimes Google you and read your content. It can help you spend less time on your reply, and more time on the real reason why they asked about you: human connection.
