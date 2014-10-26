@@ -5,11 +5,11 @@ title: The importance of writing (online)
 
 People sometimes ask "how's it going?". You can think of the reply in three dimensions.
 
-Dimension one is "level of detail". Even if you are introspective, crafting a response requires cognitive bandwidth. First, you have to quickly decide how detailed to make your response. Is the person an acquaintance? A close friend?
+Dimension one is "level of detail". Is the person an acquaintance, a colleague, or a close friend?
 
-Dimension two is "domains to cover". You have to select which domains of your life to cover. This might include business stuff, relationships, family life, hobbies, or spiritual matters.
+Dimension two is "domains to cover", which might include business, relationships, family life, hobbies, or spiritual matters.
 
-Dimension three is the "delta" between now and when you last updated this person. This can be difficult to remember. You can quickly see how the simple task of catching up can be rather burdensome. I would much rather share my Gantt chart / project status list instead of write a long response. Unfortunately, the former is rude, and the latter is socially acceptable.
+Dimension three is the "delta" between now and when you last updated this person. This can be difficult to remember. You can quickly see how the simple task of catching up can be rather burdensome. I would much rather share my Gantt chart / project status list instead of write a long response. Unfortunately, the former is rude but the latter is socially acceptable.
 
 If life is one massive repository with a complex web of stories forking in and out, sharing updates should be as simple as sharing a log of commits. Too bad people are not software projects. The world is not digital. Or is it?
 
