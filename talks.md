@@ -4,7 +4,7 @@ permalink: /talks/
 title: "Talks"
 ---
 
-Here are slides to some of my talks. I prefer pictures over words, so my decks will not mean much without the accompanying talk.
+Here are slides to some of my talks. I prefer pictures over words, so these decks don't mean much on their own.
 
 I attribute all images, icons, and references to their original sources and make no claims to copyright or ownership.
 
