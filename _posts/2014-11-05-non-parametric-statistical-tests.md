@@ -5,9 +5,9 @@ title: Non-parametric statistical tests
 
 Non-parametric tests are also referred to as distribution-free tests, and are used when you *cannot make the assumption of normality*.
 
-Non-parametric tests compare medians instead of means, and thus negate the influence of outliers (if there are only a few).wilco
+Non-parametric tests compare medians instead of means, and thus negate the influence of outliers (if there are only a few).
 
-Here is a table comparing non-parametric tests to the usual parametric statistical tests, with links in some of the entries:
+Here is a table comparing non-parametric tests to the usual parametric statistical tests, with Wikipedia links in some entries:
 
 | Parametric test 						|	Non-parametric analogue	|
 |---|---|
