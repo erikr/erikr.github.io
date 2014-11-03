@@ -1,0 +1,22 @@
+---
+layout: article
+title: What makes a graduate program great?
+---
+
+I answered the following question for a fellowship application, and thought it was interesting enough to share:
+
+> What are the considerations involved in your choice of graduate school? You may use more than the allotted space for your response, and any additional text will be included in your application. However, when you print this page, only the text that appears in the box will print.
+
+As I reflect on my academic career, I noticed my framework for choosing a graduate school evolved over time. Every year, I gain a clearer view of dynamics governing myself, people, and institutions. Here I discuss not only my considerations of how I chose graduate school, but how and why my perspective changed.
+
+When I applied to MD/PhD programs in 2011, I faced the challenge of finding an institution offering outstanding training in both medicine and engineering. My initial metric was overall program ranking, i.e. U.S. News and World Report. However, during my search, I noticed UCLA’s Bioengineering program was not ranked among the best. This surprised me. UCLA Bioengineering created a tight-knit, supportive community. The faculty boasted impressive scholastic productivity. Our students have the highest incoming high school GPAs and standardized test scores, and more of us enter competitive graduate and professional programs than other majors. When I asked my mentor and department chair, he told me program rankings can distinguish general tiers of quality, but are imperfect because they use arbitrary metrics or subjective opinions. This understanding prompted me to explore other aspects that made a graduate program great.
+
+At my interviews, I spoke with graduate students and read a lot of online blog posts. Based on this input, I chose faculty activity as a new, main metric for selecting a program. I looked at the number of faculty working on interesting problems. I searched for how many papers they published in top journals - something I now know to be merely a proxy of true impact. I counted only faculty who worked in my specific field of interest (which was initially nanotechnology to interface with the human nervous system), and were deemed as “rock stars”.
+
+In medical school, I learned about the vast landscape of human disease and interacted with many faculty members and students. My interests broadened, and I began to value the activity of faculty outside of my specific field of interest. After learning about the many challenges preventing the translation of technology from the lab to the clinic, I eventually began to seriously value knowledge and approaches from fields outside of biomedical engineering, such as law, entrepreneurship, and anthropology. My new metric for evaluating a graduate program became its level of intellectual diversity, combined with its focus on applying knowledge towards developing solutions for healthcare problems.
+
+When I began graduate school and found a PhD mentor, I adapted my previous metric to also incorporate faculty member’s approachability and engagement with students. Finally, I expanded my view to include other people in addition to graduate students and faculty. A graduate program is a community of people, including undergraduates, staff, visiting scholars, and more. But a department is not just people. It is what they do, and that might be considered “culture”. Indeed, I now consider department culture as the most important metric.
+
+Culture is not defined by research funding, prestigious papers, or fancy buildings. My own definition of culture is “how people help each other achieve excellence”. I know I made a great choice to attend Emory and Georgia Tech when I see my mentors happily writing me letters of recommendations even with a sudden deadline, staff taking extra steps to help me gain building access for a weekend seminar, and colleagues challenging my views of the world’s greatest problems as we work together to solve them.
+
+*Aside: Culture in academic institutions have a long way to go before they match the level of "awesomeness" I think exists in tech. Read about Google, Facebook, Twitter, Yahoo, and Microsoft. Talk to people who work there. Look at the impact they have on the world. I am currently reading [How Google Works](http://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344) by Eric Schmidt and Jonathan Rosenberg, and it has a lot of fascinating insights.*

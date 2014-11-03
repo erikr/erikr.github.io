@@ -51,11 +51,11 @@ Startups in care delivery				 			| Arun Mohan MD/MBA 	| Fri 9/12 at 2 pm 	| SoM 
 Data-driven healthcare				   			| Lucienne Ide MD/PhD | Mon 9/22 at 1 pm 	| SoM 353A
 Customer discovery update							| Erik Reinertsen<br>Chris Holland MD/PhD<br>Joshua Shak | Fri 9/26 at 1 pm | SoM 353A
 Physician reimbursement		 	 					| Rich Duszak MD	 	 	| Mon 9/29 at 1 pm 	| SoM 353A
-Law and business issues for startups 	| Ernesto Escobar JD 	| Mon 10/27 at 1 pm | -
-Funding startups & VC 1	 							| Spence McLellan 		| Wed 10/29 at 11 am| -
-Drug development & commercialization	| Dennis Liotta PhD 	| Mon 11/3 at 11 am 	| SoM 190P
+Law and business issues for startups 	| Ernesto Escobar JD 	| Mon 10/27 at 1 pm | SoM 353A
+Funding startups & VC 1	 							| Spence McLellan 		| Wed 10/29 at 11 am| SoM A169
+Drug development & commercialization	| Dennis Liotta PhD 	| Mon 11/3 at 11 am | SoM 190P
 Funding startups & VC 2	 							| Tom Callaway MD/MBA | Wed 11/5 at 11 am | SoM 178P
-Final pitches													| Arun Mohan MD/MBA		| - 								| -
+TBD																		| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM TBD
 
 <a name="calendar"></a>
 
@@ -88,5 +88,4 @@ Final pitches													| Arun Mohan MD/MBA		| - 								| -
 	+ 9 - [A personal account of translating discoveries in an academic lab](http://www.nature.com/nbt/journal/v31/n6/full/nbt.2609.html) by Robert Langer
 11. 11/5, Funding startups & VC 2, Tom Callaway MD/MBA
 	+ 10 - [Ten Tips for Raising Startup Capital in Biotech](http://lifescivc.com/2013/09/ten-tips-for-raising-startup-capital-in-biotech/) by Bruce Booth
-12. TBD, Final pitches, Arun Mohan MD/MBA
-	+ 11 - [How to make the perfect startup pitch deck](http://www.slideshare.net/Barcinno/the-perfect-startup-pitch-deck-24239339) by Barcinno
+12. TBD, Arun Mohan MD/MBA
