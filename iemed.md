@@ -53,7 +53,7 @@ Customer discovery update							| Erik Reinertsen<br>Chris Holland MD/PhD<br>Jos
 Physician reimbursement		 	 					| Rich Duszak MD	 	 	| Mon 9/29 at 1 pm 	| SoM 353A
 Law and business issues for startups 	| Ernesto Escobar JD 	| Mon 10/27 at 1 pm | SoM 353A
 Funding startups & VC 1	 							| Spence McLellan 		| Wed 10/29 at 11 am| SoM A169
-Drug development & commercialization	| Dennis Liotta PhD 	| Mon 11/3 at 11 am | SoM 190P
+Drug development & commercialization	| Dennis Liotta PhD 	| Mon 11/3 at 1 pm | SoM 353A
 Funding startups & VC 2	 							| Tom Callaway MD/MBA | Wed 11/5 at 11 am | SoM 178P
 TBD																		| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM TBD
 
