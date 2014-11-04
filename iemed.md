@@ -4,7 +4,7 @@ permalink: /iemed/
 title: "IEMed"
 ---
 
-Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. I run this course with [Dr. Arun Mohan](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) at Emory University School of Medicine. We meet 1-2 hours a week, from 8/11/14 to 11/14/14.
+Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. I run this M2 elective course with [Dr. Arun Mohan](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) at Emory University School of Medicine. We meet 1-2 hours a week, from 8/11/14 to 11/14/14.
 
 ###Table of Contents
 
@@ -18,11 +18,11 @@ Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. 
 
 ###Course Overview
 
-The purpose of this elective course is to expose medical students to topics in innovation and entrepreneurship.
+Our goal is to expose medical students to topics in innovation and entrepreneurship.
 
-Advances in technology, such as new vaccines, diagnostics, and therapeutic devices, revolutionize healthcare. Physicians (even trainees) can play important roles in healthcare startups that bring innovations from the bench to the bedside. Although most MDs lack formal opportunities to become technology innovators and/or entrepreneurs, they possess traits helpful for startup founders: intellectual curiosity, a deep desire to solve problems, and leadership.
+Advances in technology, such as new vaccines, diagnostics, and therapeutic devices, revolutionize healthcare. Physicians (even trainees) can play important roles in healthcare startups that bring innovations from the bench to the bedside. MDs have many opportunities to become or work with technology innovators and/or entrepreneurs.
 
-Healthcare startups deal with regulation, complex financial systems, and a high cost of entry. However, recent breakthroughs in stem cell biology, cloud computing, data science, materials science, and nanotechnology are poised to transform medicine. Furthermore, national healthcare reform has shifted financial incentives and created new market opportunities. Ideally, physicians will be prepared to engage in technology innovation and entrepreneurship as they advance patient care. This elective course is merely a tasting menu of greater opportunities.
+Healthcare startups deal with regulation, complex financial systems, and a high cost of entry. However, recent breakthroughs in science, including stem cell biology, data science, and nanotechnology are poised to transform medicine. Furthermore, national healthcare reform has shifted financial incentives and created new market opportunities. We envision a future where physicians engage in technology innovation and entrepreneurship as they advance patient care.
 
 <a name="los"></a>
 
@@ -55,7 +55,7 @@ Law and business issues for startups 	| Ernesto Escobar JD 	| Mon 10/27 at 1 pm 
 Funding startups & VC 1	 							| Spence McLellan 		| Wed 10/29 at 11 am| SoM A169
 Drug development & commercialization	| Dennis Liotta PhD 	| Mon 11/3 at 1 pm | SoM 353A
 Funding startups & VC 2	 							| Tom Callaway MD/MBA | Wed 11/5 at 11 am | SoM 178P
-TBD																		| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM TBD
+Academic entrepreneurship							| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM TBD
 
 <a name="calendar"></a>
 
@@ -88,4 +88,4 @@ TBD																		| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM TBD
 	+ 9 - [A personal account of translating discoveries in an academic lab](http://www.nature.com/nbt/journal/v31/n6/full/nbt.2609.html) by Robert Langer
 11. 11/5, Funding startups & VC 2, Tom Callaway MD/MBA
 	+ 10 - [Ten Tips for Raising Startup Capital in Biotech](http://lifescivc.com/2013/09/ten-tips-for-raising-startup-capital-in-biotech/) by Bruce Booth
-12. TBD, Arun Mohan MD/MBA
+12. 11/14, Academic entrepreneurship, Arun Mohan MD/MBA
