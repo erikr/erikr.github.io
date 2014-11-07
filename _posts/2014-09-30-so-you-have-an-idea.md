@@ -1,6 +1,7 @@
 ---
 layout: article
 title: So you have an idea...
+tags: startups, research
 ---
 
 *My Forge co-founder [@Evan_McClure](https://twitter.com/evan_mcclure) and I get a lot of emails from people who want to ambiguously "move forward with something". Evan wants to make this process more specific so more healthcare technology survives limbo. Here are three of his thoughts and recommended first steps, influenced by lean startup approaches.*

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: 38 seminal papers in data science
+tags: engineering, cs
 ---
 
 Data Science Central posted [a list of 38 articles every data scientist should read](http://www.datasciencecentral.com/profiles/blogs/30-seminal-articles-every-data-scientist-should-read?utm_content=buffer6caff&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).

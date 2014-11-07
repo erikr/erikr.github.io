@@ -1,6 +1,7 @@
 ---
 layout: article
 title: What makes a graduate program great?
+tags: culture, academia
 ---
 
 I answered the following question for a fellowship application, and thought it was interesting enough to share:

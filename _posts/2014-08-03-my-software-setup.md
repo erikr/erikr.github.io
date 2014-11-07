@@ -1,6 +1,7 @@
 ---
 layout: article
 title: My hardware and software setup
+tags: engineering, research
 ---
 
 I am new to the magical world of Terminal / UNIX, software development, web design, etc. There are so many resources it can be hard to know where  to start. I will document my setup, resources, and journey. Hopefully you find this useful!

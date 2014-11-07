@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Announcing the 1st Life Sciences I-Corps Program at GaTech
+tags: startups, engineering
 ---
 
 Are you a student or faculty member in healthcare or the life sciences interested in commercializing your technology? This Fall, get ready to apply for a Life Sciences Regional I-Corps Program at Georgia Tech, organized by your friendly neighborhood VentureLab.

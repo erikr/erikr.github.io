@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Tips for new undergraduate researchers
+tags: research, academia
 ---
 
 ###General things to think about:

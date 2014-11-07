@@ -1,6 +1,7 @@
 ---
 layout: article
 title: AAMC trends on surgeons in the USA
+tags: medicine
 ---
 
 The Surgical Workforce in the United States: Profile and Recent Trends. [PDF link here.](http://www.acshpri.org/documents/ACSHPRI_Surgical_Workforce_in_US_apr2010.pdf)

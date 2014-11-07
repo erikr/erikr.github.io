@@ -1,6 +1,7 @@
 ---
 layout: article
 title: The importance of writing (online)
+tags: productivity
 ---
 
 People sometimes ask "how's it going?". You can think of the reply in three dimensions.

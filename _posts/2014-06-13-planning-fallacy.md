@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Planning fallacy
+tags: behavioralecon, culture
 ---
 
 >The planning fallacy is a tendency for people and organizations to underestimate how long they will need to complete a task, even when they have experience of similar tasks over-running.

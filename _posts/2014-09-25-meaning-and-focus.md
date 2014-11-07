@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Meaning and focus
+tags: culture, productivity
 ---
 
 A colleague asked me to help find funding for wellness and social justice initiatives. I shared thoughts on two topics: 1) choosing meaningful problems, and 2) focus. Here are my thoughts, slightly edited, and relevant for medical students interested in solving a problem and starting a student group, organization, nonprofit, or startup. I think these thoughts about Forge all the time.

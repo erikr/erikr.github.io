@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Startup reading
+tags: startups
 ---
 
 Here are some books, blogs, and Twitter feeds that talk about startups and/or healthcare entrepreneurship.
