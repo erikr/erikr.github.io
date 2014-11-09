@@ -19,4 +19,4 @@ Before coming to Atlanta, I studied Bioengineering at UCLA. In the lab, I perfor
 <i class="fa fa-github"></i> | [github](https://github.com/erikreinertsen)
 <i class="fa fa-linkedin"></i> | [linkedin](http://www.linkedin.com/in/erikreinertsen/)
 <i class="fa fa-graduation-cap"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
-<i class="fa fa-envelope"></i> | ereinerts AT gmail DOT com
+<i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
