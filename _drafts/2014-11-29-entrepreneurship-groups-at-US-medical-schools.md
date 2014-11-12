@@ -18,3 +18,4 @@ List of startup resources that are either affiliated with or near major US medic
 + [MIT - Hacking Medicine](http://hackingmedicine.mit.edu/)
 + [Stanford - StartX](startx.stanford.edu)
 + [Mayo Clinic - Center for Innovation](http://www.mayo.edu/center-for-innovation/)
++ [Tufts - MedStart (Hackathon)](http://tuftsmedstart.com/)
