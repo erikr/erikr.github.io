@@ -4,7 +4,7 @@ permalink: /iemed/
 title: "IEMed"
 ---
 
-Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. I run this M2 elective course with [Dr. Arun Mohan](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) at Emory University School of Medicine. We meet 1-2 hours a week, from 8/11/14 to 11/14/14.
+Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed). This is an M2 elective course at Emory University School of Medicine. [Arun Mohan, MD, MBA](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) and I ran this elective for the first time from 8/11/14 to 11/14/14.
 
 ###Table of Contents
 
@@ -13,12 +13,13 @@ Welcome to "Innovation and Entrepreneurship in Medicine", or "IEMed" for short. 
 3. [Schedule](#schedule)
 4. [Calendar](#calendar)
 5. [Reading](#reading)
+6. [Course Outcomes](#outcomes)
 
 <a name="overview"></a>
 
 ###Course Overview
 
-Our goal is to expose medical students to topics in innovation and entrepreneurship.
+Our goal is to expose medical students to topics and career opportunities in innovation and entrepreneurship.
 
 Advances in technology, such as new vaccines, diagnostics, and therapeutic devices, revolutionize healthcare. Physicians (even trainees) can play important roles in healthcare startups that bring innovations from the bench to the bedside. MDs have many opportunities to become or work with technology innovators and/or entrepreneurs.
 
@@ -55,13 +56,7 @@ Law and business issues for startups 	| Ernesto Escobar JD 	| Mon 10/27 at 1 pm 
 Funding startups & VC 1	 							| Spence McLellan 		| Wed 10/29 at 11 am| SoM A169
 Drug development & commercialization	| Dennis Liotta PhD 	| Mon 11/3 at 1 pm | SoM 353A
 Funding startups & VC 2	 							| Tom Callaway MD/MBA | Wed 11/5 at 11 am | SoM 178P
-Academic entrepreneurship							| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM TBD
-
-<a name="calendar"></a>
-
-###Calendar
-
-<iframe src="https://www.google.com/calendar/embed?src=3p4leat7h2r56vqnkbujth4qvc%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Careers in health innovation					| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM 353A
 
 <a name="reading"></a>
 
@@ -88,4 +83,10 @@ Academic entrepreneurship							| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM T
 	+ 9 - [A personal account of translating discoveries in an academic lab](http://www.nature.com/nbt/journal/v31/n6/full/nbt.2609.html) by Robert Langer
 11. 11/5, Funding startups & VC 2, Tom Callaway MD/MBA
 	+ 10 - [Ten Tips for Raising Startup Capital in Biotech](http://lifescivc.com/2013/09/ten-tips-for-raising-startup-capital-in-biotech/) by Bruce Booth
-12. 11/14, Academic entrepreneurship, Arun Mohan MD/MBA
+12. 11/14, Careers in health innovation, Arun Mohan MD/MBA
+
+<a name="outcomes"></a>
+
+###Course Outcomes
+
+So, how did the students rank the course? What can be improved? What will we do differently next year? Stay tuned... survey results pending.
