@@ -1,10 +1,10 @@
 ---
 layout: article
-title: What makes a graduate program great?
+title: Culture makes a program (or institution) great
 tags: culture, academia
 ---
 
-I answered the following question for a fellowship application, and thought it was interesting enough to share:
+I answered this question for a fellowship application, and thought it was interesting enough to share:
 
 > What are the considerations involved in your choice of graduate school?
 
