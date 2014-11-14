@@ -6,7 +6,7 @@ tags: culture, academia
 
 I answered the following question for a fellowship application, and thought it was interesting enough to share:
 
-> What are the considerations involved in your choice of graduate school? You may use more than the allotted space for your response, and any additional text will be included in your application. However, when you print this page, only the text that appears in the box will print.
+> What are the considerations involved in your choice of graduate school?
 
 As I reflect on my academic career, I noticed my framework for choosing a graduate school evolved over time. Every year, I gain a clearer view of dynamics governing myself, people, and institutions. Here I discuss not only my considerations of how I chose graduate school, but how and why my perspective changed.
 
@@ -20,4 +20,4 @@ When I began graduate school and found a PhD mentor, I adapted my previous metri
 
 Culture is not defined by research funding, prestigious papers, or fancy buildings. My own definition of culture is “how people help each other achieve excellence”. I know I made a great choice to attend Emory and Georgia Tech when I see my mentors happily writing me letters of recommendations even with a sudden deadline, staff taking extra steps to help me gain building access for a weekend seminar, and colleagues challenging my views of the world’s greatest problems as we work together to solve them.
 
-*Aside: Culture in academic institutions have a long way to go before they match the level of "awesomeness" I think exists in tech. Read about Google, Facebook, Twitter, Yahoo, and Microsoft. Talk to people who work there. Look at the impact they have on the world. I am currently reading [How Google Works](http://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344) by Eric Schmidt and Jonathan Rosenberg, and it has a lot of fascinating insights.*
+*Aside: Culture in academic institutions have a long way to go before they match the level of "awesomeness" I think exists in tech. We have all dealt with bureaucrats who default to "no" instead of asking "how can I help you make this happen?". I am inspired when I read about the culture at Google, Facebook, Twitter, Yahoo, and Microsoft. Talk to people who work there. Look at the impact they have on the world. Read [How Google Works](http://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344), it has many insights on management, vision, and culture.*
