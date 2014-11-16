@@ -12,7 +12,7 @@ Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently, I:
 + study signal processing, machine learning, statistics, & behavioral economics.
 + am interested in interventional radiology and critical care.
 
-Recent things I worked on (many as team efforts):
+Recent things I did (along with talented colleagues):
 
 + designed an M2 elective course: [Innovation & Entrepreneurship in Medicine](http://erikreinertsen.com/iemed/).
 + organized the first-ever [Medical Student Teaching Competition](http://emorymstc.com/).
