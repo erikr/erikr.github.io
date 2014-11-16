@@ -12,9 +12,9 @@ Hello, I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 + study signal processing, machine learning, statistics, & behavioral economics.
 + am interested in interventional radiology and critical care.
 
-Recent things I worked on:
+Recent things I worked on (many as team efforts):
 
-+ designed a medical school elective course: [Innovation & Entrepreneurship in Medicine](http://erikreinertsen.com/iemed/).
++ designed an M2 elective course: [Innovation & Entrepreneurship in Medicine](http://erikreinertsen.com/iemed/).
 + organized the first-ever [Medical Student Teaching Competition](http://emorymstc.com/).
 + performed clinical research on lymphedema & neuro-oncology.
 + co-founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
