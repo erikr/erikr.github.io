@@ -14,7 +14,7 @@ Hello, I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 
 Recent things I worked on:
 
-+ designed & ran a medical school elective course: [innovation & entrepreneurship in medicine](http://erikreinertsen.com/iemed/).
++ designed a medical school elective course: [Innovation & Entrepreneurship in Medicine](http://erikreinertsen.com/iemed/).
 + organized the first-ever [Medical Student Teaching Competition](http://emorymstc.com/).
 + performed clinical research on lymphedema & neuro-oncology.
 + co-founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
