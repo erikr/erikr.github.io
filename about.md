@@ -8,7 +8,7 @@ title: "About"
 
 Hello, I'm an MD-PhD student at Emory & Georgia Tech. Currently, I:
 
-+ work on medical informatics, advised by [Gari Clifford](http://gdclifford.info/gari.html).
++ perform research in medical informatics, advised by [Gari Clifford](http://gdclifford.info/gari.html).
 + study signal processing, machine learning, statistics, & behavioral economics.
 + am interested in interventional radiology and critical care.
 
