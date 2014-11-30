@@ -92,7 +92,7 @@ Careers in health innovation					| Arun Mohan MD/MBA		| Fri 11/14 at 1 pm | SoM 
 
 ###Course outcomes
 
-We administered a questionnaire before and after the elective. Students rated how much they disagreed or agreed with several statements on a scale of 1-10. A higher score indicates more agreement.
+We administered a questionnaire before and after the elective. Students rated agreement with several statements on a scale of 1-10. 5 was neutral, below 5 indicated disagreement, and above 5 indicated agreement.
 
 Before: N = 9<br>
 After: N = 7 *(the M2s started studying for Step 1; two of them did not complete the survey)*
