@@ -139,7 +139,7 @@ Primarily practicing surgeon but with a team of 2-3 people building/testing tool
 
 And one last thought that reflects my opinion on teaching:
 
-> Another point about our schedule/curriculum -- this elective worked out because Erik was cognizant of our schedule and planned around our more stressful weeks (exams, OSCE evaluations, ramping up Step 1 review). He was very responsive to how we were feeling. This was a key part of the elective's success!
++ "Another point about our schedule/curriculum -- this elective worked out because they were cognizant of our schedule and planned around our more stressful weeks (exams, OSCE evaluations, ramping up Step 1 review), and were very responsive to how we were feeling. This was a key part of the elective's success!"
 
 Teachers must understand they exist to serve their audience - the students. Constructing a syllabus, scheduling sessions, and even small logistical details must be student-centric.
 
