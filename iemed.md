@@ -141,9 +141,9 @@ And one last thought that reflects my opinion on teaching:
 
 + "Another point about our schedule/curriculum -- this elective worked out because they were cognizant of our schedule and planned around our more stressful weeks (exams, OSCE evaluations, ramping up Step 1 review), and were very responsive to how we were feeling. This was a key part of the elective's success!"
 
-Teachers must understand they exist to serve their audience - the students. Constructing a syllabus, scheduling sessions, and even small logistical details must be student-centric.
+Teachers must understand they exist to serve their constituency. Constructing a syllabus, scheduling sessions, and selecting technology for administering the course are decisions that should be made on the basis of maximizing learning, accessibility, and efficiency for the students.
 
-We also emphasized that attendance was optional. If something is actually valuable, it does not need to be mandatory. Instructors should spend less time making sessions mandatory, and more time making them useful. Some students had other things - seminars, errands, emergencies. If you cannot make your course at least as important as other competing commitments, you should step aside for a teacher who can.
+We also emphasized that attendance was optional. If something is valuable, it need not be mandatory. Instructors should spend less time enforcing attendance and more time creating worthwhile learning opportunities. Everyone has other time demands - seminars, errands, emergencies. If you cannot make your course at least as important as other competing commitments, that is your fault, not the students'.
 
 <a name="future"></a>
 
