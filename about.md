@@ -8,7 +8,7 @@ title: "About"
 
 Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently, I:
 
-+ perform clinical informatics research, advised by [Gari Clifford, D.Phil.](http://gdclifford.info/gari).
++ perform clinical informatics research, advised by [Gari Clifford](http://gdclifford.info/gari).
 + study machine learning, statistics, signal processing, and & behavioral economics.
 + explore interests in critical care medicine and/or interventional radiology.
 
