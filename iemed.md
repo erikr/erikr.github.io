@@ -4,9 +4,7 @@ permalink: /iemed/
 title: "IEMed"
 ---
 
-Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed). This is an M2 elective course at Emory University School of Medicine. [Arun Mohan, MD, MBA](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) and I ran this elective for the first time from 8/11/14 to 11/14/14.
-
-We intend to offer IEMed again in Fall 2015 for the rising M2 class.
+Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective course at Emory University School of Medicine. I ran this course with [Arun Mohan, MD, MBA](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) in Fall 2014. We intend to offer IEMed again in 2015.
 
 ###Table of Contents
 
