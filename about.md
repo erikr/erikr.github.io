@@ -6,7 +6,7 @@ title: "About"
 
 <img src="/images/erik.jpg" width="200">
 
-Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. I believe software is revolutionizing healthcare, but I also love clinical care (and miss being on the wards!). Currently, I:
+Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. I believe software is revolutionizing healthcare, but I also love clinical care (and miss being on the wards). Currently, I:
 
 + perform clinical informatics research, advised by [Gari Clifford](http://gdclifford.info/gari).
 + study machine learning, statistics, signal processing, and & behavioral economics.
