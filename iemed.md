@@ -22,9 +22,11 @@ Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective
 
 Our goal is to expose medical students to topics and career opportunities in innovation and entrepreneurship.
 
-Advances in technology, such as new vaccines, diagnostics, and therapeutic devices, revolutionize healthcare. Physicians (even trainees) can play important roles in healthcare startups that bring innovations from the bench to the bedside. MDs have many opportunities to become or work with technology innovators and/or entrepreneurs.
+Advances in technology - new vaccines, diagnostics, and therapeutic devices - have revolutionized healthcare. New fields such as cloud and mobile computing are once more transforming how we help patients. Furthermore, national policy reform has shifted financial incentives and created new market opportunities for healthcare startups.
 
-Healthcare startups deal with regulation, complex financial systems, and a high cost of entry. However, recent breakthroughs in science, including stem cell biology, data science, and nanotechnology are poised to transform medicine. Furthermore, national healthcare reform has shifted financial incentives and created new market opportunities. We envision a future where physicians engage in technology innovation and entrepreneurship as they advance patient care.
+Physicians and medical students have many opportunities to become or work with technology innovators and/or entrepreneurs, but these opportunities are often non-obvious due to clinical workload, cultural differences between tech and academia, etc. Furthermore, healthcare startups deal with regulation, complex financial systems, and a high cost of entry.
+
+Despite these challenges, we envision a future where physicians engage in technology innovation and entrepreneurship to advance patient care. This elective exposes medical students to this vision.
 
 <a name="los"></a>
 
