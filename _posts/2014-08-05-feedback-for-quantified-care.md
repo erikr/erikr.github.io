@@ -1,7 +1,7 @@
 ---
-layout: article
+layout: post
 title: Startup feedback - Quantified Care
-tags: startups, mhealth
+tags: startups, engineering
 ---
 
 [QuantifiedCare](http://www.quantifiedcare.com/) is a new startup from Johns Hopkins University. They are an online store for digital health devices:

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Tips for new undergraduate researchers
 tags: research, academia
 ---

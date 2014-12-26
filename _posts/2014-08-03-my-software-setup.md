@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: My hardware and software setup
 tags: engineering, research
 ---

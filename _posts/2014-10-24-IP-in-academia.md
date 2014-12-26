@@ -1,7 +1,7 @@
 ---
-layout: article
+layout: post
 title: IP in academia
-tags: startups, culture, academia
+tags: startups, culture, research
 ---
 
 A16Z interviewed Kunle Olukotun, a professor at Stanford in the electrical engineering and computer science departments, about "IP in the open" [[link]](http://a16z.com/2014/10/23/intellectual-property-in-the-open/):

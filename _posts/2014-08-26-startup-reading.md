@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Startup reading
 tags: startups
 ---

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: How to commercialize technology in academia
 tags: startups, culture
 ---

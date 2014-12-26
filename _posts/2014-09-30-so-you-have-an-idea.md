@@ -1,6 +1,6 @@
 ---
-layout: article
-title: So you have an idea...
+layout: post
+title: What comes after the idea?
 tags: startups, research
 ---
 

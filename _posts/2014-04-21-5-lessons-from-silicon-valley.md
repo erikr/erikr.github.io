@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Five lessons from Silicon Valley for academic medicine
 tags: startups, medicine, culture
 ---

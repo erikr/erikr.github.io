@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: The importance of writing (online)
 tags: productivity
 ---
