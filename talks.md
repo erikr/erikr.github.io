@@ -4,8 +4,6 @@ permalink: /talks/
 title: "Talks"
 ---
 
-Here are slides to some of my presentations. I enjoy improving my public speaking and graphic design skills.
-
 [Can Big Data tell us what clinical trials don't?](/assets/141022_crc.pdf). Emory University MD/PhD Clinical Research Conference, 2014.
 
 [How to win the Inventathon](/assets/141017_inventathon.pdf). UCLA Inventathon, 2014.
