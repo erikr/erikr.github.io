@@ -6,7 +6,7 @@ title: "About"
 
 <img src="/images/erik.jpg">
 
-Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Software is revolutionizing life science and healthcare, so I:
+Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Software, mobile, and cloud computing is transforming life science and healthcare. Currently I:
 
 + work on informatics and digital health, advised by [Gari Clifford](http://gdclifford.info/gari).
 + study machine learning, signal processing, and statistics.
