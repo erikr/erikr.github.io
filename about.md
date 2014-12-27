@@ -6,7 +6,8 @@ title: ""
 
 <img src="/images/erik.jpg">
 
-Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Software, mobile, and cloud computing is transforming healthcare. Currently I:
+Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. <br>
+I am interested in how software, mobile, and cloud computing are transforming healthcare, and how to combine startup speed with academic rigor so data becomes actionable insight for our patients. Currently, I:
 
 + work on informatics and digital health, advised by [Gari Clifford](http://gdclifford.info/gari).
 + study machine learning, signal processing, and statistics.
