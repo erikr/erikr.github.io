@@ -26,3 +26,9 @@ Before coming to Atlanta, I studied Bioengineering at UCLA where I worked on bio
 <i class="fa fa-linkedin"></i> | [linkedin](http://www.linkedin.com/in/erikreinertsen/)
 <i class="fa fa-github"></i> | [github](https://github.com/erikreinerts)
 <i class="fa fa-envelope"></i> | ereinerts AT gmail DOT com
+
+<footer class="footer">
+<small>
+Site built with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> using <a href="http://getpoole.com/" target="_blank">Poole</a>.
+</small>
+</footer>
