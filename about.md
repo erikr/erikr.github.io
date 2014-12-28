@@ -6,14 +6,13 @@ title: ""
 
 <img src="/images/erik.jpg">
 
-Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. <br>
-I am interested in how software, mobile, and cloud computing are transforming healthcare, and how to combine startup speed with academic rigor so data becomes actionable insight for our patients. Currently, I:
+Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently I:
 
 + work on informatics and digital health, advised by [Gari Clifford](http://gdclifford.info/gari).
 + study machine learning, signal processing, and statistics.
 + read about behavioral economics and tech culture.
 
-Recently I did some cool stuff with great colleagues and mentors:
+Other things I did recently with great colleagues and mentors:
 
 + founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
 + developed a course: [Innovation & Entrepreneurship in Medicine](http://erikreinertsen.com/iemed/).
