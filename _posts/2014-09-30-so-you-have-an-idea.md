@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What comes after the idea?
-tags: startups, research
+tags: startups
 ---
 
 *My Forge co-founder [@Evan_McClure](https://twitter.com/evan_mcclure) and I get a lot of emails from people who want to ambiguously "move forward with something". Evan wants to make this process more specific so more healthcare technology survives limbo. Here are three of his thoughts and recommended first steps, influenced by lean startup approaches.*
@@ -21,7 +21,7 @@ tags: startups, research
 
 ## 3. Get feedback.
 
-+ Interview customers to home in on your niche. Here’s a good (and short) video that will show a good way to be soliciting feedback: http://customerdevlabs.com/2013/11/05/how-i-interview-customers/
++ Interview customers to home in on your niche. Watch [this short video](http://customerdevlabs.com/2013/11/05/how-i-interview-customers/) that explains how to solicit feedback.
 + This process is iterative, not linear. While you are gaining feedback, you should be building a product (or at least building out your idea on paper) and tweaking your product idea with each interview.
 + Don’t skimp on customer development and don’t rush it. It’s very important and will save you a lot of time and hassle. We interviewed >100 entrepreneurs, clinicians, and industry professionals before we founded Forge.
 
