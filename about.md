@@ -8,7 +8,7 @@ title: ""
 
 Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently I:
 
-+ work on digital health research, advised by [Gari Clifford](http://gdclifford.info/gari).
++ work on [digital health research](http://erikreinertsen.com/research/), advised by [Gari Clifford](http://gdclifford.info/gari).
 + study machine learning, signal processing, and statistics.
 + read about behavioral economics and tech culture.
 
