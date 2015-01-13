@@ -8,9 +8,9 @@ title: ""
 
 Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently I:
 
-+ conduct [research](http://erikreinertsen.com/research/) in the field of digital health, advised by [Gari Clifford](http://gdclifford.info/gari).
-+ study machine learning, signal processing, and statistics.
-+ read about behavioral economics and tech culture.
++ conduct digital health [research](http://erikreinertsen.com/research/), advised by [Gari Clifford](http://gdclifford.info/gari).
++ study biomedical engineering and computer science.
++ read about behavioral economics and tech startups.
 
 Other things I did recently with great colleagues and mentors:
 
