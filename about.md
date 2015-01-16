@@ -19,7 +19,7 @@ Other things I did recently with great colleagues and mentors:
 + organized the first [Medical Student Teaching Competition](http://emorymstc.com/).
 + published research in reconstructive surgery and neuro-oncology.
 
-Before coming to Atlanta, I studied Bioengineering at UCLA. Previously I conducted research on cell delivery in fibrin biomaterials, and gold nanoparticles for tracking stem cells. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
+Before coming to Atlanta, I studied Bioengineering at UCLA where I conducted research on cell delivery in fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
 
 <i class="fa fa-graduation-cap"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
