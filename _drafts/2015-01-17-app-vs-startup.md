@@ -1,6 +1,6 @@
 ---
-title: Should I build an app, or found a startup?
 layout: post
+title: Should I build an app, or found a startup?
 ---
 
 If you just want to build the app, and you have a straightforward idea of what you want (I.e., you are the target market), then yes, the roadmap outlined will work fine. The hardest points will be getting a designer and developer, but my impression is that if you are developing this app for yourself and your self-market, you would rather hire contractors, and you probably don't want to manage a team, equity, etc. This line of development is also less likely to receive funding, and needs it less. It's also less likely to be a company.
