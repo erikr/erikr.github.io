@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Innovation groups at US medical schools
 tags: startups, medicine
 ---
