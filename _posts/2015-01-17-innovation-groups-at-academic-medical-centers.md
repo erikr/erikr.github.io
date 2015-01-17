@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Innovation at US medical schools
+title: Innovation groups at academic medical centers
 tags: startups, medicine
 ---
 
