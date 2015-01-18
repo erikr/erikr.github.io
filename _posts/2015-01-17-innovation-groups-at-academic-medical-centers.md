@@ -29,7 +29,6 @@ Stanford | [BioDesign](http://biodesign.stanford.edu/bdn/index.jsp)
 UCSF | [Center for Digital Health Innovation](http://centerfordigitalhealthinnovation.org/)
 UCLA | [Startup in a Box](http://oip.ucla.edu/ucla-startup-box)
 UCSD | [Moxie Center](http://www.jacobsschool.ucsd.edu/moxiecenter/)
-
 Mayo | [Center for Innovation](http://www.mayo.edu/center-for-innovation/)
 Tufts | [MedStart](http://tuftsmedstart.com/)
 Columbia | [HITLAB](http://www.hitlab.org/)
