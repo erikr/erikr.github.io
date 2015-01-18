@@ -4,14 +4,17 @@ title: Innovation groups at academic medical centers
 tags: startups, medicine
 ---
 
-My definition of innovation includes tech, entrepreneurship, design, and business development. Here are academic centers, groups, or organizations at or affiliated with medical schools:
+Inclusion criteria: academic centers, groups, or organizations at / near / or affiliated with medical schools, focused on technology, entrepreneurship, design, and commercialization.
+
+Exclusion criteria: focus on care delivery, quality, etc. without an emphasis on technology (these centers frequently employ the term 'innovation') or a lack of recent activity.
 
 Duke | [DUSOM Innovation & Entrepreneurship](http://sites.duke.edu/dusomie/)
 Duke | [Duke Institute for Healthcare Innovation](http://www.dihi.org/)
-Yale | [Center for Biomedical & Interventional Techn](http://medicine.yale.edu/cbit/)
+Yale | [Center for Biomedical & Interventional Tech](http://medicine.yale.edu/cbit/)
 Hopkins | [FastForward](http://engineering.jhu.edu/fastforward/)
 UPenn | [Center for Health Care Innovation](http://www.uphs.upenn.edu/center-for-innovation/)
 Emory & GaTech | [Forge](http://forgehealth.org)
+Emory | [Drug Innovation Ventures](http://driveinnovations.org/)
 Harvard | [Harvard Innovation Lab](https://i-lab.harvard.edu/)
 Harvard | [Blavatnik Biomedical Accelerator](http://otd.harvard.edu/accelerators/blavatnik-biomedical-accelerator/)
 Harvard/Partners | [RHINNO](http://rhinno.partners.org/)
@@ -24,7 +27,9 @@ MIT | [Hacking Medicine](http://hackingmedicine.mit.edu/)
 Stanford | [StartX](startx.stanford.edu)
 Stanford | [BioDesign](http://biodesign.stanford.edu/bdn/index.jsp)
 UCSF | [Center for Digital Health Innovation](http://centerfordigitalhealthinnovation.org/)
-UCLA | [Institute for Innovation in Health](http://uclainnovates.org/)
+UCLA | [Startup in a Box](http://oip.ucla.edu/ucla-startup-box)
+UCSD | [Moxie Center](http://www.jacobsschool.ucsd.edu/moxiecenter/)
+
 Mayo | [Center for Innovation](http://www.mayo.edu/center-for-innovation/)
 Tufts | [MedStart](http://tuftsmedstart.com/)
 Columbia | [HITLAB](http://www.hitlab.org/)
