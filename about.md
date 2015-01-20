@@ -10,12 +10,12 @@ Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently I:
 
 + conduct digital health [research](http://erikreinertsen.com/research/), advised by [Gari Clifford](http://gdclifford.info/gari).
 + study biomedical engineering and computer science.
-+ read about behavioral economics and tech startups.
++ read about behavioral economics and startups.
 
-Other things I did recently with great colleagues and mentors:
+Previously I:
 
-+ founded [Forge](http://forgehealth.org), a nonprofit organization that supports healthcare startups.
-+ developed a [medical school course](http://erikreinertsen.com/iemed/) on innovation & entrepreneurship.
++ founded [Forge](http://forgehealth.org) to support healthcare startups.
++ developed a [course](http://erikreinertsen.com/iemed/) on innovation & entrepreneurship.
 + organized the first [Medical Student Teaching Competition](http://emorymstc.com/).
 + published research in reconstructive surgery and neuro-oncology.
 
@@ -28,7 +28,7 @@ Before coming to Atlanta, I studied Bioengineering at UCLA where I conducted res
 <i class="fa fa-envelope"></i> | ereinerts AT gmail DOT com
 
 <footer class="footer">
-<small>
+<small><br>
 Site built with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> using <a href="http://getpoole.com/" target="_blank">Poole</a>.
 </small>
 </footer>
