@@ -38,4 +38,5 @@ Non-academic healthcare accelerators and seed funds, by location:
 SF | [Rock Health](http://rockhealth.com/)
 NYC | [Blueprint Health](http://www.blueprinthealth.org/)
 Kansas City | [Sprint Accelerator](http://sprintaccel.com/)
+Baltimore, Philly | [DreamIT Health](http://www.dreamithealth.com/)
 Everywhere | [Healthbox](https://www.healthbox.com/)
