@@ -3,9 +3,9 @@ layout: post
 title: How we started Forge
 ---
 
-> This is the inaugaral blog post I wrote for Forge's new website.
+> This is the inaugural blog post I wrote for Forge's new website.
 
-We're kicking off 2015 with an inaugural blog post exploring Forge’s story, principles, and vision of improving healthcare through technology. I will also highlight five lessons we learned along the way.
+I am excited to kick off 2015 with an inaugural blog post exploring Forge’s story, principles, and vision of improving healthcare through technology. I will also highlight five lessons we learned along the way.
 
 Rewind to 2013: as a medical student interested in building new ways to help patients, I was not alone in Atlanta. My colleagues and I enjoyed meeting with residents, faculty, and young professionals to discuss technology innovation in medicine. Our gatherings were informal – a one-on-one for coffee, or a brunch over mutual interests.
 
