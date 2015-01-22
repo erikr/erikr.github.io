@@ -5,7 +5,7 @@ title: How we started Forge
 
 > This is the inaugaral blog post I wrote for Forge's new website.
 
-To kick off 2015, I am excited to share Forge’s story, principles, and vision. I will also highlight five lessons we learned along the way.
+We're kicking off 2015 with an inaugural blog post exploring Forge’s story, principles, and vision of improving healthcare through technology. I will also highlight five lessons we learned along the way.
 
 Rewind to 2013: as a medical student interested in building new ways to help patients, I was not alone in Atlanta. My colleagues and I enjoyed meeting with residents, faculty, and young professionals to discuss technology innovation in medicine. Our gatherings were informal – a one-on-one for coffee, or a brunch over mutual interests.
 
@@ -21,7 +21,7 @@ Although barely a few weeks into 2015, Forge is already surging forward with new
 
 However, we must always focus on the signal instead of the noise. There is so much of the latter. Every week there is a new meetup, organization, or gala. But what is actually useful? We are often asked questions like “how many people attend your events?”, and “how much money have you raised?”. I consider these vanity metrics irrelevant in lieu of Forge’s real vision: to improve healthcare through technology. **Lesson 5 is about focus**: constantly debate, measure, and revise what actually matters. When a founder builds something that helps a single patient or a provider, the thousands of hours of work from our team will not feel like a donation. It will feel like an investment, and I am confident it will be among the best we ever make.
 
-Our journey has taught us a lot, and hopefully provided value to our growing healthcare startup ecosystem. We are grateful to leaders like Jack Tillman, Rachael Hagan, Harold Solomon, and David Hartnett for their support. But our work has only begun. Our team envisions Atlanta as a destination for outstanding healthcare founders and investors. We invite you to join us as we invent the future of medicine.
+Our journey has taught us a lot, and hopefully provided value to our growing healthcare startup ecosystem. We are grateful to leaders like Jack Tillman, Rachael Hagan, Harold Solomon, and David Hartnett for their support. But our work has only begun. Even if our individual role is small, our team joins many others in envisioning Atlanta as a destination for outstanding healthcare founders and investors. We invite you to join us as we invent the future of medicine.
 
 *Erik Reinertsen<br>
 Co-Founder & Co-Managing Director<br>
