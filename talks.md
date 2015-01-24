@@ -4,6 +4,8 @@ permalink: /talks/
 title: "Talks"
 ---
 
+[How to design outstanding technical presentations.](/assets/150124_ygtlc.pdf) Young Generation Technical & Leadership Conference. Orlando, FL. 2015.
+
 [Can Big Data tell us what clinical trials don't?](/assets/141022_crc.pdf) Emory University MD/PhD Clinical Research Conference. Atlanta, GA. 2014.
 
 [How to win the Inventathon.](/assets/141017_inventathon.pdf) UCLA Inventathon. Los Angeles, CA. 2014.
