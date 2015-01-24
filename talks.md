@@ -16,4 +16,4 @@ title: "Talks"
 
 [Enhancing cell viability by controlling the O2 diffusion-consumption profile via rational cell distribution.](/assets/110913_wulab.pdf) Wu Lab at UCLA. Los Angeles, CA. 2011.
 
-*I attribute all images, icons, and references to their original sources and make no claims to copyright or ownership to content aside from my own data.*
+*I attribute all images, icons, and references to their original sources, and make no claims to copyright or ownership to content aside from my own data or designs.*
