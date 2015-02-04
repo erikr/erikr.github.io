@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /reading/
+title: ""
 ---
 
 <script>
