@@ -9,6 +9,7 @@ tags: academia
 ##Software
 
 + Build a simple personal website using HTML, CSS, and Javascript.
++ Implement version control (Git, Subversion) in your coding workflow.
 
 ##Mechanics
 
@@ -31,6 +32,7 @@ tags: academia
 ##Physiology & pathophysiology
 
 + Diabetes mellitus
++ Oncology: mutations, oncogenes, and suppressors.
 
 ##Recent breakthroughs and new tools (give one example for each)
 
