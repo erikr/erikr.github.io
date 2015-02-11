@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How we started Forge
+title: Why we started Forge
 ---
 
 > This is the inaugural blog post I wrote for Forge's new website.
