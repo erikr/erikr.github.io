@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Innovation groups at academic medical centers
+title: Tech entrepreneurship groups at academic medical centers
 tags: startups, medicine
 ---
 
-Inclusion criteria: academic centers, groups, or organizations at / near / or affiliated with medical schools, focused on technology, entrepreneurship, design, and commercialization.
-
-Exclusion criteria: focus on care delivery, quality, etc. without an emphasis on technology (these centers frequently employ the term 'innovation') or a lack of recent activity.
+Here I list academic centers, groups, or organizations at / near / or affiliated with medical schools, focused on technology, entrepreneurship, design, and commercialization.
 
 Duke | [DUSOM Innovation & Entrepreneurship](http://sites.duke.edu/dusomie/)
 Duke | [Duke Institute for Healthcare Innovation](http://www.dihi.org/)
