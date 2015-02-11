@@ -4,7 +4,7 @@ permalink: /about/
 title: ""
 ---
 
-<img src="/images/erik.jpg">
+<img src="/images/erik.png">
 
 Hello, I'm an M.D./Ph.D. student at Emory & Georgia Tech. Currently I:
 
