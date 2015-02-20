@@ -25,7 +25,7 @@ I also help organize conferences for the [Korean-American Scientists and Enginee
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-linkedin"></i> | [linkedin](http://www.linkedin.com/in/erikreinertsen/)
 <i class="fa fa-github"></i> | [github](https://github.com/erikreinerts)
-<i class="fa fa-envelope"></i> | ereinerts AT gmail DOT com
+<i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
 
 <footer class="footer">
 <small><br>
