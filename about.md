@@ -6,7 +6,7 @@ title: ""
 
 <img src="/images/erik.png">
 
-I'm an M.D./Ph.D. student learning about biomedical engineering and computer science at Emory & Georgia Tech. I conduct clinical informatics [research](http://erikreinertsen.com/research/) advised by [Gari Clifford](http://gdclifford.info/gari), and read about behavioral economics and startups.
+Hello! I'm an M.D./Ph.D. student at Emory & Georgia Tech advised by [Gari Clifford](gdclifford.info/gari). My interests include clinical informatics, predictive analytics, mobile technology, and behavioral economics.
 
 Previously I:
 
