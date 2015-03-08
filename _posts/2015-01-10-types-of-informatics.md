@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Types of informatics
+tags: research
 ---
 
 Here is a simple overview of types of informatics in biomedicine.

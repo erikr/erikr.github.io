@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why we started Forge
+tags: startups, culture
 ---
 
 > This is the inaugural blog post I wrote for Forge's new website.
