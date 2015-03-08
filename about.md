@@ -21,7 +21,7 @@ Before coming to Atlanta, I studied Bioengineering at UCLA where I worked in the
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-file-text"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
 <i class="fa fa-linkedin"></i> | [linkedin](http://www.linkedin.com/in/erikreinertsen/)
-<i class="fa fa-github"></i> | [github](https://github.com/erikreinerts)
+<!-- <i class="fa fa-github"></i> | [github](https://github.com/erikreinerts) -->
 <i class="fa fa-graduation-cap"></i> | [google scholar](https://scholar.google.com/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao)
 <i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
 
