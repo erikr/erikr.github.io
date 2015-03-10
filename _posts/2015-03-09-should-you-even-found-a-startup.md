@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turning an idea into a startup without a technical background
+title: Should you even found a startup?
 tags: startups
 ---
 
