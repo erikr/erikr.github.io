@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Should you even found a startup?
 tags: startups
@@ -10,7 +10,7 @@ My response was simple - find a technical co-founder. But my underlying concern 
 
 Steve Blank believes [founders should know how to code](http://steveblank.com/2014/09/03/should-founders-know-how-to-code/), and many others agree. Now, some startups require little technical expertise, like [this idea for a packing box](http://news.emory.edu/stories/2014/05/er_student_shark_tank_update/campus.html). However, a startup involving sequencing, genomics, and nanopore technology requires knowledge of genetics, electrical engineering, and computer science.
 
-If you are a first-time founder and read stuff online, you may feel compelled to find MBAs, develop a marketing plan, look for space, incorporate as a legal entity, etc. However, none of those things are important even though they look fun and cool.
+If you are a new founder and read stuff online, you may feel compelled to find MBAs, develop a marketing plan, look for space, incorporate as a legal entity, etc. However, none of those things are important even though they look fun and cool.
 
 I told the student to focus on two things right now: 1) build the technology and 2) find your market by talking to users. Marc Andreessen wrote a [great article about product/market fit](https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen).
 
