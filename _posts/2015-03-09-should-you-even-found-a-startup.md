@@ -18,10 +18,12 @@ Founders should iterate towards product-market fit, not go through the motions o
 
 However, many new founders spend time on other things that look and feel cool. They feel compelled to find MBAs, develop a marketing plan, look for space, incorporate as a legal entity, etc. Everyone wants to be called CEO. Unfortunately, these things are not directly in service of building a great company.
 
-I see a lot of wantrepreneurs go through these motions of being a founder, especially at universities. College may not be the best time to found a startup. Perhaps the best time is after you graduate or between jobs (although Peter Thiel likely disagrees). On that note, university start-up programs generally have no idea what they are doing, and can even hurt student's career opportunities.
-
-Startups change the world, but it is worrisome to see ambitious young people drop out of school, raise other people's money, and dive into a side of the pool that is far too deep. Everyone wants founders to swim well, not drown. My point is that people should probably spend more time learning about the world and how to be useful in it before becoming a founder. And if you go for it, commit 100%. Paul Graham writes about this in his post ["before the startup"](http://www.paulgraham.com/before.html):
+I see a lot of wantrepreneurs go through these motions of being a founder. Paul Graham writes about this in his post ["before the startup"](http://www.paulgraham.com/before.html):
 
 > Because another of the characteristic mistakes of young founders is to go through the motions of starting a startup. They make up some plausible-sounding idea, raise money at a good valuation, rent a cool office, hire a bunch of people. From the outside that seems like what startups do. But the next step after rent a cool office and hire a bunch of people is: gradually realize how completely fucked they are, because while imitating all the outward forms of a startup they have neglected the one thing that's actually essential: making something people want.
 
-Work insanely hard to build something people love, figure out who loves it, and get it to them. Don't read TechCrunch and be a part-time founder. Do work that people read about on TechCrunch. And if the time is not right to do that, then learn as much as you can and do something else meaningful with your life.
+This seems common among young founders still in college, which may not be the best time to found a startup. Better times are while you are not in school, e.g. dropping out, after you graduate, or between jobs. On that note, university start-up programs generally have no idea what they are doing, and can even hurt student's career opportunities.
+
+Startups change the world, but it is worrisome to see ambitious young people drop out of school, raise other people's money, and dive into a side of the pool that is far too deep. Everyone wants founders to swim well, not drown. My point is that people should probably spend more time learning about the world and how to be useful in it before becoming a founder. And if you go for it, commit 100%.
+
+Don't read TechCrunch and be a part-time founder. Do work that people read about on TechCrunch by building something people love. And if the time is not right to do that, then learn as much as you can and do something else meaningful with your life.
