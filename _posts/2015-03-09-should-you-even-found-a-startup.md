@@ -4,7 +4,7 @@ title: Should you even found a startup?
 tags: startups
 ---
 
-An undergraduate student recently asked me for help with a startup involving genomic technology. They filed a provisional patent, and were looking for an engineer and space to build a prototype. They were also thinking of finding a PI to be eligible to apply for SBIR or STTR funding. The student asked how to find resources necessary to develop the prototype.
+An undergraduate student recently asked me for advice on a startup involving genomic technology. They filed a provisional patent, and were looking for an engineer and space to build a prototype. They were also thinking of finding a PI to be eligible to apply for SBIR or STTR funding. The student asked how to find resources necessary to develop the prototype.
 
 My response was simple - find a technical co-founder. But my underlying concern extends beyond this.
 
