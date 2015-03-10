@@ -12,7 +12,7 @@ Technical startups should have a technical (co-)founder. Steve Blank believes [f
 
 If a technical startup lacks technical talent, it can be hard to attract funding, advising, or early employees. I am concerned by the lack of a PI, technical co-founder, prototype, domain expertise, or understanding of the customer. Does the technology even exist?
 
-Spend your time iterating towards product-market fit, not going through the motions of running a startup. As Sam Altman says, ["The Y Combinator version of focus is “write code and talk to users."](http://blog.samaltman.com/how-things-get-done). Do things that bring you closer to product-market fit. In fact, Marc Andreessen believes [product-market fit is all that matters]((https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen):
+Spend your time iterating towards product-market fit, not going through the motions of running a startup. As Sam Altman says, ["The Y Combinator version of focus is “write code and talk to users."](http://blog.samaltman.com/how-things-get-done). Do things that bring you closer to product-market fit. In fact, Marc Andreessen believes [product-market fit is all that matters](https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen):
 
 > Whenever you see a successful startup, you see one that has reached product/market fit
 
