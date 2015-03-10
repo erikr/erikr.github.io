@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: Should you even found a startup?
 tags: startups
@@ -14,7 +14,7 @@ If you are a first-time founder and read stuff online, you may feel compelled to
 
 I told the student to focus on two things right now: 1) build the technology and 2) find your market by talking to users. Marc Andreessen wrote a [great article about product/market fit](https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen).
 
-I am concerned by the lack of a technical co-founder, prototype, domain expertise, or understanding of the customer. The concept is to uniquely identify individuals based on SNP profiles or something (I honestly do not know the details), but it remains to be seen how this can be done in a commercially useful and scalable fashion.
+I am concerned by the lack of a PI, technical co-founder, prototype, domain expertise, or understanding of the customer. Does the technology even exist? The concept is to uniquely identify individuals based on SNP profiles or something (I honestly do not know the details), but it remains to be seen how this can be done in a commercially useful and scalable fashion.
 
 I notice a lot of young "wantrepreneurs" go through the motions of being a founder. These motivated young people are unaware of the shockingly low probability of success and unprepared to pay the true costs of success (skill, luck, time, psychology, etc.). I worry that hype paints false pictures of what a startup is. Startup culture celebrates failure, and pragmatism becomes warped by deceptive optimism. There is more noise than signal.
 
