@@ -14,7 +14,7 @@ If a technical startup lacks technical talent, it can be hard to attract funding
 
 Spend your time iterating towards product-market fit, not going through the motions of running a startup. As Sam Altman says, ["The Y Combinator version of focus is “write code and talk to users."](http://blog.samaltman.com/how-things-get-done). Do things that bring you closer to product-market fit. In fact, Marc Andreessen believes [product-market fit is all that matters](https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen):
 
-> Whenever you see a successful startup, you see one that has reached product/market fit
+> Whenever you see a successful startup, you see one that has reached product/market fit...
 
 However, many new founders spend time on stuff ASIDE from iterating towards product-market fit. They feel compelled to find MBAs, develop a marketing plan, look for space, incorporate as a legal entity, etc. Even though these things look and feel cool, pretending to run a company gets in the way of building a great company.
 
