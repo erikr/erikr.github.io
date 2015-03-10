@@ -24,6 +24,6 @@ I see a lot of wantrepreneurs go through these motions of being a founder. Paul 
 
 This seems common among young founders still in college, which may not be the best time to found a startup. Better times are while you are not in school, e.g. after you drop out, graduate, or leave a job. On that note, university start-up programs generally have no idea what they are doing, and can even hurt student's career opportunities. But that is a post for another time.
 
-Startups change the world, but it is worrisome to see ambitious young people drop out of school, raise other people's money, and dive into a side of the pool that is far too deep. Everyone wants founders to swim well, not drown. My point is that people should probably spend more time learning about the world and how to be useful in it before becoming a founder. And if you go for it, commit 100% so you succeed!
+Startups change the world, but it is worrisome to see ambitious young people drop out of school, raise other people's money, and dive into a side of the pool that is far too deep. Founders should swim like Michael Phelps, not drown. My point is that people should probably spend more time learning about the world and how to be useful in it before committing 100% to being a winning founder.
 
-Don't read TechCrunch and be a part-time founder. Do work that people read about on TechCrunch by building something people love. And if the time is not right to do that, then learn as much as you can and do something else meaningful with your life.
+Don't read TechCrunch and be a part-time founder. Do work that people read about on TechCrunch by building something people love. And if the time is not right, learn as much as you can and do something else that is meaningful.
