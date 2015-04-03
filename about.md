@@ -24,7 +24,7 @@ Before coming to Atlanta, I studied Bioengineering at UCLA where I worked in the
 <i class="fa fa-graduation-cap"></i> | [google scholar](https://scholar.google.com/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao)
 <i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
 
-Disclaimer: views are my own and do not reflect the views of my current or previous institutions.
+Disclaimer: views on this website are my own and do not reflect the views of my current or previous institutions.
 
 <footer class="footer">
 <small><br>
