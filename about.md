@@ -6,7 +6,7 @@ title: ""
 
 <img src="/images/erik.png">
 
-Hello! I'm an M.D./Ph.D. student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). My [research interests](http://erikreinertsen.com/research) include predictive analytics, mobile technology, and behavioral economics. Clinical applications include cardiology, psychiatry, infecitous disease, and critical care.
+Hello! I'm an M.D./Ph.D. student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). My [research interests](http://erikreinertsen.com/research) include predictive analytics, mobile technology, and behavioral economics. Clinical applications include cardiology, psychiatry, infectious disease, and critical care.
 
 Previously I:
 
