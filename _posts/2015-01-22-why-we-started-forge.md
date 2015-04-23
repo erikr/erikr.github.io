@@ -24,6 +24,6 @@ However, we must always focus on the signal over the noise. There is too much of
 
 Our journey has taught us a lot, and hopefully provided value to our growing healthcare startup ecosystem. We are grateful to leaders like Jack Tillman, Rachael Hagan, Harold Solomon, and David Hartnett for their support. But our work has only begun as we make Atlanta a destination for outstanding healthcare founders and investors. On behalf of our leadership team, I invite you to join Forge as we invent the future of medicine.
 
-*Erik Reinertsen<br>
+*Erik Reinertsen*<br>
 Co-Founder & Director of Clinical Partnerships, Forge<br>
 MD/PhD student, Emory & Georgia Tech
