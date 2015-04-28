@@ -4,7 +4,7 @@ permalink: /talks/
 title: "Talks"
 ---
 
-[Startup pitch deck template](/assets/pitchdeck.pptx) based on [this awesome guide](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) by Guy Kawasaki.
+[Startup pitch deck template](/assets/pitchdeck.pptx) based on [this awesome guide](http://visual.ly/only-10-slides-you-need-pitch) by Guy Kawasaki.
 
 [How to design outstanding technical presentations.](/assets/150124_ygtlc.pdf) Young Generation Technical & Leadership Conference. Orlando, FL. 2015.
 
