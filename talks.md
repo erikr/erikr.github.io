@@ -4,6 +4,8 @@ permalink: /talks/
 title: "Talks"
 ---
 
+[Startup pitch deck template](/assets/pitchdeck.pptx) based on [this awesome guide](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) by Guy Kawasaki.
+
 [How to design outstanding technical presentations.](/assets/150124_ygtlc.pdf) Young Generation Technical & Leadership Conference. Orlando, FL. 2015.
 
 [Can Big Data tell us what clinical trials don't?](/assets/141022_crc.pdf) Emory University MD/PhD Clinical Research Conference. Atlanta, GA. 2014.
