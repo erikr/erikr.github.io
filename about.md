@@ -6,7 +6,7 @@ title: ""
 
 <img src="/images/erik.png">
 
-Hello! I'm an M.D./Ph.D. student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). My [research interests](http://erikreinertsen.com/research) include machine learning, signal processing, mobile technology, and behavioral economics. Clinical applications include cardiology, psychiatry, infectious disease, and critical care.
+Hello! I'm an MD/PhD student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). My [research interests](http://erikreinertsen.com/research) include machine learning, signal processing, mobile technology, and behavioral economics. Clinical applications include cardiology, psychiatry, infectious disease, and critical care.
 
 Previously I:
 
@@ -16,7 +16,7 @@ Previously I:
 + published research in reconstructive surgery and neuro-oncology.
 + helped organize technical & leadership conferences for [KSEA](http://ksea.org/).
 
-I earned a B.S. in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
+I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
 
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-file-text"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
