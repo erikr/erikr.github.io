@@ -18,8 +18,6 @@ Previously I:
 
 
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
-=======
-I earned a B.S. in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
 
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-file-text"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
