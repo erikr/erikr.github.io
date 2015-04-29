@@ -25,7 +25,7 @@ I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab]
 <i class="fa fa-graduation-cap"></i> | [google scholar](https://scholar.google.com/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao)
 <i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
 
-Disclaimer: views on this website are my own and do not reflect the views of my institutions.
+*Views on this website are my own and do not reflect the views of my institutions.*
 
 <footer class="footer">
 <small><br>
