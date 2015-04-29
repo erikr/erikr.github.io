@@ -16,15 +16,24 @@ Previously I:
 + published research in reconstructive surgery and neuro-oncology.
 + helped organize technical & leadership conferences for [KSEA](http://ksea.org/).
 
+<<<<<<< HEAD
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
+=======
+I earned a B.S. in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
+>>>>>>> fcc2dd4937528a58a112a41ef22c906d0bb50efd
 
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-file-text"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
 <i class="fa fa-linkedin"></i> | [linkedin](http://www.linkedin.com/in/erikreinertsen/)
 <i class="fa fa-graduation-cap"></i> | [google scholar](https://scholar.google.com/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao)
 <i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
+<<<<<<< HEAD
 <br>
 *Views on this website are my own and do not reflect the views of my institutions.*
+=======
+
+Disclaimer: views on this website are my own and do not reflect the views of my institutions.
+>>>>>>> fcc2dd4937528a58a112a41ef22c906d0bb50efd
 
 <footer class="footer">
 <small><br>
