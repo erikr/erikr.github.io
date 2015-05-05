@@ -6,26 +6,26 @@ title: ""
 
 <img src="/images/erik.png">
 
-Hello! I'm an MD/PhD student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). Our group works on signal processing, machine learning and physiological modeling to reduce costs, increase accuracy and improve access in healthcare using enormous high frequency, multivariate data streams.
+Hello! I'm an MD/PhD student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). Our group works on signal processing, machine learning & physiological modeling to reduce costs, increase accuracy, & improve access in healthcare using enormous, high frequency, & multivariate data streams.
 
 Previously I:
 
-+ founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
-+ developed a [course](http://erikreinertsen.com/iemed/) on innovation & entrepreneurship.
++ co-founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
++ developed a [course](http://erikreinertsen.com/iemed/) on technology entrepreneurship.
 + organized the first [Medical Student Teaching Competition](http://emorymstc.com/).
-+ published research in reconstructive surgery and neuro-oncology.
-+ helped organize technical & leadership conferences for [KSEA](http://ksea.org/).
++ published research in reconstructive surgery & neuro-oncology.
++ helped organize technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
 
+I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials and also stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, & grew up in Southern California.
 
-I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, and grew up in Southern California.
-
+<br>
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-file-text"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
 <i class="fa fa-linkedin"></i> | [linkedin](http://www.linkedin.com/in/erikreinertsen/)
 <i class="fa fa-graduation-cap"></i> | [google scholar](https://scholar.google.com/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao)
 <i class="fa fa-envelope"></i> | <a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a>
 
-*Views on this website are my own and do not reflect the views of my institutions.*
+*Views on this website are my own & do not reflect the views of my institutions.*
 
 <footer class="footer">
 <small><br>
