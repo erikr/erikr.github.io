@@ -16,7 +16,7 @@ Previously I:
 + published research in reconstructive surgery and neuro-oncology.
 + organized technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
 
-I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, given a cool Norwegian surname, and grew up skateboarding in Redondo Beach, California.
+I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, given a cool Norwegian surname, and grew up skateboarding in California.
 <br>
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
 <i class="fa fa-file-text"></i> | [curriculum vitae](https://dl.dropboxusercontent.com/u/1102315/Erik%20Reinertsen%20CV.pdf)
