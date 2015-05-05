@@ -13,10 +13,10 @@ Previously I:
 + co-founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
 + developed a [course](http://erikreinertsen.com/iemed/) on technology entrepreneurship.
 + organized the first [Medical Student Teaching Competition](http://emorymstc.com/).
-+ published research in reconstructive surgery & neuro-oncology.
++ published research in reconstructive surgery and neuro-oncology.
 + organized technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
 
-I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials and also stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, & grew up in Southern California.
+I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, given a cool Norwegian surname, and grew up in Southern California.
 
 <br>
 <i class="fa fa-twitter"></i> | [@ereinerts](http://www.twitter.com/ereinerts)
