@@ -14,7 +14,7 @@ Previously I:
 + developed a [course](http://erikreinertsen.com/iemed/) on technology entrepreneurship.
 + organized the first [Medical Student Teaching Competition](http://emorymstc.com/).
 + published research in reconstructive surgery & neuro-oncology.
-+ helped organize technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
++ organized technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
 
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials and also stem cell imaging using gold nanoparticles. I was adopted from South Korea, hence the Norwegian surname, & grew up in Southern California.
 
