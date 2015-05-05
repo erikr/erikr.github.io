@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup reading
+title: Startup reading list
 tags: startups
 ---
 

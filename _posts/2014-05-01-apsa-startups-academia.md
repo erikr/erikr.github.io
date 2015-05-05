@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to commercialize technology in academia
+title: APSA leaders on commercializing technology in academia
 tags: startups, culture
 ---
 

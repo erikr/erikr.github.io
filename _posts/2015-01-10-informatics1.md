@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Types of informatics
+title: Types of informatics in biomedicine
 tags: research
 ---
 
