@@ -19,7 +19,7 @@ Prior to the real questions, I was asked to introduce myself and my research in 
 1. Explain what happens electrically when your heart beats. 
     1. Draw the ECG waveform.
 	2. Explain how the ECG records electrical activity from the heart.
-	3. Write an algorithm to determine heart rate from ECG data.
+	3. Write an algorithm to determine heart rate from ECG data in real-time.
 	4. What is the appropriate frequency to measure the QRS complex?
 	5. Describe a different way of doing q1.3.
 	6. How do you accomplish q1.3. in the presence of noise?
