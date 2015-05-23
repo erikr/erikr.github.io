@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for writing your personal statement
+title: Tips for writing the personal statement
 tags: medicine
 ---
 
