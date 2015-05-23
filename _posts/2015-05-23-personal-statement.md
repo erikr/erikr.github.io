@@ -45,7 +45,7 @@ Next, organize your raw material into **groups** based on theme or time. Each gr
 
 Next, gather 3-5 related groups into a **family**. Each family is a potential essay with one thesis sentence that links the summaries of the groups. A thesis might be "a lifelong passion for serving others with my gifts". Groups within this family could include volunteer experiences, or aspects of service and leadership in your research or clinical experiences.
 
-Explore several essay ideas and see what tells your story best. Go with your gut. Writing a story that is authentically "you" is a more interesting story versus your guess of what admissions committees want to read.
+Explore several essay ideas and see what tells your story best. Go with your gut. Write a story that is authentically "you". This makes a more interesting story than guessing what admissions committees want to read.
 
 <br>
 
@@ -86,3 +86,4 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 + Don't start every sentence with "I...". Switch it up.
 + Don't follow every suggestion from your essay reviewers. This is YOUR essay. Their feedback will start to conflict eventually.
 + Don't lie or exaggerate.
++ Don't write the same cliché that every other premed writes, i.e. "My parents were doctors, I volunteered in Africa, ran a few gels in a lab, and now want to go to medical school."
