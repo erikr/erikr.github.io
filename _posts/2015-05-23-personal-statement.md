@@ -76,6 +76,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 + Transition between ideas and paragraphs.
 + Quantify achievements ("I raised $50,000 for my nonprofit organization").
 + Engage the reader's emotion through sharing experiences that were emotional to you.
++ Perfect is the enemy of done. Submit your primary in June. The marginal benefit from polishing your essay is not worth the cost of applying late.
 
 <br>
 
