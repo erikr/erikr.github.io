@@ -53,7 +53,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 
 + Select one **family** from your brainstorm, then flesh it out with full sentences.
 + Just tell your story. It is acceptable to write "stream of consciousness" because you'll revise later.
-+ Protect some time to write, then double it.
++ Set aside time to write, then double that time.
 + Use a real text editor. Google it. Also, try [Hemingway editor](http://www.hemingwayapp.com/) to aid brevity.
 
 <br>
@@ -72,7 +72,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 ##Do's
 
 + Start your PS in March so you can submit in June.
-+ Keep it simple.
++ Keep it simple, brief, and organized.
 + Transition between ideas and paragraphs.
 + Obtain feedback from several close mentors and friends.
 + Quantify achievements ("I raised $50,000 for my nonprofit organization").
@@ -83,7 +83,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 ##Dont's
 
 + Don't embellish your essay with complex sentences and fancy vocabulary.
-+ Don't start every sentence with "I...". Switch it up.
-+ Don't follow every suggestion from your essay reviewers. This is YOUR essay. Their feedback will start to conflict eventually.
++ Don't start every sentence with "I...". Add variety.
++ Don't follow every suggestion from your essay reviewers. This is YOUR essay. Their feedback eventually conflicts.
 + Don't lie or exaggerate.
 + Don't write the same cliché that every other premed writes, i.e. "My parents were doctors, I volunteered in Africa, ran a few gels in a lab, and now want to go to medical school."
