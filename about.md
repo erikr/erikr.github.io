@@ -6,15 +6,18 @@ title: ""
 
 <img src="/images/erik.png">
 
-Hello! I'm an MD/PhD student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). My [research interests](http://erikreinertsen.com/research/) include healthcare applications of signal processing, machine learning, and mobile technology.
+Hello! I'm an MD/PhD student at Emory & Georgia Tech studying BME & CS.
 
-Previously I:
+I am a biomedical data scientist in training, advised by [Gari Clifford, DPhil](http://gdclifford.info/gari).
+<br>Read more about my [research](http://erikreinertsen.com/research).
 
-+ co-founded [Forge](http://forgehealth.org), a nonprofit that supports healthcare startups.
-+ developed a [course](http://erikreinertsen.com/iemed/) on technology entrepreneurship.
-+ organized the first [Medical Student Teaching Competition](http://emorymstc.com/).
+Other things I do (or used to do):
+
++ help healthcare startup founders through [Forge](http://forgehealth.org), a nonprofit I co-founded.
++ run an [M2 elective course](http://erikreinertsen.com/iemed/) on medtech innovation.
++ organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
++ organize technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
 + published research in reconstructive surgery and neuro-oncology.
-+ organized technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
 
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on cell delivery with fibrin biomaterials, and stem cell imaging using gold nanoparticles. I was adopted from South Korea, given a cool Norwegian surname, and grew up skateboarding near the beach in Southern California.
 <br>

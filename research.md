@@ -4,8 +4,8 @@ permalink: /research/
 title: "Research"
 ---
 
-I am interested in healthcare monitoring, prediction, and modeling using signal processing, machine learning, and mobile technology.
+The Clifford Lab works on signal processing, machine learning, and physiological modeling to reduce costs, increase accuracy, and improve access in healthcare using enormous, high frequency, and multivariate data streams.
 
-Clinical applications include infectious disease epidemiology, heart failure, sepsis, mental health, and more.
+Clinical applications include cardiovascular health, infectious disease epidemiology, sepsis and critical care medicine, sleep and mental health, etc.
 
-Information on specific projects coming soon.
+Information on my specific projects coming soon!
