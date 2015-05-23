@@ -6,10 +6,9 @@ title: ""
 
 <img src="/images/erik.png">
 
-Hello! I'm an MD/PhD student at Emory & Georgia Tech studying BME & CS.
+Hello! I'm an MD/PhD student at Emory & Georgia Tech, and a biomedical data scientist in training, advised by [Gari Clifford, DPhil](http://gdclifford.info/gari).
 
-I am a biomedical data scientist in training, advised by [Gari Clifford, DPhil](http://gdclifford.info/gari).
-<br>Read more about my [research](http://erikreinertsen.com/research).
+My [research interests](http://erikreinertsen.com/research) include healthcare applications of signal processing, machine learning, and mobile technology. 
 
 Other things I do (or used to do):
 
