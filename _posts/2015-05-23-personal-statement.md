@@ -43,7 +43,7 @@ To help you get started, think about these questions:
 
 Next, organize your raw material into **groups** based on theme or time. Each group should have a one-sentence summary. For example, one group could be "my summer experience building water storage infrastructure in Guatemala".
 
-Next, gather 3-5 related groups into a **family**. Each family is a potential essay with one thesis sentence that links the summaries of the groups. A thesis might be "a lifelong passion for serving others with my gifts". Groups within this family could include volunteer experiences, or aspects of service and leadership in your research or clinical experiences.
+Next, gather 3-5 related groups into a **family**. Each family is a potential essay with one thesis sentence that links the summaries of the groups. A thesis might be "a lifelong passion to improve society through technology". Groups within this family could include volunteer experiences, or aspects of service and leadership in your research or clinical experiences.
 
 Explore several essay ideas and see what tells your story best. Go with your gut. Write a story that is authentically "you". This makes a more interesting story than guessing what admissions committees want to read.
 
@@ -61,7 +61,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 ##Revising
 
 + Print your essay and attack it with a red pen.
-+ Get feedback from multiple people, including yourself on a different day.
++ Get feedback from different mentors and peers.
 + Track changes is nice but not required. Sometimes it is easier to read a revised essay without the red strikeouts.
 + Step away from your essay and revisit it a day later. You'll be surprised at how different it reads.
 + Simplify your writing. Say the same thing with fewer words.
@@ -74,7 +74,6 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 + Start your PS in March so you can submit in June.
 + Keep it simple, brief, and organized.
 + Transition between ideas and paragraphs.
-+ Obtain feedback from several close mentors and friends.
 + Quantify achievements ("I raised $50,000 for my nonprofit organization").
 + Engage the reader's emotion through sharing experiences that were emotional to you.
 
@@ -86,4 +85,5 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 + Don't start every sentence with "I...". Add variety.
 + Don't follow every suggestion from your essay reviewers. This is YOUR essay. Their feedback eventually conflicts.
 + Don't lie or exaggerate.
++ Don't re-phrase everything on your AMCAS or CV. This is your chance to tell a story, not list awards.
 + Don't write the same cliché that every other premed writes, i.e. "My parents were doctors, I volunteered in Africa, ran a few gels in a lab, and now want to go to medical school."
