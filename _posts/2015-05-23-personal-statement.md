@@ -14,7 +14,7 @@ A better PS shares a fascinating life story that leaves the reader with one conc
 
 This is analogous to Michelangelo's approach. He carved the statue of David by removing everything from a block of marble except the angel. Approach your essay with the same sense of focus and minimalism.
 
-Writing a PS is difficult because it demands introspection and brevity. Both of these traits are unfortunately rare, but can be improved upon with practice. Here are some tips.
+Writing a PS is difficult because it demands introspection and brevity. Most people are neither introspective nor brief, but you can improve these traits in your life and your writing with practice. Here are some tips.
 
 Contents:
 
