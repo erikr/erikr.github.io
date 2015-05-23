@@ -23,7 +23,7 @@ Writing a PS is difficult because it demands introspection and brevity. Most peo
 1. [Brainstorming](#brainstorming)
 2. [Writing](#writing)
 3. [Revising](#writing)
-4. [Dos](#dos)
+4. [Do's](#dos)
 5. [Dont's](#donts)
 
 <br>
@@ -69,7 +69,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 
 <br>
 
-##Dos
+##Do's
 
 + Start your PS in March so you can submit in June.
 + Keep it simple.
@@ -80,7 +80,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 
 <br>
 
-##Donts
+##Dont's
 
 + Don't embellish your essay with complex sentences and fancy vocabulary.
 + Don't start every sentence with "I...". Switch it up.
