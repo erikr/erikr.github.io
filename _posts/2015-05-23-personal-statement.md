@@ -16,7 +16,7 @@ This is analogous to Michelangelo's approach. He carved the statue of David by r
 
 Writing a PS is difficult because it demands introspection and brevity. Most people are neither introspective nor brief, but you can improve these traits in your life and your writing with practice. Here are some tips.
 
-Contents:
+##Contents:
 
 1. [Brainstorming](#brainstorming)
 2. [Writing](#writing)
