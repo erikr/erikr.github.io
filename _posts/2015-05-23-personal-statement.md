@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Tips for writing your medical school personal statement
+title: Tips for writing your personal statement
 tags: medicine
 ---
 
 ##Summary
 
-Your medical school personal statement (PS) is an explanation for why you want to be a physician.
+Your medical school personal statement (PS) explains why you want to be a physician.
 
-Michelangelo carved the statue of David by removing everything from a block of marble except the angel. This approach is analogous to writing your PS. Given the short essay length, what you omit is important. What remains is an inevitable career in medicine - your next step in life.
+An average PS says "I want to be a physician because of X, Y, and Z".
 
-Writing a PS is difficult because it demands introspection and brevity. Both of these traits are unfortunately rare, but can be improved upon with practice.
+A better PS shares a fascinating life story that leaves the reader with one conclusion - your inevitable career in medicine.
+
+This is analogous to Michelangelo's approach. He carved the statue of David by removing everything from a block of marble except the angel. Approach your essay with the same sense of focus and minimalism.
+
+Writing a PS is difficult because it demands introspection and brevity. Both of these traits are unfortunately rare, but can be improved upon with practice. Here are some tips.
 
 Contents:
 
