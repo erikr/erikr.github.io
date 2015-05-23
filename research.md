@@ -4,6 +4,8 @@ permalink: /research/
 title: "Research"
 ---
 
-I am interested in the objective quantification of human behavior, physiology, and pathology using mobile technology, signal processing, machine learning, statistical models, and behavioral economics.
+I am interested in healthcare monitoring, prediction, and modeling using signal processing, machine learning, and mobile technology.
 
-More information on specific projects coming soon!
+Clinical applications include infectious disease epidemiology, heart failure, sepsis, mental health, and more.
+
+Information on specific projects coming soon.

@@ -6,7 +6,7 @@ title: ""
 
 <img src="/images/erik.png">
 
-Hello! I'm an MD/PhD student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). Our group works on signal processing, machine learning & physiological modeling to reduce costs, increase accuracy, & improve access in healthcare using enormous, high frequency, & multivariate data streams.
+Hello! I'm an MD/PhD student at Emory & Georgia Tech advised by [Gari Clifford](http://gdclifford.info/gari). My [research interests](http://erikreinertsen.com/research/) include healthcare applications of signal processing, machine learning, and mobile technology.
 
 Previously I:
 
