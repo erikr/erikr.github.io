@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Here I describe my PhD qualifying exam [format](#format), [questions asked](#questions), and some [suggestions](#suggestions). Note this is n=1 from a single institution and major (Georgia Tech Biomedical Engineering). Also note that BME encompasses many sub-fields, and the qualifying exam is tailored for a specific individual's coursework and research.
+Here I describe my PhD qualifying exam [format](#format), list [questions](#questions) I was asked, and offer [suggestions](#suggestions). Note this is n=1 from a single institution and major (Georgia Tech Biomedical Engineering). Also note that BME encompasses many sub-fields, and the qualifying exam is tailored for a specific individual's coursework and research.
 
 ##Format
 
@@ -38,10 +38,10 @@ Here are the three lines of questioning I experienced. Note you won't gain anyth
 
 ##Suggestions
 
-+ Know fundamentals in your field. For me, basics topics include cardiac physiology, Nyquist theorem, Fourier transform, etc.
-+ Practice answering questions in front of a group. The hard part is not the technical difficulty of the question. The challenge is that you cannot know specific questions in advance.
++ Know fundamental topics in your field. I studied cardiac physiology, Nyquist theorem, Fourier transform, etc.
++ Practice answering questions in front of a group. The questions are not too technically complex. The challenge lies in not knowing specific questions in advance.
 + Use the whiteboard.
 + After you are asked a question, summarize and repeat the question to ensure clarity.
 + When you finish answering, summarize your long answer in a short sentence.
 + Pause occasionally to solicit feedback from the committee.
-+ Do not stress out too much. Just prepare. Enjoy the fact that preparation contributes to your knowledge in your field of research. The faculty at my department try to help you succeed, not try to kick you out.
++ Do not stress out. Just prepare. Enjoy the fact that preparation contributes to your knowledge in your field of research. Most faculty want you succeed, not try to kick you out or humiliate you.
