@@ -6,7 +6,6 @@ published: true
 ---
 
 
-
 Here I describe my PhD qualifying exam [format](#format), [questions asked](#questions), and some [suggestions](#suggestions). Note this is n=1 from a single institution and major (Georgia Tech Biomedical Engineering). Also note that BME encompasses many sub-fields, and the qualifying exam is tailored for a specific individual's coursework and research.
 
 ##Format
