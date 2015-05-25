@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "The PhD qualifying exam at GT BME"
 tags: academia
 published: true
 ---
