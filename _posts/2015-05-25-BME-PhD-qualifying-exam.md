@@ -44,4 +44,4 @@ Here are the three lines of questioning I experienced. Note you won't gain anyth
 + After you are asked a question, summarize and repeat the question to ensure clarity.
 + When you finish answering, summarize your long answer in a short sentence.
 + Pause occasionally to solicit feedback from the committee.
-+ Do not stress out. Just prepare. Enjoy the fact that preparation contributes to your knowledge in your field of research. Most faculty want you succeed, not try to kick you out or humiliate you.
++ Do not stress out. Just prepare. Enjoy the fact that preparation contributes to your knowledge in your field of research. Most faculty want you succeed. Their goal is not to kick you out or humiliate you.
