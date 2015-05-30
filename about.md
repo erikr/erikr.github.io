@@ -12,7 +12,7 @@ My [research interests](http://erikreinertsen.com/research) include healthcare a
 
 Other things I do (or used to do):
 
-+ help healthcare startup founders through [Forge](http://forgehealth.org), a nonprofit I co-founded.
++ advise [Forge](http://forgehealth.org), a nonprofit I co-founded to help healthcare startups.
 + run an [M2 elective course](http://erikreinertsen.com/iemed/) on medtech innovation.
 + organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
 + organize technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
