@@ -24,7 +24,7 @@ Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective
 <br>
 **Instructors:**
 
-+ [Angela Fusaro, MD](https://www.linkedin.com/in/angelafusaromd)
++ [Angela Fusaro, MD](https://www.linkedin.com/in/angelafusaromd) ([@fooseMD](http://twitter.com/fooseMD))
 + [Arun Mohan, MD, MBA](http://apollomd.com/emergency-department-management/emergency-medicine-management/leadership/arun-mohan-md/) ([@arun_mohan](https://twitter.com/arun_mohan))
 + (TA) [Erik Reinertsen](http://erikreinertsen.com/about) ([@ereinerts](http://twitter.com/ereinerts))
 
