@@ -4,7 +4,11 @@ permalink: /reading/
 title: "Reading"
 ---
 
-[Here are some of my favorite articles I read, via Instapaper](https://www.instapaper.com/p/erikreinertsen).
+Recent articles I liked (powered by [Instapaper](https://www.instapaper.com/p/erikreinertsen)).
+
+<p id="feed"></p>
+
+<a href="https://www.instapaper.com/p/erikreinertsen">See more articles...</a>
 
 <script>
 <!--
