@@ -4,14 +4,16 @@ permalink: /reading/
 title: "Reading"
 ---
 
-Recent articles I liked (powered by [Instapaper](https://www.instapaper.com/p/erikreinertsen)).
+Recent articles I liked:
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCJnj2nWoM86eU8Bq2G4lSNz3udIkZT4YY&sensor=false"></script>
 
 <p id="feed"></p>
 
-<a href="https://www.instapaper.com/p/erikreinertsen">See more articles...</a>
+<a href="https://www.instapaper.com/p/erikreinertsen">See more articles from my Instapaper...</a>
 
 <script>
-<!--
 $(document).ready(function(){
 var rss = 'https://www.instapaper.com/starred/rss/3027971/BBAkGKpxHLpXeTJRFugszS4o9s';
 function hostname(url) {
@@ -28,15 +30,16 @@ function hostname(url) {
             callback(data.responseData.feed);
         }
     });
-})(rss, function(feed){
+})
+
+(rss, function(feed){
     var entries = feed.entries, feed = '';
     for (var i = 0; i < entries.length; i++) {
         feed += '<p><b><a href="' + entries[i].link + '">"' + entries[i].title + '"</a></b> '
-                + '<i>' + hostname(entries[i].link) + '</i><br>'
-                + entries[i].content + '</p>';
+                + '<i>' + hostname(entries[i].link) + '</i></p>';
+//                + entries[i].content + '</p>';
     }
     $('#feed').append(feed);
 });
-}); /* ready */
-//-->
+});
 </script>
