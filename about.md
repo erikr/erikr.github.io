@@ -19,7 +19,7 @@ title: ""
     </div>
 </div>
 
-Hello! I'm an MD/PhD student at Emory & Georgia Tech, and a biomedical data scientist in training, advised by [Gari Clifford, DPhil](http://gdclifford.info/gari).
+Hello! I'm an MD/PhD student at Emory & Georgia Tech, and a data scientist in training, advised by [Gari Clifford, DPhil](http://gdclifford.info/gari).
 
 My [research interests](http://erikreinertsen.com/research) include healthcare applications of signal processing, machine learning, statistics, and mobile technology. 
 
