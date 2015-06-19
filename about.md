@@ -21,7 +21,7 @@ title: ""
 
 Hi! I'm an MD/PhD student at Emory & Georgia Tech.
 
-My [research interests](http://erikreinertsen.com/research) include machine learning, statistics, and signal processing. [Professor Gari Clifford](http://gdclifford.info/gari) is my advisor.
+My [research interests](http://erikreinertsen.com/research) include machine learning and signal processing. [Professor Gari Clifford](http://gdclifford.info/gari) is my advisor.
 
 Other things I do or did:
 
