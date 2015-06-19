@@ -33,7 +33,7 @@ Here are the three lines of questioning I experienced. Note you won't gain anyth
 	3. Vesicles actually connect to the dynein-kinesin complex via a tether. How does this tether change your model?
 3. Why is experimental design important?
 	1. How many subjects do you need to do an experiment?
-	2. Describe beta in the power calculation?
+	2. Describe beta in the power calculation.
 	3. What is the definition of false negative?
 
 ##Suggestions
