@@ -19,9 +19,9 @@ title: ""
     </div>
 </div>
 
-Hello! I'm an MD/PhD student at Emory & Georgia Tech, and a data scientist in training, advised by [Gari Clifford, DPhil](http://gdclifford.info/gari).
+Hi! I'm an MD/PhD student at Emory & Georgia Tech, advised by [Professor Gari Clifford](http://gdclifford.info/gari).
 
-My [research interests](http://erikreinertsen.com/research) include signal processing, machine learning, statistics, and mobile technology. 
+My [research interests](http://erikreinertsen.com/research) include signal processing, machine learning, statistics, and mobile technology.
 
 Other things I do (or used to do):
 
@@ -29,7 +29,7 @@ Other things I do (or used to do):
 + run an [M2 elective course](http://erikreinertsen.com/iemed/) on medtech innovation.
 + organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
 + organize technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
-+ published research in reconstructive surgery and neuro-oncology.
++ published papers in reconstructive surgery and neuro-oncology.
 
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
 
