@@ -28,7 +28,7 @@ My [research interests](http://erikreinertsen.com/research) include machine lear
 Other things I do or did:
 
 + advise [Forge](http://forgehealth.org), a nonprofit I co-founded to help healthcare startups.
-+ TA an [M2 elective course](http://erikreinertsen.com/iemed/) on medtech innovation.
++ TA an [M2 elective course](http://erikreinertsen.com/iemed/) on innovation & entrepreneurship.
 + organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
 + organize sessions at the annual [KSEA conference](http://www.ygtlc.org/).
 
