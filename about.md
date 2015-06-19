@@ -19,21 +19,18 @@ title: ""
     </div>
 </div>
 
-Hi! I'm an MD/PhD student at Emory & Georgia Tech, advised by [Professor Gari Clifford](http://gdclifford.info/gari).
+Hi! I'm an MD/PhD student at Emory & Georgia Tech.
 
-My [research interests](http://erikreinertsen.com/research) include signal processing, machine learning, and statistics.
+My [research interests](http://erikreinertsen.com/research) include machine learning, statistics, and signal processing. [Professor Gari Clifford](http://gdclifford.info/gari) is my advisor.
 
-Other things I do (or used to do):
+Other things I do or did:
 
 + advise [Forge](http://forgehealth.org), a nonprofit I co-founded to help healthcare startups.
 + run an [M2 elective course](http://erikreinertsen.com/iemed/) on medtech innovation.
 + organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
-+ organize technical, leadership, & startup conferences for [KSEA](http://ksea.org/).
-+ published papers in reconstructive surgery and neuro-oncology.
++ organize sessions at the annual [KSEA conference](http://www.ygtlc.org/).
 
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
-
-*Views on this website are my own & do not reflect the views of my institutions.*
 
 <footer class="footer">
 <small><br>
