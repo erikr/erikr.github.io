@@ -30,6 +30,7 @@ UCLA | [Bruin Medical Entrepreneurs](http://uclabme.squarespace.com/)
 UCSD | [Moxie Center](http://www.jacobsschool.ucsd.edu/moxiecenter/)
 Mayo | [Center for Innovation](http://www.mayo.edu/center-for-innovation/)
 Columbia | [HITLAB](http://www.hitlab.org/)
+Mt. Sinai [Mount Sinai Institute of Technology](http://msit.mssm.edu/)
 WUSTL | [BALSA group](http://www.thebalsagroup.org/)
 WUSTL | [Idea Labs](http://ideas.wustl.edu/about-us.html)
 
