@@ -103,7 +103,7 @@ Tech innovation as a faculty member | [Felmont Eaves, MD](http://www.surgery.emo
 Last year we administered a questionnaire before and after the course. Students rated agreement with several statements on a scale of 1-10; 5 was neutral, <5 indicated disagreement, and >5 indicated agreement.
 
 Before: N = 9<br>
-After: N = 7 *(I blame Step 1 studying)*
+After: N = 7 *(everyone was studying for Step 1)*
 
 <img src="/images/iemed2014_fig1.png" width="1500px" />
 
