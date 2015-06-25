@@ -4,7 +4,7 @@ title: A list of entrepreneurship groups at academic medical centers
 tags: startups, medicine
 ---
 
-Here I list academic centers, groups, or organizations at / near / or affiliated with medical schools, focused on technology, entrepreneurship, and commercialization (rather than education or care delivery).
+Here are some centers, groups, or organizations affiliated with medical schools. The focus is on technology, entrepreneurship, and commercialization (rather than education or care delivery).
 
 Duke | [DUSOM Innovation & Entrepreneurship](http://sites.duke.edu/dusomie/)
 Duke | [Duke Institute for Healthcare Innovation](http://www.dihi.org/)
@@ -30,7 +30,7 @@ UCLA | [Bruin Medical Entrepreneurs](http://uclabme.squarespace.com/)
 UCSD | [Moxie Center](http://www.jacobsschool.ucsd.edu/moxiecenter/)
 Mayo | [Center for Innovation](http://www.mayo.edu/center-for-innovation/)
 Columbia | [HITLAB](http://www.hitlab.org/)
-Mt. Sinai [Mount Sinai Institute of Technology](http://msit.mssm.edu/)
+Mt. Sinai | [Mount Sinai Institute of Technology](http://msit.mssm.edu/)
 WUSTL | [BALSA group](http://www.thebalsagroup.org/)
 WUSTL | [Idea Labs](http://ideas.wustl.edu/about-us.html)
 
