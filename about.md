@@ -21,13 +21,11 @@ title: ""
 
 Hi! I'm an MD/PhD student at Emory & Georgia Tech.
 
-My [research interests](http://erikreinertsen.com/research) include machine learning and signal processing.
-
-[Professor Gari Clifford](http://gdclifford.info/gari) is my advisor.
+I work in the [Clifford Lab](http://gdclifford.info) on machine learning and signal processing.
 
 Other things I do or did:
 
-+ advise [Forge](http://forgehealth.org), a nonprofit I co-founded to help healthcare startups.
++ co-founded [Forge](http://forgehealth.org), a nonprofit that helps healthcare startups.
 + TA an [M2 elective course](http://erikreinertsen.com/iemed/) on innovation & entrepreneurship.
 + organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
 + organize sessions at the annual [KSEA conference](http://www.ygtlc.org/).
