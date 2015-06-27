@@ -30,7 +30,7 @@ Other things I do or did:
 + organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
 + organize sessions at the annual [KSEA conference](http://www.ygtlc.org/).
 
-I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
+I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil Lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
 
 <footer class="footer">
 <small><br>
