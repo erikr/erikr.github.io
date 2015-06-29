@@ -21,7 +21,7 @@ title: ""
 
 Hi! I'm an MD/PhD student at Emory & Georgia Tech.
 
-I work in the [Clifford Lab](http://gdclifford.info) on machine learning and signal processing.
+I am in the [Clifford Lab](http://gdclifford.info) where we work on machine learning, signal processing, and physiological modeling. Read more about my projects [here](http://erikreinertsen.com/research/).
 
 Other things I do or did:
 
