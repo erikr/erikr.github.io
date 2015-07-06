@@ -19,7 +19,7 @@ title: ""
     </div>
 </div>
 
-I am an MD/PhD student advised by [Professor Gari Clifford](http://gdclifford.info/gari). We work on machine learning, signal processing, and physiological modeling.
+I am an MD/PhD student at Emory & Georgia Tech, advised by [Professor Gari Clifford](http://gdclifford.info/gari). We work on machine learning, signal processing, and physiological modeling.
 
 Other things I do or did:
 
