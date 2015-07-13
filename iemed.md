@@ -4,7 +4,7 @@ permalink: /iemed/
 title: "IEMed 2015"
 ---
 
-Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective course offered 8/15 - 11/15 at Emory University School of Medicine.
+Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective course offered 8/17 - 11/15 at Emory University School of Medicine.
 
 *This course is still under construction and will be updated periodically.*
 
