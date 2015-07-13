@@ -4,7 +4,7 @@ permalink: /iemed/
 title: "IEMed 2015"
 ---
 
-Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective course offered 8/17 - 11/15 at Emory University School of Medicine.
+Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective course offered 8/21 - 11/15 at Emory University School of Medicine.
 
 *This course is still under construction and will be updated periodically.*
 
@@ -60,18 +60,18 @@ IEMed is designed for and limited to fifteen 2nd year medical students, but prof
 
 Sessions are 1.5 hours. The first 45m will be a seminar or panel and open to the public. Video will be recorded and uploaded to YouTube whenever possible. The next 45m will be a closed discussion between enrolled students and guest speakers, who will also provide input on the students' [elective project](#project).
 
-| Topic | Speaker |
-| --- | --- |
-Welcome & intros | Angela Fusaro, MD & Erik Reinertsen
-Trends in care delivery | Arun Mohan, MD, MBA & [Anand Lalaji, MD](http://www.theradiologygroup.org/anand_lalaji.php)
-Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak)) <br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
-Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon)) <br>Principal, VentureLab @ GT
-Design thinking & finding unmet needs | TBD
-Digital health & informatics | [Lucienne Ide, MD, PhD](https://www.linkedin.com/in/lucienneide) ([@lucienneide](https://twitter.com/Lucienneide)) <br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice & Associate Director, Health Systems Institute @ GT
-Atlanta's health startup ecosystem | [Arash Harzand, MD, MBA](https://www.linkedin.com/in/arashharzand) ([@arashharzand](https://twitter.com/arashharzand))<br>Managing Director, Forge Health Inc.
-Intellectual property | TBD (someone from Emory Tech Transfer)
-Value of an MBA<br>& Angel / VC funding | [Evan McClure](https://www.linkedin.com/in/evanwmcclure) ([@evan_mcclure](https://twitter.com/evan_mcclure)) <br>& tech investors
-Tech innovation as a faculty member | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT
+| Date | Topic | Speaker |
+| --- | --- | --- |
+8/21 | Welcome & intros | Angela Fusaro, MD & Erik Reinertsen
+TBD | Trends in care delivery | Arun Mohan, MD, MBA & [Anand Lalaji, MD](http://www.theradiologygroup.org/anand_lalaji.php)
+TBD | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak)) <br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
+TBD | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon)) <br>Principal, VentureLab @ GT
+TBD | Design thinking & finding unmet needs | TBD
+TBD | Digital health & informatics | [Lucienne Ide, MD, PhD](https://www.linkedin.com/in/lucienneide) ([@lucienneide](https://twitter.com/Lucienneide)) <br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice & Associate Director, Health Systems Institute @ GT
+TBD | Atlanta's health startup ecosystem | [Arash Harzand, MD, MBA](https://www.linkedin.com/in/arashharzand) ([@arashharzand](https://twitter.com/arashharzand))<br>Managing Director, Forge Health Inc.
+TBD | Intellectual property | TBD (someone from Emory Tech Transfer)
+TBD | Value of an MBA<br>& Angel / VC funding | [Evan McClure](https://www.linkedin.com/in/evanwmcclure) ([@evan_mcclure](https://twitter.com/evan_mcclure)) <br>& tech investors
+TBD | Tech innovation as a faculty member | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT
 
 <a name="project"></a>
 
