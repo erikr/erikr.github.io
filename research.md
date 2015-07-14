@@ -8,4 +8,7 @@ The [Clifford Lab](http://gdclifford.info) works on signal processing, machine l
 
 Clinical applications include cardiovascular health, infectious disease epidemiology, sepsis and critical care medicine, sleep and mental health, etc.
 
-Information on my specific projects coming soon!
+I work on:
+
++ Predicting onset of influenza H1N1 using mobile phone data.
++ Monitoring functional status of CHF patients via wearable devices.
