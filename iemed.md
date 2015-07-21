@@ -32,9 +32,9 @@ Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective
 
 IEMed enables medical students to explore the role of technology startups in biomedicine. This is our second time offering the elective after [much success last year](#feedback).
 
-Technology innovation has historically driven change in healthcare. Recent advances in analytics, mobile phones, drug development, regenerative medicine, etc. are once more transforming patient care. Also, the recent emphasis on value-based care has created new market opportunities for startups.
+Technology has always advanced society, and biomedicine is no exception. Recent advances in cloud infrastructure, mobile phones, genomics, drug development, regenerative medicine, etc. will render modern healthcare vastly different than when our teachers learned medicine. Also, recent emphasis on value-based care has created new market opportunities for startups. Human physiology and healthcare systems are both complex, and the technology with which we combat disease must be effective (which often is advanced, but can be simple).
 
-Physicians can found, work at, or work with startups to translate technologies from the bench to the bedside. However, these opportunities are difficult to pursue due to misaligned career incentives, regulatory complexity of healthcare, and a lack of opportunities to interact with colleagues in the engineering and business disciplines. We believe these challenges are surmountable, and envision a future where physicians engage in innovation and entrepreneurship to advance patient care.
+Physicians can found, work at, or work with startups to translate technologies from the bench to the bedside. However, these opportunities are difficult to pursue due to misaligned career incentives, regulatory complexity of healthcare, and few interactions with colleagues from engineering and business disciplines. We believe these challenges are surmountable, and envision a future where physicians engage in innovation and entrepreneurship to advance patient care.
 
 IEMed is structured for and limited to a dozen 2nd year medical students, but professional and graduate students from any discipline are welcome to attend the public part of our sessions (more info to be posted on the attendance policy soon).
 
@@ -42,7 +42,7 @@ IEMed is structured for and limited to a dozen 2nd year medical students, but pr
 
 ###Learning objectives
 
-+ *Overview:* Appreciate how successful medical & healthcare startups translate ideas into business models, technologies and services that improve patient care.
++ *Overview:* Appreciate how technology-driven startups create biomedical and economic value.
 + *Needs:* Identify unmet clinical needs with compelling market opportunities.
 + *Business analysis*: Assess a healthcare or biomedical startup using the business model canvas as a framework.
 + *Design:* Learn about ideation, prototyping, and creativity.

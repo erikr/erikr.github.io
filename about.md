@@ -21,12 +21,9 @@ title: ""
 
 I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](http://gdclifford.info/gari). We work on machine learning, signal processing, and physiological modeling.
 
-Other things I do or did:
+I also co-founded [Forge](http://forgehealth.org), a nonprofit that helps healthcare startups.
 
-+ co-founded [Forge](http://forgehealth.org), a nonprofit that helps healthcare startups.
-+ TA an [M2 elective course](http://erikreinertsen.com/iemed/) on innovation & entrepreneurship.
-+ organize the annual [Medical Student Teaching Competition](http://emorymstc.com/).
-+ organize sessions at the annual [KSEA conference](http://www.ygtlc.org/).
+I created and co-lead an [elective course](http://erikreinertsen.com/iemed/) for medical students on innovation & entrepreneurship. This Fall I will TA an undergraduate BME course on computational systems biology and modeling.
 
 I earned a BS in Bioengineering from UCLA where I worked in the [Wu / Tawil Lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
 
