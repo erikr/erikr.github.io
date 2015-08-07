@@ -60,9 +60,9 @@ Sessions are 2 hours. The first hour will be a seminar or panel and open to the 
 
 | Date | Topic | Speaker |
 | --- | --- | --- |
-21 Aug | Welcome & intros | Angela Fusaro, MD & Erik Reinertsen
+8/21 | Welcome & intros | Angela Fusaro, MD & Erik Reinertsen
 TBD | Trends in care delivery | Arun Mohan, MD, MBA & [Anand Lalaji, MD](http://www.theradiologygroup.org/anand_lalaji.php)
-18 Sep | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak)) <br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
+9/18 | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak)) <br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
 TBD | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon)) <br>Principal, VentureLab @ GT
 TBD | Design thinking & finding unmet needs | TBD
 TBD | Digital health & informatics | [Lucienne Ide, MD, PhD](https://www.linkedin.com/in/lucienneide) ([@lucienneide](https://twitter.com/Lucienneide)) <br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice & Associate Director, Health Systems Institute @ GT
