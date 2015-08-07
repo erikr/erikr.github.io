@@ -78,6 +78,7 @@ TBD | Tech innovation as a faculty member | [Felmont Eaves, MD](http://www.surge
 + Students will form groups of 2-3 at the first session.
 + Each team will assess a startup using the [business model canvas](http://www.businessmodelgeneration.com/canvas/bmc).
 + Each week, teams will focus on one part of the canvas, learn more about their chosen startup, and share their findings with the class.
++ MBA and JD students informally meet with and advise medical student teams.
 + At the end of the course, teams will summarize recommendations.
 <a name="reading"></a>
 
