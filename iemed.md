@@ -56,7 +56,7 @@ IEMed is structured for and limited to a dozen 2nd year medical students, but pr
 
 ###Schedule
 
-Sessions are 1.5 hours. The first 45m will be a seminar or panel and open to the public. Video will be recorded and uploaded to YouTube whenever possible. The next 45m will be a closed discussion between enrolled students and guest speakers, who will also provide input on the students' [elective project](#project).
+Sessions are 2 hours. The first hour will be a seminar or panel and open to the public. Video will be recorded and uploaded to YouTube whenever possible. The second hour will be a closed discussion between enrolled students and guest speakers, who will also provide input on the students' [elective project](#project).
 
 | Date | Topic | Speaker |
 | --- | --- | --- |
