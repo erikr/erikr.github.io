@@ -32,11 +32,11 @@ Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective
 
 IEMed enables medical students to explore the role of technology startups in biomedicine. This is our second time offering the elective after [much success last year](#feedback).
 
-Technology has always advanced society, and biomedicine is no exception. Recent advances in cloud infrastructure, mobile phones, genomics, drug development, regenerative medicine, etc. will render modern healthcare vastly different than when our teachers learned medicine. Also, recent emphasis on value-based care has created new market opportunities for startups. Human physiology and healthcare systems are both complex, and the technology with which we combat disease must be effective (which often is advanced, but can be simple).
+Technology is critical for advancing healthcare. Recent innovations in cloud infrastructure, mobile phones, genomics, drug development, regenerative medicine, etc. will transform healthcare. The practice of medicine will look very different in 20 years versus today. Recent emphasis on value-based care has created new market opportunities for startups, especially in areas related to care delivery and analytics.
 
-Physicians can found, work at, or work with startups to translate technologies from the bench to the bedside. However, these opportunities are difficult to pursue due to misaligned career incentives, regulatory complexity of healthcare, and few interactions with colleagues from engineering and business disciplines. We believe these challenges are surmountable, and envision a future where physicians engage in innovation and entrepreneurship to advance patient care.
+Physicians can found, work at, or work with startups. However, these opportunities are difficult to pursue due to misaligned career incentives, regulatory complexity of healthcare, and few interactions with colleagues from engineering and business. We believe these challenges are surmountable, and envision a future where physicians engage in innovation and entrepreneurship to advance patient care.
 
-IEMed is structured for and limited to a dozen 2nd year medical students, but professional and graduate students from any discipline are welcome to attend the public part of our sessions (more info to be posted on the attendance policy soon).
+IEMed is for 2nd year medical students, but professional and graduate students from any discipline are welcome to attend the public part of our sessions.
 
 <a name="los"></a>
 
