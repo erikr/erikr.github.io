@@ -54,11 +54,11 @@ IEMed is for 2nd year medical students, but professional and graduate students f
 
 ###Schedule
 
-Sessions are 2 hours. The first hour will be a seminar or panel and open to the public. Video will be recorded and uploaded to YouTube whenever possible. The second hour will be a closed discussion between enrolled students and guest speakers, who will also provide input on the students' [elective project](#project).
-
-| Date | Topic | Speaker |
+Sessions are 2 hours. Video will be recorded and uploaded to YouTube. 
+ 
+| Date | Topic (+YouTube link) | Speaker |
 | --- | --- | --- |
-8/21 | Welcome & intros | Angela Fusaro, MD<br>Arun Mohan, MD, MBA
+8/21 | [Problem-based innovation](http://youtu.be/JNLo1JDXbnk) & [healthcare finance](http://youtu.be/MLvN6ZA3bt8) | Angela Fusaro, MD<br>Arun Mohan, MD, MBA
 9/11 | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon))<br>Principal, VentureLab @ GT
 9/18 | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak))<br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
 TBD | Design thinking & finding unmet needs | TBD
