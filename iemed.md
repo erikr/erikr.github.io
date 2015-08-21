@@ -6,8 +6,6 @@ title: "IEMed 2015"
 
 Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective course offered 8/21 - 11/15 at Emory University School of Medicine.
 
-*This course is still under construction and will be updated periodically.*
-
 ###Table of Contents
 
 1. [Course overview](#overview)
@@ -30,19 +28,19 @@ Welcome to "Innovation and Entrepreneurship in Medicine" (IEMed), an M2 elective
 
 **Summary:**
 
-IEMed enables medical students to explore the role of technology startups in biomedicine. This is our second time offering the elective after [much success last year](#feedback).
+IEMed enables medical students to explore the role of tech startups in healthcare.
 
-Technology is critical for advancing healthcare. Recent innovations in cloud infrastructure, mobile phones, genomics, drug development, regenerative medicine, etc. will transform healthcare. The practice of medicine will look very different in 20 years versus today. Recent emphasis on value-based care has created new market opportunities for startups, especially in areas related to care delivery and analytics.
+New technologies such as cloud infrastructure, mobile phones, genomics, drug development, regenerative medicine, etc. are transforming healthcare. The practice of medicine will look very different in 20 years versus today. Recent emphasis on value-based care has created new market opportunities for startups, especially in areas related to care delivery and analytics.
 
 Physicians can found, work at, or work with startups. However, these opportunities are difficult to pursue due to misaligned career incentives, regulatory complexity of healthcare, and few interactions with colleagues from engineering and business. We believe these challenges are surmountable, and envision a future where physicians engage in innovation and entrepreneurship to advance patient care.
 
-IEMed is for 2nd year medical students, but professional and graduate students from any discipline are welcome to attend the public part of our sessions.
+IEMed is for 2nd year medical students, but professional and graduate students from any discipline are welcome to attend our sessions.
 
 <a name="los"></a>
 
 ###Learning objectives
 
-+ *Overview:* Appreciate how technology-driven startups create biomedical and economic value.
++ *Overview:* Appreciate how tech startups create clinical and economic value.
 + *Needs:* Identify unmet clinical needs with compelling market opportunities.
 + *Business analysis*: Assess a healthcare or biomedical startup using the business model canvas as a framework.
 + *Design:* Learn about ideation, prototyping, and creativity.
@@ -60,15 +58,16 @@ Sessions are 2 hours. The first hour will be a seminar or panel and open to the 
 
 | Date | Topic | Speaker |
 | --- | --- | --- |
-8/21 | Welcome & intros | Angela Fusaro, MD & Arun Mohan, MD, MBA
-9/11 | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon)) <br>Principal, VentureLab @ GT
-9/18 | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak)) <br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
+8/21 | Welcome & intros | Angela Fusaro, MD<br>Arun Mohan, MD, MBA
+9/11 | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon))<br>Principal, VentureLab @ GT
+9/18 | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak))<br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
 TBD | Design thinking & finding unmet needs | TBD
+TBD | Behavioral economics in healthcare | [Mathu Kumarasamy]() ([@mathukumarasamy](https://twitter.com/MathuKumarasamy))<br>Emory Healthcare, Office of Quality & Risk
 TBD | Digital health & informatics | [Lucienne Ide, MD, PhD](https://www.linkedin.com/in/lucienneide) ([@lucienneide](https://twitter.com/Lucienneide)) <br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice & Associate Director, Health Systems Institute @ GT
-TBD | Atlanta's health startup ecosystem | [Arash Harzand, MD, MBA](https://www.linkedin.com/in/arashharzand) ([@arashharzand](https://twitter.com/arashharzand))<br>Managing Director, Forge Health Inc.
+TBD | Accelerators, incubators, and startup resources | [Arash Harzand, MD, MBA](https://www.linkedin.com/in/arashharzand) ([@arashharzand](https://twitter.com/arashharzand))<br>Directorof Strategy & Business Development, Forge
 TBD | Intellectual property | TBD (someone from Emory Tech Transfer)
-TBD | Value of an MBA<br>& Angel / VC funding | [Evan McClure](https://www.linkedin.com/in/evanwmcclure) ([@evan_mcclure](https://twitter.com/evan_mcclure)) <br>& tech investors
-TBD | Tech innovation as a faculty member | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT
+TBD | Value of an MBA<br>& Angel / VC funding | [Evan McClure](https://www.linkedin.com/in/evanwmcclure) ([@evan_mcclure](https://twitter.com/evan_mcclure)) <br>MD/MBA student
+TBD | Tech innovation and academic medicine  | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT<br><br>[Richard Pittman, MD]()<br>Assistant Professor<br>Internal Medicine @ Emory<br>
 
 <a name="project"></a>
 
@@ -77,7 +76,7 @@ TBD | Tech innovation as a faculty member | [Felmont Eaves, MD](http://www.surge
 + Students will form groups of 2-3 at the first session.
 + Each team will assess a startup using the [business model canvas](http://www.businessmodelgeneration.com/canvas/bmc).
 + Each week, teams will focus on one part of the canvas, learn more about their chosen startup, and share their findings with the class.
-+ MBA and JD students informally meet with and advise medical student teams.
++ MBA and JD students informally advise medical student teams.
 + At the end of the course, teams will summarize recommendations.
 <a name="reading"></a>
 
