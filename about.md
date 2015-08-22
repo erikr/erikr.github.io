@@ -23,7 +23,7 @@ I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](ht
 
 I co-founded [Forge](http://forgehealth.org) to help startup founders make a difference in healthcare.
 
-I help teach an [elective course](http://erikreinertsen.com/iemed/) for medical students on innovation & entrepreneurship. I also TA a course at GaTech on computational systems biology. 
+I run an [elective course](http://erikreinertsen.com/iemed/) for medical students on innovation & entrepreneurship. I also TA a course at GaTech on computational systems biology. 
 
 A California native, I earned a BS in Bioengineering from UCLA where I worked in the [Wu Lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
 
