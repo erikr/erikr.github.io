@@ -4,7 +4,7 @@ layout: post
 tags: tech,startups
 ---
 
-John Doerr, legendary VC at KPCB, held a great Q&A session at UC Berkeley. Here is a great tidbit:
+John Doerr, legendary VC at KPCB, held a great Q&A session at UC Berkeley. 
 
 > We looked back on our investments and found **five key factors** that distinguish the Amazons and Googles from the rest of the pack:
 
