@@ -58,7 +58,7 @@ Sessions are 2 hours. Video will be recorded and uploaded to YouTube.
 
 | Date | Topic (+YouTube link) | Speaker |
 | --- | --- | --- |
-8/21 | [Problem-based innovation](http://youtu.be/JNLo1JDXbnk) & [healthcare finance](https://www.youtube.com/watch?v=MLvN6ZA3bt8) | Angela Fusaro, MD<br>Arun Mohan, MD, MBA
+8/21 | [Problem-based innovation](https://www.youtube.com/watch?v=gN9Fg-bsEck) & [healthcare finance](https://www.youtube.com/watch?v=6MQ7H7gMEoc) | Angela Fusaro, MD<br>Arun Mohan, MD, MBA
 9/11 | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon))<br>Principal, VentureLab @ GT
 9/18 | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak))<br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
 TBD | Design thinking & finding unmet needs | TBD
