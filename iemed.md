@@ -82,7 +82,7 @@ TBD | Tech innovation and academic medicine  | [Felmont Eaves, MD](http://www.su
 
 ###Reading
 
-1. [Changing the academic culture: Valuing patents and commercialization toward tenure and career advancement](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020064/) by Sanberg et al.
+1. [Changing the academic culture: Valuing patents and commercialization toward tenure and career advancement](http://www.pnas.org/content/111/18/6542) by Sanberg et al.
 2. [Why Lean May Save Your Life](http://steveblank.com/2014/06/19/why-lean-may-save-your-life-the-i-corps-nih/) by Steve Blank
 3. [Why the Lean Start-Up Changes Everything](http://steveblank.com/2013/05/06/free-reprints-of-why-the-lean-startup-changes-everything/) by Steve Blank
 4. [Hackathons Aren’t Just for Hacking](http://www.wired.com/2012/06/hackathons-arent-just-for-hacking/) by Alyson Krueger
