@@ -62,7 +62,7 @@ Sessions are 2 hours. Video will be recorded and uploaded to YouTube.
 8/21 | Arun Mohan, MD, MBA | Healthcare finance / [v](https://www.youtube.com/watch?v=6MQ7H7gMEoc) / [s]()
 9/11 | [Harold Solomon](https://twitter.com/harold_solomon)<br>Principal, GT VentureLab | Evidence-based entrepreneurship
 9/18 |  [Richard Duszak, MD](https://twitter.com/RichDuszak)<br>Vice Chair<br>Emory Radiology | Health economics & reimbursement
-TBD | TBD | Google Hangout with founders from SF / Silicon Valley
+TBD | [Nate Gross, MD, MBA](https://twitter.com/ng)<br>Co-founder, Rock Health & Doximity | Google Hangout with a digital health entrepreneur
 TBD | [Mathu Kumarasamy](https://twitter.com/MathuKumarasamy)<br>Office of Quality & Risk<br>Emory Healthcare | Behavioral economics in healthcare
 TBD | [Lucienne Ide, MD, PhD](https://twitter.com/Lucienneide)<br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice, GT | Digital health & informatics
 TBD | [Arash Harzand, MD, MBA](https://twitter.com/arashharzand)<br>Director of Strategy & Business Development, Forge | Accelerators, incubators, and startup resources
