@@ -56,18 +56,19 @@ IEMed is for 2nd year medical students, but professional and graduate students f
 
 Sessions are 2 hours. Video will be recorded and uploaded to YouTube.
 
-| Date | Topic (+YouTube link) | Speaker |
+| Date | Speaker | Topic / video (v) / slides (s)
 | --- | --- | --- |
-8/21 | [Problem-based innovation](https://www.youtube.com/watch?v=gN9Fg-bsEck) & [healthcare finance](https://www.youtube.com/watch?v=6MQ7H7gMEoc) | Angela Fusaro, MD<br>Arun Mohan, MD, MBA
-9/11 | Evidence-based entrepreneurship		| [Harold Solomon](https://www.linkedin.com/in/haroldmsolomon) ([@harold_solomon](https://twitter.com/harold_solomon))<br>Principal, VentureLab @ GT
-9/18 | Health economics & reimbursement |  [Richard Duszak, MD](https://www.doximity.com/pub/richard-duszak-md) ([@rich_duszak](https://twitter.com/RichDuszak))<br>Vice Chair for Health Policy and Practice<br>Department of Radiology @ Emory
-TBD | Design thinking & finding unmet needs | TBD
-TBD | Behavioral economics in healthcare | [Mathu Kumarasamy]() ([@mathukumarasamy](https://twitter.com/MathuKumarasamy))<br>Emory Healthcare, Office of Quality & Risk
-TBD | Digital health & informatics | [Lucienne Ide, MD, PhD](https://www.linkedin.com/in/lucienneide) ([@lucienneide](https://twitter.com/Lucienneide)) <br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice & Associate Director, Health Systems Institute @ GT
-TBD | Accelerators, incubators, and startup resources | [Arash Harzand, MD, MBA](https://www.linkedin.com/in/arashharzand) ([@arashharzand](https://twitter.com/arashharzand))<br>Directorof Strategy & Business Development, Forge
-TBD | Intellectual property | TBD (someone from Emory Tech Transfer)
-TBD | Value of an MBA<br>& Angel / VC funding | [Evan McClure](https://www.linkedin.com/in/evanwmcclure) ([@evan_mcclure](https://twitter.com/evan_mcclure)) <br>MD/MBA student
-TBD | Tech innovation and academic medicine  | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT<br><br>[Richard Pittman, MD]()<br>Assistant Professor<br>Internal Medicine @ Emory<br>
+8/21 | Angela Fusaro, MD | Problem-based innovation / [v](https://www.youtube.com/watch?v=gN9Fg-bsEck) / [s]()
+8/21 | Arun Mohan, MD, MBA | Healthcare finance / [v](https://www.youtube.com/watch?v=6MQ7H7gMEoc) / [s]()
+9/11 | [Harold Solomon](https://twitter.com/harold_solomon)<br>Principal, GT VentureLab | Evidence-based entrepreneurship
+9/18 |  [Richard Duszak, MD](https://twitter.com/RichDuszak)<br>Vice Chair<br>Emory Radiology | Health economics & reimbursement
+TBD | TBD | Google Hangout with founders from SF / Silicon Valley
+TBD | [Mathu Kumarasamy](https://twitter.com/MathuKumarasamy)<br>Office of Quality & Risk<br>Emory Healthcare | Behavioral economics in healthcare
+TBD | [Lucienne Ide, MD, PhD](https://twitter.com/Lucienneide)<br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice, GT | Digital health & informatics
+TBD | [Arash Harzand, MD, MBA](https://twitter.com/arashharzand)<br>Director of Strategy & Business Development, Forge | Accelerators, incubators, and startup resources
+TBD | TBD | Patents and IP
+TBD | [Evan McClure](https://twitter.com/evan_mcclure) <br>MD/MBA student, Emory | Startup funding: angel & VC
+TBD | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT<br><br>[Richard Pittman, MD]()<br>Assistant Professor<br>Internal Medicine @ Emory<br> | Innovation as an academic clinician.
 
 <a name="project"></a>
 
