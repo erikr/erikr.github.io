@@ -21,7 +21,7 @@ title: ""
 
 I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](http://gdclifford.info/gari). Our group works on machine learning, signal processing, and mHealth.
 
-I co-founded [Forge](http://forgehealth.org) to help startup founders make a difference in healthcare.
+I co-founded [Forge](http://forgehealth.org) to help digital health startups launch clinical pilots.
 
 I run an [elective course](http://erikreinertsen.com/iemed/) for medical students on innovation & entrepreneurship. I also TA a course at GaTech on computational systems biology.
 
