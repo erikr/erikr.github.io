@@ -19,7 +19,7 @@ title: ""
     </div>
 </div>
 
-I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](http://gdclifford.info/gari).
+I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](http://gdclifford.info/people/gari).
 
 A data scientist in training, my interests include statistics, machine learning, digital health, behavioral economics, and technology commercialization.
 
