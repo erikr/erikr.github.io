@@ -19,13 +19,15 @@ title: ""
     </div>
 </div>
 
-I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](http://gdclifford.info/gari). Our group works on machine learning, signal processing, and mHealth.
+I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](http://gdclifford.info/gari).
 
-I co-founded [Forge](http://forgehealth.org) to help startup founders make a difference in healthcare.
+A data scientist in training, my interests include statistics, machine learning, digital health, behavioral economics, and technology commercialization.
 
-I run an [elective course](http://erikreinertsen.com/iemed/) for medical students on innovation & entrepreneurship. I also TA a course at GaTech on computational systems biology.
+I co-founded [Forge](http://forgehealth.org); we help tech startups launch clinical pilots.
 
-A California native, I earned a BS in Bioengineering from UCLA where I worked in the [Wu Lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
+I run an [elective course](http://erikreinertsen.com/iemed/) at my medical school about healthcare startups. I also TA a GaTech course on computational systems biology.
+
+Californian at heart, I earned a BS in Bioengineering from UCLA where I worked in the [Wu Lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
 
 <footer class="footer">
 <small><br>
