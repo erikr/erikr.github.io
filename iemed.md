@@ -67,7 +67,7 @@ TBD | [Mathu Kumarasamy](https://twitter.com/MathuKumarasamy)<br>Office of Quali
 TBD | [Lucienne Ide, MD, PhD](https://twitter.com/Lucienneide)<br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice, GT | Digital health & informatics
 TBD | [Arash Harzand, MD, MBA](https://twitter.com/arashharzand)<br>Director of Strategy & Business Development, Forge | Accelerators, incubators, and startup resources
 TBD | TBD | Patents and IP
-TBD | [Evan McClure](https://twitter.com/evan_mcclure) <br>MD/MBA student, Emory | Startup funding: angel & VC
+TBD | [Evan McClure](https://twitter.com/evan_mcclure)<br>MD/MBA student, Emory<br><br>Felipe Rojas<br>MBA student, Emory | Startup investing, finance, and<br>B-school
 TBD | [Felmont Eaves, MD](http://www.surgery.emory.edu/about-us/faculty_directory/faculty_profile_felmont_eaves.html)<br>Professor<br>Plastic & Reconstructive Surgery @ Emory<br><br>[Jeremy Ackerman, MD, PhD](https://www.linkedin.com/pub/jeremy-ackerman/48/44b/47)<br>Assistant Professor<br>Emergency Medicine & BME @ Emory & GT<br><br>[Wilbur Lam, MD, PhD](https://www.bme.gatech.edu/bme/faculty/Wilbur-A.-Lam)<br>Assistant Professor<br>Pediatrics & BME @ Emory & GT<br><br>[Richard Pittman, MD]()<br>Assistant Professor<br>Internal Medicine @ Emory<br> | Innovation as an academic clinician.
 
 <a name="project"></a>
