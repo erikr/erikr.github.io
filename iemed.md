@@ -40,15 +40,15 @@ IEMed is for 2nd year medical students, but professional and graduate students f
 
 ###Learning objectives
 
-+ *Overview:* Appreciate how tech startups create clinical and economic value.
-+ *Needs:* Identify unmet clinical needs with compelling market opportunities.
-+ *Business analysis*: Assess a healthcare or biomedical startup using the business model canvas as a framework.
-+ *Design:* Learn about ideation, prototyping, and creativity.
-+ *Technology:* Survey new trends in science, engineering, and technology that will shape biomedicine and healthcare in the next decade.
-+ *Finance:* Understand how technology startups are funded and create revenue through bootstrapping, angel & seed investing, VC, acquisitions, licensing, and IPO.
-+ *Legal & Business:* Learn about legal & business aspects of innovation, such as intellectual property, licensing, trademarks, patents, and ownership.
-+ *Regulatory:* Understand regulatory and reimbursement challenges and opportunities within complex healthcare systems.
-+ *Networking:* Identify and connect with startup & tech resources, opportunities, and people.
++ Appreciate how tech startups advance healthcare. 
++ Assess a startup using the business model canvas as a framework.
++ Learn about healthcare economics, finance, and reimbursement.
++ Understand how behavioral economics influences decision-making.
++ Review advances in digital health and health IT.
++ Survey accelerators, incubators, and other startup resources.
++ Learn about patents and IP fundamentals related to health tech.
++ Understand startup investing (angel, seed, & VC).
++ Network with like-minded students, clinicians, engineers, and founders.
 
 <a name="schedule"></a>
 
