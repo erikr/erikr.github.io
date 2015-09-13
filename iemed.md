@@ -60,7 +60,7 @@ Sessions are 2 hours. Video will be recorded and uploaded to YouTube.
 | --- | --- | --- |
 8/21 | Angela Fusaro, MD | Problem-based innovation / [v](https://www.youtube.com/watch?v=gN9Fg-bsEck) / [s](/assets/150821_fusaro_innovation.ppt)
 8/21 | Arun Mohan, MD, MBA | Healthcare finance / [v](https://www.youtube.com/watch?v=6MQ7H7gMEoc) / [s]()
-9/11 | [Harold Solomon](https://twitter.com/harold_solomon)<br>Principal, GT VentureLab | Business model canvas / [v](https://www.youtube.com/watch?v=innVMU-6mCk) / [s]()
+9/11 | [Harold Solomon](https://twitter.com/harold_solomon)<br>Principal, GT VentureLab | Business model canvas / [v](https://youtu.be/dxH0xRit30s) / [s]()
 9/18 |  [Richard Duszak, MD](https://twitter.com/RichDuszak)<br>Vice Chair<br>Emory Radiology | Health economics & reimbursement
 TBD | [Nate Gross, MD, MBA](https://twitter.com/ng)<br>Co-founder, Rock Health & Doximity | Google Hangout with a digital health entrepreneur
 TBD | [Mathu Kumarasamy](https://twitter.com/MathuKumarasamy)<br>Office of Quality & Risk<br>Emory Healthcare | Behavioral economics in healthcare
