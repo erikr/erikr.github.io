@@ -23,9 +23,10 @@ I am an MD/PhD student at Emory & GaTech advised by [Professor Gari Clifford](ht
 
 A data scientist in training, my interests include statistics, machine learning, digital health, behavioral economics, and technology commercialization.
 
-I co-founded [Forge](http://forgehealth.org); we help tech startups launch clinical pilots.
+I co-founded [Forge](http://forgehealth.org). We help digital health startups launch clinical pilots.
 
-I run an [elective course](http://erikreinertsen.com/iemed/) at my medical school about healthcare startups. I also TA a GaTech course on computational systems biology.
+I run an [elective course on startups](http://erikreinertsen.com/iemed/) for Emory medical students.<br>
+I also TA computational systems biology at GaTech.
 
 Californian at heart, I earned a BS in Bioengineering from UCLA where I worked in the [Wu Lab](http://wulab.seas.ucla.edu/) on biomaterials and nanotechnology.
 
