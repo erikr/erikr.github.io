@@ -54,14 +54,15 @@ IEMed is for 2nd year medical students, but professional and graduate students f
 
 ###Schedule
 
-Sessions are 2 hours. Video will be recorded and uploaded to YouTube.
+Default sessions are in SOM 253A from 1-3 pm. Videos will be recorded and uploaded to YouTube.
 
 | Date | Speaker | Topic / video (v) / slides (s)
 | --- | --- | --- |
 8/21 | Angela Fusaro, MD | Problem-based innovation / [v](https://www.youtube.com/watch?v=gN9Fg-bsEck) / [s](/assets/150821_fusaro_innovation.ppt)
 8/21 | Arun Mohan, MD, MBA | Healthcare finance / [v](https://www.youtube.com/watch?v=6MQ7H7gMEoc) / [s]()
 9/11 | [Harold Solomon](https://twitter.com/harold_solomon)<br>Principal, GT VentureLab | Evidence-based entrepreneurship
-9/18 |  [Richard Duszak, MD](https://twitter.com/RichDuszak)<br>Vice Chair<br>Emory Radiology | Health economics & reimbursement
+9/18 |  [Richard Duszak, MD](https://twitter.com/RichDuszak)<br>Vice Chair, Emory Radiology | Health economics & reimbursement
+9/25 | [Evan McClure](https://twitter.com/evan_mcclure)<br>MD/MBA student, Emory<br><br>Felipe Rojas<br>MBA student, Emory | Angel, seed, and VC funding
 TBD | [Nate Gross, MD, MBA](https://twitter.com/ng)<br>Co-founder, Rock Health & Doximity | Google Hangout with a digital health entrepreneur
 TBD | [Mathu Kumarasamy](https://twitter.com/MathuKumarasamy)<br>Office of Quality & Risk<br>Emory Healthcare | Behavioral economics in healthcare
 TBD | [Lucienne Ide, MD, PhD](https://twitter.com/Lucienneide)<br>President & CEO, Rimidi Diabetes <br><br> [Mark Braunstein, MD](http://www.ic.gatech.edu/people/mark-braunstein) <br>Professor of the Practice, GT | Digital health & informatics
