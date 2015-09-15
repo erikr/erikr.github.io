@@ -33,7 +33,7 @@ Also, smartphones are not just ubiquitous *among* people, they are universal *wi
 
 Smartphones have sensors that provide rich contextual data about a patient's life. Using these capabilities to continuously monitor patients is important because of a concept called "hovering". Asch, Muller, and Volpp write:
 
-> ...even patients with chronic illness might spend only a few hours a year with a doctor or nurse, but they spend 5000 waking hours each year engaged in everything else — including deciding whether to take prescribed medications or follow other medical advice, deciding what to eat and drink and whether to smoke, and making other choices about activities that can profoundly affect their health.<br>Source: [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMp1203869)
+> ...even patients with chronic illness might spend only a few hours a year with a doctor or nurse, but they spend 5000 waking hours each year engaged in everything else — including deciding whether to take prescribed medications or follow other medical advice, deciding what to eat and drink and whether to smoke, and making other choices about activities that can profoundly affect their health.<br>Source: [NEJM 2012](http://www.nejm.org/doi/full/10.1056/NEJMp1203869)
 
 Because of these sensing capabilities, providers can now measure a patient's blood pressure, heart & respiratory rate, peripheral oxygen saturation, ECG data, blood glucose level, sleep & movement activity, location, and more. The rich lifestyle context from this data could help patients and clinicians work together towards better health goals.
 
