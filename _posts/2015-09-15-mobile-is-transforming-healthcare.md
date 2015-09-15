@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three ways mobile is transforming healthcare
-tags: medicine, startups, research
+tags: medicine,tech
 ---
 
 Mobile technology (i.e. smartphones) is transforming healthcare in three key ways:

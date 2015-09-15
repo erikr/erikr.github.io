@@ -1,10 +1,10 @@
 ---
 title: John Doerr shares five traits of outstanding ventures
 layout: post
-tags: tech,startups
+tags: tech
 ---
 
-John Doerr, legendary VC at KPCB, held a great Q&A session at UC Berkeley. 
+John Doerr, legendary VC at KPCB, held a great Q&A session at UC Berkeley.
 
 > We looked back on our investments and found **five key factors** that distinguish the Amazons and Googles from the rest of the pack:
 
