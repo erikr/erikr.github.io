@@ -19,8 +19,8 @@ title: ""
     </div>
 </div>
 
-Erik is an MD/PhD student at Emory & Georgia Tech, and focuses on biomedical data science, machine learning, and statistics.
-
+Erik is an MD/PhD student at Emory & Georgia Tech, and focuses on data science, machine learning, and digital health.
+ 
 Outside of the lab, Erik leads [Forge](http://forgehealth.org), a nonprofit organization he co-founded to help digital health startups find collaborators and launch clinical pilots.
 
 He also runs an [elective course on startups](http://erikreinertsen.com/iemed/) for Emory medical students, and TAs computational systems biology at Tech.
