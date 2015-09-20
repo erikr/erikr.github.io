@@ -20,5 +20,5 @@ permalink: "/:title/"
 pages_list:
   About: '/about'
   Research: '/research'
+  Teaching: '/teaching'
   Talks: '/talks'
-  IEMed: '/iemed'
