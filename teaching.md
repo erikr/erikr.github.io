@@ -10,4 +10,4 @@ I founded and run [Innovation and Entrepreneurship in Medicine](http://erikreine
 
 This semester I am a graduate teaching assistant for BMED 3520, a junior undergraduate engineering course on computational systems biology at Georgia Institute of Technology. We cover linear algebra, differential equations, network and graph theory, Markov models, parameter estimation, metabolomics and genomics, and personalized medicine.
 
-Finally, I founded and help organize the annual [Medical Student Teaching Competition](emorymstc.com) at Emory University School of Medicine.
+Finally, I founded and help organize the annual [Medical Student Teaching Competition](http://emorymstc.com) at Emory University School of Medicine.
