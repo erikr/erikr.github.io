@@ -19,7 +19,7 @@ title: ""
     </div>
 </div>
 
-Erik is an MD/PhD student at Emory & Georgia Tech, and focuses on data science, machine learning, and digital health.
+Erik is an MD/PhD student at Emory & Georgia Tech. He is interested in data science, machine learning, and digital health.
  
 Outside of the lab, Erik leads [Forge](http://forgehealth.org), a non-profit organization he co-founded to help digital health startups launch clinical pilots and find collaborators.
 
