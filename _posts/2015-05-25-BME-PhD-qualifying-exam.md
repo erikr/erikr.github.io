@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The PhD qualifying exam at GT BME"
-tags: academia
-published: true
+tags: research
 ---
 
 
@@ -20,7 +19,7 @@ Prior to the real questions, I was asked to introduce myself and my research in 
 
 Here are the three lines of questioning I experienced. Note you won't gain anything by preparing to answer these specific questions. Everyone experiences different questions. The purpose of sharing these questions is to help you assess the overall difficulty of the exam and understand how the line of questioning evolves.
 
-1. Explain what happens electrically when your heart beats. 
+1. Explain what happens electrically when your heart beats.
     1. Draw the ECG waveform.
 	2. Explain how the ECG records electrical activity from the heart.
 	3. Write an algorithm to determine heart rate from ECG data in real-time.
