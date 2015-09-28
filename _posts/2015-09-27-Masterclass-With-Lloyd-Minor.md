@@ -8,6 +8,8 @@ I had the privilege of attending a masterclass on leadership with Lloyd Minor, D
 
 ![Dean Minor](https://goo.gl/fhaexU)
 
+*photo credit [@StevenChanMD](http://twitter.com/StevenChanMD)*
+
 He suggested three readings to prepare:
 
 1. [Personal renewal](assets/masterclass_gardner.pdf) by John Gardner.
@@ -47,6 +49,8 @@ Core values already exist in large orgs; you don't create them. You have to list
 Read (form a group), get a coach, and obtain feedback.
 
 ---
+
+Emory should hold similar sessions with our Deans and Chairs to teach students and trainees more about leadership. Stay tuned, I'll be working on it.
 
 And of course I had to get a picture with the boss!
 
