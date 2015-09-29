@@ -34,7 +34,7 @@ Buy-in from people you lead is dynamic and evolves over time. Listen and learn.
 
 Hire people who already bought in to your vision. People at Stanford or Google *want* to be there.
 
-If your organization faces a threat and you must take quick action before getting everyone's permission:
+> What do you do if your organization faces a threat and you have to act before getting everyone's permission?
 
 1. Communicate the threat to your organization.
 2. Take action.
