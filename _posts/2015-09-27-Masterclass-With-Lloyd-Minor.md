@@ -50,7 +50,7 @@ Read (form a group), get a coach, and obtain feedback.
 
 ---
 
-Emory should hold similar sessions with our Deans and Chairs to teach students and trainees more about leadership. Stay tuned, I'll be working on it.
+Emory should hold similar sessions with our Deans and Chairs to teach students and trainees more about leadership. Stay tuned, I'll work on it.
 
 And of course I had to get a picture with the boss!
 
