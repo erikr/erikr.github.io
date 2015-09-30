@@ -12,9 +12,9 @@ I had the privilege of attending a masterclass on leadership with Lloyd Minor, D
 
 He suggested three readings to prepare:
 
-1. [Personal renewal](assets/masterclass_gardner.pdf) by John Gardner.
-2. [What leaders really do](assets/masterclass_kotter.pdf) by John Kotter.
-3. [I was impossible, but then I saw how to lead](assets/masterclass_simmons.pdf) by Ruth Simmons.
+1. [Personal renewal](/assets/masterclass_gardner.pdf) by John Gardner.
+2. [What leaders really do](/assets/masterclass_kotter.pdf) by John Kotter.
+3. [I was impossible, but then I saw how to lead](/assets/masterclass_simmons.pdf) by Ruth Simmons.
 
 Our class had ~15 clinicians, technologists, and students. We started with introductions and then discussed five principles of leadership:
 
