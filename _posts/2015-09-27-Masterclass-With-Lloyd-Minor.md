@@ -6,7 +6,7 @@ tags: academia,culture
 
 I had the privilege of attending a masterclass on leadership with Lloyd Minor, Dean of Stanford University School of Medicine. Here I review what we learned.
 
-![Dean Minor](http://erikreinertsen.com/assets/minor1.jpg)
+![Dean Minor](/assets/minor1.jpg)
 
 *photo credit [@StevenChanMD](http://twitter.com/StevenChanMD)*
 
@@ -54,7 +54,7 @@ Emory should hold similar sessions with our Deans and Chairs to teach students a
 
 And of course I had to get a picture with the boss!
 
-![selfie](http://erikreinertsen.com/assets/minor2.jpg)
+![selfie](/assets/minor2.jpg)
 
 ---
 
