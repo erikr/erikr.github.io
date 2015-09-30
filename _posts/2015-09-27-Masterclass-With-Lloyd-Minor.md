@@ -24,7 +24,7 @@ Our class had ~15 clinicians, technologists, and students. We started with intro
 4. Management deals with complexity, while leadership deals with change.
 5. Plan transitions[^footnote2].
 
-We also did a Q&A where Dr. Minor shared his views on difficult and broad questions:
+Dr. Minor also answered some questions from our group: 
 
 > How do you earn loyalty, especially when you are a new leader at an established organization?
 
