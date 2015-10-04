@@ -6,15 +6,15 @@ tags: academia,culture
 
 I had the privilege of attending a masterclass on leadership with Lloyd Minor, Dean of Stanford University School of Medicine. Here I review what we learned.
 
-![Dean Minor](https://goo.gl/fhaexU)
+![Dean Minor](/assets/minor1.jpg)
 
 *photo credit [@StevenChanMD](http://twitter.com/StevenChanMD)*
 
 He suggested three readings to prepare:
 
-1. [Personal renewal](assets/masterclass_gardner.pdf) by John Gardner.
-2. [What leaders really do](assets/masterclass_kotter.pdf) by John Kotter.
-3. [I was impossible, but then I saw how to lead](assets/masterclass_simmons.pdf) by Ruth Simmons.
+1. [Personal renewal](/assets/masterclass_gardner.pdf) by John Gardner.
+2. [What leaders really do](/assets/masterclass_kotter.pdf) by John Kotter.
+3. [I was impossible, but then I saw how to lead](/assets/masterclass_simmons.pdf) by Ruth Simmons.
 
 Our class had ~15 clinicians, technologists, and students. We started with introductions and then discussed five principles of leadership:
 
@@ -24,7 +24,7 @@ Our class had ~15 clinicians, technologists, and students. We started with intro
 4. Management deals with complexity, while leadership deals with change.
 5. Plan transitions[^footnote2].
 
-We also did a Q&A where Dr. Minor shared his views on difficult and broad questions:
+Dr. Minor also answered some questions from our group: 
 
 > How do you earn loyalty, especially when you are a new leader at an established organization?
 
@@ -34,7 +34,7 @@ Buy-in from people you lead is dynamic and evolves over time. Listen and learn.
 
 Hire people who already bought in to your vision. People at Stanford or Google *want* to be there.
 
-If your organization faces a threat and you must take quick action before getting everyone's permission:
+> What do you do if your organization faces a threat and you have to act before getting everyone's permission?
 
 1. Communicate the threat to your organization.
 2. Take action.
@@ -50,11 +50,11 @@ Read (form a group), get a coach, and obtain feedback.
 
 ---
 
-Emory should hold similar sessions with our Deans and Chairs to teach students and trainees more about leadership. Stay tuned, I'll be working on it.
+Emory should hold similar sessions with our Deans and Chairs to teach students and trainees more about leadership. Stay tuned, I'll work on it.
 
 And of course I had to get a picture with the boss!
 
-![selfie](https://goo.gl/NtscqZ)
+![selfie](/assets/minor2.jpg)
 
 ---
 
