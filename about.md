@@ -6,7 +6,7 @@ title: ""
 
 <div>
     <div style="float: left; margin: 0px 0px 0px 0px;">
-        <img src="/images/erik2.png" width="240">
+        <img src="/images/erik.png" width="240">
     </div>
     <div style="float: right; width: 62%; margin: 0px 0px 0px 10px;">
         <ul class="fa-ul">
