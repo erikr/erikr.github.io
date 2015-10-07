@@ -5,10 +5,10 @@ title: ""
 ---
 
 <div>
-    <div style="float: left; margin: 0px 0px 5px 0px;">
-        <img src="/images/erik.png" height="250">
+    <div style="float: left; margin: 0px 0px 0px 0px;">
+        <img src="/images/erik2.png" width="240">
     </div>
-    <div style="float: right; width: 55%; margin: 50px 0px 0px 50px;">
+    <div style="float: right; width: 62%; margin: 0px 0px 0px 10px;">
         <ul class="fa-ul">
             <li><i class="fa-li fa fa-twitter"></i><a href="http://www.twitter.com/ereinerts">@ereinerts</a></li>
             <li><i class="fa-li fa fa-linkedin"></i><a href="http://www.linkedin.com/in/erikreinertsen/">linkedin</a></li>
@@ -17,11 +17,10 @@ title: ""
             <li><i class="fa-li fa fa-envelope"></i><a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a></li>
         </ul>
 
-	<br>
-	<p>Erik is an MD/PhD student at Emory & Georgia Tech. He works on <a href="http://erikreinertsen.com/research/">data science, machine learning, and digital health</a>.</p>
+	<p>Hi! I'm an an MD/PhD student at Emory & Georgia Tech. I work on <a href="http://erikreinertsen.com/research/">data science, machine learning, and digital health</a>.</p>
 	 
-	<p>Outside of the lab, Erik leads <a href="http://forgehealth.org">Forge</a>, a non-profit organization that helps digital health startups launch clinical pilots and find collaborators. He also is involved in <a href="http://erikreinertsen.com/teaching">teaching</a>.</p>
+	<p>Outside of the lab, I lead <a href="http://forgehealth.org">Forge</a>, a non-profit organization that funds digital health startups and helps them launch clinical pilots. I also <a href="http://erikreinertsen.com/teaching">teach</a>.</p>
 	
-	<p>Californian at heart, Erik holds a BS in Bioengineering from UCLA where he worked on biomaterials and nanotechnology. Erik enjoys cooking, drinking cappucinos, and visiting the SF Bay Area.</p>
+	<p>Californian at heart, I hold a BS in Bioengineering from UCLA where I worked on biomaterials and nanotechnology. I enjoy cooking, drinking cappucinos, and visiting the SF Bay Area.</p>
     </div>
 </div>
