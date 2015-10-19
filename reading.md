@@ -1,6 +1,16 @@
 ---
 layout: page
 permalink: /reading/
+<<<<<<< HEAD
+title: ""
+---
+
+<script>
+$(document).ready(function(){
+
+var rss = 'https://www.instapaper.com/starred/rss/3027971/BBAkGKpxHLpXeTJRFugszS4o9s';
+
+=======
 title: "Reading"
 ---
 
@@ -20,6 +30,7 @@ function hostname(url) {
   var matches = url.match(/^https?\:\/\/(www\.)?([^\/?#]+)(?:[\/?#]|$)/i);
   return matches[2];
 }
+>>>>>>> master
 (function(url, callback) {
     $.ajax({
         url: document.location.protocol
@@ -30,6 +41,27 @@ function hostname(url) {
             callback(data.responseData.feed);
         }
     });
+<<<<<<< HEAD
+})(rss, function(feed){
+    var entries = feed.entries, feed = '';
+    for (var i = 0; i < entries.length; i++) {
+        feed += '<p><b><a href="' + entries[i].link + '">"' + entries[i].title + '"</a></b><br>'
+                + entries[i].content + '</p>';
+    }
+    $('#feed').append(feed);
+});
+
+
+}); /* ready */
+</script>
+
+<h1>I Recently Liked...</h1>
+
+<p id="feed">
+</p>
+
+<a href="https://www.instapaper.com/p/erikreinertsen">More articles...</a>
+=======
 })
 
 (rss, function(feed){
@@ -43,3 +75,4 @@ function hostname(url) {
 });
 });
 </script>
+>>>>>>> master

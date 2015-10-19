@@ -20,5 +20,6 @@ permalink: "/:title/"
 pages_list:
   About: '/about'
   Research: '/research'
+  Reading: '/reading'
   Teaching: '/teaching'
   Talks: '/talks'
