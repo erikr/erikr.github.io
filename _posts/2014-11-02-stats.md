@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Non-parametric statistical tests
-tags: research, engineering
+tags: research
 ---
 
 Non-parametric tests are also referred to as distribution-free tests, and are used when you *cannot make the assumption of normality*.

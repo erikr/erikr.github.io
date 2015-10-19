@@ -1,17 +1,18 @@
 # Permalinks
-permalink:        pretty
+permalink: pretty
 relative_permalinks: true
 
 # Setup
-title:            Erik Reinertsen
+host: localhost
+title: Erik Reinertsen
 tagline:
-url:              http://erikreinertsen.com
-paginate:         1
-baseurl:          /
+url: http://erikreinertsen.com
+paginate: 1
+baseurl: /
 author:
-  name:           Erik Reinertsen
-  url:            http://erikreinertsen.com
-  email:          ereinerts@gmail.com
+  name: Erik Reinertsen
+  url: http://erikreinertsen.com
+  email: ereinerts@gmail.com
 avatar: erik.jpg # 160x160 px image for author byline
 
 permalink: "/:title/"
@@ -20,5 +21,5 @@ pages_list:
   About: '/about'
   Research: '/research'
   Reading: '/reading'
+  Teaching: '/teaching'
   Talks: '/talks'
-  IEMed: '/iemed'

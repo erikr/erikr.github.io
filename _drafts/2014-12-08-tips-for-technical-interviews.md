@@ -1,6 +1,6 @@
 ---
 title: Tips for technical interviews
-layout: article
+layout: post
 tags: academia, engineering, research
 ---
 
@@ -14,7 +14,7 @@ Questions, plus answers for technical topics:
 + Q: Where do you see yourself after finishing school, then after that?
 + A: Residency, then faculty with joint appointments in medicine and engineering. I want to balance patient care, research, and teaching in a synergistic fashion. This sounds cliched, but interestingly it is also one of the rarest outcomes for any academic doctor. Everyone says they want to do it because they think the admissions committees want to hear it. They may be right. Lots of us say this because we truly want to do it. But the actual number of MDs and MD/PhDs who successfully attain synergy between three very demanding and sometimes conflicting endeavors is small - based on my anecdotal experiences with faculty over the years.
 + Q: Tell me about a situation in which you exercised creativity?
-+ A: I talked about my senior design project at UCLA where we attempted to reduce cell death in polymer scaffolds by seeding cells in a gradient to better control oxygen consumption and diffusion. Our team was limited to 1 or 2-dimensional modeling in COMSOL because of mathematical complexity. To match computational and experimental paradigms, we fabricated polymer discs that fit exactly in the wells of a 48-well plate. Like stacking pancakes of different chocolate chip densities, we stacked discs with different cell densities to crudely control cell distribution. 
++ A: I talked about my senior design project at UCLA where we attempted to reduce cell death in polymer scaffolds by seeding cells in a gradient to better control oxygen consumption and diffusion. Our team was limited to 1 or 2-dimensional modeling in COMSOL because of mathematical complexity. To match computational and experimental paradigms, we fabricated polymer discs that fit exactly in the wells of a 48-well plate. Like stacking pancakes of different chocolate chip densities, we stacked discs with different cell densities to crudely control cell distribution.
 + Q: Another thing Hertz looks for is technical skill. What are some areas we can talk about?
 + A: Chemical engineering, transport, biology / physiology, statistics.
 + Q: We play a game where I have 1000 coins and you have 1000 coins. We take turns flipping one coin at a time. If it lands heads, I get the coin (or keep it if it was my flip). If it lands tails, you get it. What does the sample space of game outcomes look like? How would you determine the length of the game?
