@@ -4,8 +4,6 @@ permalink: /reading/
 title: "Reading"
 ---
 
-<p>Articles I recently enjoyed reading.</p>
-
 <p id="feed"></p>
 
 <script>

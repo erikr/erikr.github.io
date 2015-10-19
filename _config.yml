@@ -13,13 +13,13 @@ author:
   name: Erik Reinertsen
   url: http://erikreinertsen.com
   email: ereinerts@gmail.com
-avatar: erik.jpg # 160x160 px image for author byline
+avatar: erik.jpg
 
 permalink: "/:title/"
 
 pages_list:
   About: '/about'
   Research: '/research'
-  Reading: '/reading'
   Teaching: '/teaching'
+  Reading: '/reading'
   Talks: '/talks'
