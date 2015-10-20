@@ -4,16 +4,17 @@ permalink: /reading/
 title: "Reading"
 ---
 
-<p id="feed"></p>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 
 <script>
-<!--
 $(document).ready(function(){
 var rss = 'http://feeds.delicious.com/v2/rss/ereinerts?count=100';
+
 function hostname(url) {
   var matches = url.match(/^https?\:\/\/(www\.)?([^\/?#]+)(?:[\/?#]|$)/i);
   return matches[2];
 }
+
 (function(url, callback) {
     $.ajax({
         url: document.location.protocol
@@ -24,7 +25,9 @@ function hostname(url) {
             callback(data.responseData.feed);
         }
     });
-})(rss, function(feed){
+})
+
+(rss, function(feed){
     var entries = feed.entries, feed = '';
     for (var i = 0; i < entries.length; i++) {
         feed += '<p><b><a href="' + entries[i].link + '">' + entries[i].title + '</a></b><br>'
@@ -32,6 +35,6 @@ function hostname(url) {
     }
     $('#feed').append(feed);
 });
-}); /* ready */
-//-->
+
+});
 </script>
