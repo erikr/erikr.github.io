@@ -12,7 +12,7 @@ Here are some articles I recently liked. I use [Pocket](http://getpocket.com).
 
 <script>
 $(document).ready(function(){
-var rss = 'http://feeds.delicious.com/v2/rss/ereinerts?count=100';
+var rss = 'http://feeds.delicious.com/v2/rss/ereinerts';
 
 function hostname(url) {
   var matches = url.match(/^https?\:\/\/(www\.)?([^\/?#]+)(?:[\/?#]|$)/i);
