@@ -17,7 +17,7 @@ title: ""
             <li><i class="fa-li fa fa-envelope"></i><a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a></li>
         </ul>
 
-	<p>Hi! I'm an MD/PhD student at Emory & Georgia Tech. I work on <a href="http://erikreinertsen.com/research/">data science, machine learning, and digital health</a>.</p>
+	<p>Hi! I'm an MD/PhD student at Emory & Georgia Tech. <a href="http://erikreinertsen.com/research/">I analyze mobile device data using tools from time series analysis, graph theory, and machine learning</a>.</p>
 	 
 	<p>Outside of the lab, I lead <a href="http://forgehealth.org">Forge</a>, a non-profit organization that funds digital health startups and helps them launch clinical pilots. I also <a href="http://erikreinertsen.com/teaching">teach</a>.</p>
 	
