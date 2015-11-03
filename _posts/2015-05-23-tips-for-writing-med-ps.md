@@ -12,9 +12,7 @@ An average PS says "I want to be a physician because of X, Y, and Z".
 
 A better PS shares a fascinating life story that leaves the reader with one conclusion - your inevitable career in medicine.
 
-This is analogous to Michelangelo's approach. He carved the statue of David by removing everything from a block of marble except the angel. Approach your essay with the same sense of focus and minimalism.
-
-Writing a PS is difficult because it demands introspection and brevity. Most people are neither introspective nor brief, but you can improve these traits in your life and your writing with practice. Here are some tips.
+Writing a PS is difficult because it demands introspection and brevity. Most people are neither introspective nor brief, but you can improve these traits with practice. Here are some tips.
 
 <br>
 
