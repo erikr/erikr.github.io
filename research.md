@@ -8,4 +8,4 @@ The [Clifford Lab](http://gdclifford.info) works on signal processing, machine l
 
 Clinical applications include cardiovascular health, infectious disease epidemiology, sepsis and critical care medicine, sleep and mental health, etc.
 
-I analyze mobile device data and investigate questions relevant to clinical medicine using tools from time seriesi analysis and graph theory.
+ I analyze mobile device data using tools from time series analysis, graph theory, and machine learning. Currently I am focused on detecting epidemic outbreaks through cell phone data.
