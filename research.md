@@ -8,4 +8,4 @@ The [Clifford Lab](http://gdclifford.info) works on signal processing, machine l
 
 Clinical applications include cardiovascular health, infectious disease epidemiology, sepsis and critical care medicine, sleep and mental health, etc.
 
- I analyze mobile device data using tools from time series analysis, graph theory, and machine learning. Currently I am focused on detecting epidemic outbreaks through cell phone data.
+My research concerns the analysis of smartphone and medical sensor data using signal processing and machine learning. Currently I work on detecting epidemic outbreaks through cell phone data (co-advised by [Ymir Vigfusson](http://www.ymsir.com)).

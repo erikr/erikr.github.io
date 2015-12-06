@@ -17,9 +17,9 @@ title: ""
             <li><i class="fa-li fa fa-envelope"></i><a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a></li>
         </ul>
 
-	<p>Hi! I'm an MD/PhD student at Emory & Georgia Tech. I analyze mobile device data using signal processing, graph theory, and machine learning.</p>
+	<p>I am an MD/PhD student at Emory & Georgia Tech. My research concerns the analysis of smartphone and medical sensor data using signal processing and machine learning.</p>
 	 
-	<p>Outside of the lab, I lead <a href="http://forgehealth.org">Forge</a>, a non-profit organization that funds digital health startups and helps them launch clinical pilots. I also <a href="http://erikreinertsen.com/teaching">teach</a>.</p>
+	<p>I co-founded <a href="http://forgehealth.org">Forge</a>, a non-profit that helps digital health startups launch clinical pilots. I also <a href="http://erikreinertsen.com/teaching">teach</a>.</p>
 	
 	<p>Californian at heart, I hold a BS in Bioengineering from UCLA where I worked on biomaterials and nanotechnology. I enjoy cooking, drinking cappucinos, and visiting the SF Bay Area.</p>
     </div>
