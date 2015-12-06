@@ -1,0 +1,10 @@
+---
+layout: post
+title: Clinical trials of the future 
+---
+
+Eli Lilly built a closed-loop system to improve clinical trials.
+
+Their goals are to improve the chances that patients successfuly complete remote clinical trial activities.
+
+They use a mobile patient trial app, a provider app that integrates with the EHR, and a medical-grade biosensor.
