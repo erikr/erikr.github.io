@@ -8,4 +8,4 @@ I TA computational systems biology at Georgia Tech. We cover linear algebra, dif
 
 I manage [Innovation and Entrepreneurship in Medicine](http://erikreinertsen.com/iemed), an elective course I created at Emory University School of Medicine offered every fall.
 
-Finally, I founded and help organize the annual [Medical Student Teaching Competition](http://emorymstc.com) at Emory University School of Medicine.
+Finally, I founded the annual [Medical Student Teaching Competition](http://emorymstc.com) at Emory University School of Medicine.
