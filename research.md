@@ -4,9 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-The [Clifford Lab](http://gdclifford.info) works on signal processing, machine learning, and physiological modeling to reduce costs, increase accuracy, and improve access in healthcare using high frequency multivariate data streams.
-
-Our theoretical developments focus on building confidence intervals and trust metrics for predictive algorithms and scaling analysis of medical data beyond conventional clinical capacity, particularly through mHealth.
+The [Clifford Lab](http://gdclifford.info) works on signal processing, machine learning, and physiological modeling.
 
 Application areas include critical care, sleep and circadian rhythms, perinatal monitoring, and resource-constrained environments such as developing countries.
 
