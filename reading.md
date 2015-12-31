@@ -6,7 +6,7 @@ title: "Reading"
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 
-Here are some articles I liked. I use [Pocket](http://getpocket.com) to save and read. I use [IFTTT](https://ifttt.com) and [Delicious](https://delicious.com) to make these links appear.
+Here are some articles I liked:
 
 <div id="feed">
 
