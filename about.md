@@ -17,11 +17,13 @@ title: ""
             <li><i class="fa-li fa fa-envelope"></i><a href="mailto:ereinerts@gmail.com">ereinerts@gmail.com</a></li>
         </ul>
 
-<p>I am an MD/PhD student at Emory & Georgia Tech. I analyze phone & wearable device data using <a href="http://erikreinertsen.com/research">signal processing & machine learning</a>.</p>
+<p>I am an MD/PhD student at Emory & Georgia Tech.
+
+<p> I analyze phone & wearable device data using <a href="http://erikreinertsen.com/research">signal processing & machine learning</a>.</p>
 
 <p>I co-founded <a href="http://forgehealth.org">Forge</a>, a non-profit that helps digital health startups launch clinical pilots. I also <a href="http://erikreinertsen.com/teaching">teach</a>.</p>
 
-<p>Californian at heart, I hold a BS in Bioengineering from UCLA where I worked on biomaterials & nanotech. I enjoy reading, cooking, & visiting SF.</p>
+<p>I hold a BS in Bioengineering from UCLA where I worked on biomaterials & nanotech. I enjoy reading, cooking, & visiting the SF Bay Area.</p>
 
 </div>
 
