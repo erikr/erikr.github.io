@@ -4,7 +4,7 @@ layout: post
 tags: academia,culture
 ---
 
-I had the privilege of attending a masterclass on leadership with Lloyd Minor, Dean of Stanford University School of Medicine. Here I review what we learned.
+I had the privilege of attending a masterclass on leadership at Stanford University School of Medicine with Lloyd Minor, the Dean. Here's what we learned.
 
 ![Dean Minor](/assets/minor1.jpg)
 
