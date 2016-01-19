@@ -1,7 +1,7 @@
 ---
 title: Tips for technical interviews
 layout: post
-tags: academia, engineering, research
+tags: academia, engineering, research, draft
 ---
 
 I applied for the Hertz Foundation Fellowship, and was invited to the first round of interviews.

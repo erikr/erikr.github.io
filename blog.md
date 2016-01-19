@@ -5,6 +5,8 @@ title: ""
 ---
 
 {% for post in site.posts %}
-<a href='{{ post.url }}'>{{ post.title }}</a>
-<br>
+{% if post.tags contains 'draft' %}
+{% else %}
+<p><a href='{{ post.url }}'>{{ post.title }}</a></p>
+{% endif %}
 {% endfor %}
