@@ -14,3 +14,7 @@ Projects include:
 
 + Predicting infectious disease outbreaks from cell phone metadata (co-advised by [Ymir Vigfusson](http://www.ymsir.com)).
 + Classifying subgroups and predicting status changes of mental and cardiovascular illness from actigraphy and wearable ECG data.
+
+---
+
+Currently I am *unavailable* for advising or consulting opportunities.
