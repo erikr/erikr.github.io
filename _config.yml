@@ -16,7 +16,7 @@ avatar: erik.jpg
 permalink: "/:title/"
 
 pages_list:
-  Blog: '/blog' 
+  Blog: '/blog'
   Research: '/research'
   Teaching: '/teaching'
   Reading: '/reading'

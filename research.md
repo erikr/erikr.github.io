@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 permalink: /research/
 title: "Research"
+---
+
 ---
 
 I work in the [Clifford Lab](http://gdclifford.info) in the Department of Biomedical Informatics at Emory University School of Medicine.

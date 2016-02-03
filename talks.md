@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 permalink: /talks/
 title: "Talks"
+---
+
 ---
 
 [Startup pitch deck template](/assets/pitchdeck.pptx) based on [this awesome guide](http://visual.ly/only-10-slides-you-need-pitch) by Guy Kawasaki.
