@@ -21,3 +21,5 @@ pages_list:
   Teaching: '/teaching'
   Reading: '/reading'
   Talks: '/talks'
+
+markdown: kramdown
