@@ -19,5 +19,7 @@ pages_list:
   Blog: '/blog'
   Research: '/research'
   Teaching: '/teaching'
-  Reading: '/reading'
+  Startups: '/startups'
   Talks: '/talks'
+
+markdown: kramdown
