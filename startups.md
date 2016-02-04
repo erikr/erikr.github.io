@@ -10,4 +10,4 @@ I also created and help run [Innovation & Entrepreneurship in Medicine](http://e
 
 ---
 
-Founders working in digital health should feel free to contact me if I can be helpful. However, I only have time to try to help diverse and technically strong teams solving clinically important problems.
+*Founders working in digital health should feel free to contact me if I can be helpful. However, I only have time to try to help diverse and technically strong teams solving clinically important problems.*
