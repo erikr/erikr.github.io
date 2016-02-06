@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for writing the personal statement
+title: Tips for writing your personal statement for medical school
 tags: medicine
 ---
 
@@ -14,7 +14,7 @@ A better PS shares a fascinating life story that leaves the reader with one conc
 
 Writing a PS is difficult because it demands introspection and brevity. Most people are neither introspective nor brief, but you can improve these traits with practice. Here are some tips.
 
-<br>
+---
 
 ## Contents:
 
@@ -24,7 +24,7 @@ Writing a PS is difficult because it demands introspection and brevity. Most peo
 4. [Do's](#dos)
 5. [Dont's](#donts)
 
-<br>
+---
 
 ## Brainstorming
 
@@ -45,16 +45,17 @@ Next, gather 3-5 related groups into a **family**. Each family is a potential es
 
 Explore several essay ideas and see what tells your story best. Go with your gut. Write a story that is authentically "you". This makes a more interesting story than guessing what admissions committees want to read.
 
-<br>
+---
 
 ## Writing
 
 + Select one **family** from your brainstorm, then flesh it out with full sentences.
 + Just tell your story. It is acceptable to write "stream of consciousness" because you'll revise later.
 + Set aside time to write, then double that time.
-+ Use a real text editor. Google it. Also, try [Hemingway editor](http://www.hemingwayapp.com/) to aid brevity.
++ Google Docs will let you collaborate in real-time with mentors.
++ Try [Hemingway editor](http://www.hemingwayapp.com/) to aid brevity.
 
-<br>
+---
 
 ## Revising
 
@@ -65,7 +66,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 + Simplify your writing. Say the same thing with fewer words.
 + Vary sentence length and structure.
 
-<br>
+---
 
 ## Do's
 
@@ -76,7 +77,7 @@ Explore several essay ideas and see what tells your story best. Go with your gut
 + Engage the reader's emotion through sharing experiences that were emotional to you.
 + Perfect is the enemy of done. Submit your primary in June. The marginal benefit from polishing your essay is not worth the cost of applying late.
 
-<br>
+---
 
 ## Dont's
 
