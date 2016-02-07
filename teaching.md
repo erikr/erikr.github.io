@@ -10,4 +10,5 @@ At Emory University School of Medicine, I occasionally help with our Evidence-Ba
 
 ---
 
-*Every year I give advice to medical and graduate school applicants. Feel free to contact me if you have questions.*
+*Every year I give advice to medical and graduate school applicants.
+<br>Feel free to contact me if you have questions.*
