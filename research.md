@@ -29,6 +29,7 @@ I analyze phone & wearable device data using signal processing & machine learnin
 
 ### Thesis committee
 
+* [Gari Clifford, DPhil](http://gdclifford.info/people/gari) (Biomedical Informatics, Emory University)
 * [Shamim Nemati, PhD](http://scholar.harvard.edu/shamim/home) (Biomedical Informatics, Emory University)
 * [Lee Cooper, PhD](http://cooperlab.net/people.html) (Biomedical Informatics, Emory University)
 * [Amit Shah, MD, MSCR](http://sph.emory.edu/faculty/profile/#!AJSHAH3) (Epidemiology & Cardiology, Emory University)
