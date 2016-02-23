@@ -14,7 +14,7 @@ I analyze phone & wearable device data using signal processing & machine learnin
 
 ### Current projects
 
-+ Predicting infectious disease outbreaks from cell phone metadata (co-advised by [Ymir Vigfusson, PhD](http://www.ymsir.com)).
++ Predicting infectious disease outbreaks from cell phone metadata<br>(co-advised by [Ymir Vigfusson, PhD](http://www.ymsir.com)).
 + Classifying subgroups and predicting status changes of mental and cardiovascular illness from actigraphy and wearable ECG data.
 
 ---
