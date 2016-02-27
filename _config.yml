@@ -21,5 +21,6 @@ pages_list:
   Teaching: '/teaching'
   Startups: '/startups'
   Talks: '/talks'
+  Reading: '/reading'
 
 markdown: kramdown
