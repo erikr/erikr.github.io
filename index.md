@@ -24,4 +24,4 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Erik is an MD/PhD candidate at Emory and Georgia Tech. Previously, Erik founded Forge (a nonprofit that helped tech companies launch pilot studies) and published papers on clinical informatics, reconstructive surgery, neuro-oncology, biomaterials, and medical education. He also patented an algorithm for monitoring cardiovascular stress and licensed the IP to a company. Erik earned a PhD in Biomedical Engineering with a minor in Statistics from Georgia Tech, and a BS in Bioengineering from UCLA.
+Erik is an MD/PhD candidate at Emory and Georgia Tech. He has published papers on biomedical informatics, reconstructive surgery, neuro-oncology, biomaterials, and medical education. He also patented and licensed an algorithm for monitoring cardiovascular stress. Erik enjoys teaching and academic-industry partnerships. He holds a PhD in Biomedical Engineering with a minor in Statistics from Georgia Tech, and a BS in Bioengineering from UCLA.
