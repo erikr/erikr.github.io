@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55192272-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<head>
+
+<meta charset="UTF-8">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<title>
+    Uber flat fare math
+</title>
+
+<!-- CSS & JS -->
+<link rel="stylesheet" href="/css/poole.css">
+<link rel="stylesheet" href="/css/syntax.css">
+<link rel="stylesheet" href="/css/grid.css">
+<script type="text/javascript" src="/js/jquery-2.2.1.min.js"></script>
+
+<!-- RSS -->
+<link rel="alternate" type="application/atom+xml" title="Erik Reinertsen" href="/atom.xml">
+
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Uber flat fare math | Erik Reinertsen</title>
+<meta property="og:title" content="Uber flat fare math" />
+<meta name="author" content="Erik Reinertsen" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Uber is offering $2 flat fares in San Francisco for September." />
+<meta property="og:description" content="Uber is offering $2 flat fares in San Francisco for September." />
+<link rel="canonical" href="http://localhost:4000/uber-flat-fare/" />
+<meta property="og:url" content="http://localhost:4000/uber-flat-fare/" />
+<meta property="og:site_name" content="Erik Reinertsen" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2016-08-24T00:00:00-04:00" />
+<script type="application/ld+json">
+{"image":null,"publisher":null,"headline":"Uber flat fare math","dateModified":"2016-08-24T00:00:00-04:00","datePublished":"2016-08-24T00:00:00-04:00","sameAs":null,"author":{"@type":"Person","name":"Erik Reinertsen"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/uber-flat-fare/"},"description":"Uber is offering $2 flat fares in San Francisco for September.","name":null,"@type":"BlogPosting","url":"http://localhost:4000/uber-flat-fare/","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<body>
+		<div class="container content">
+
+		<header class="masthead">
+			<h3 class="masthead-title">
+				<a href="/" title="Home">Erik Reinertsen</a>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/blog">Blog</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/research">Research</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/teaching">Teaching</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/tech">Tech</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/talks">Talks</a></small>
+				
+			</h3>
+		</header>
+
+		<main>
+			<article class="article">
+    <h2 class="article-title">Uber flat fare math</h2>
+    <hr />
+    <p>Uber is offering <a href="https://www.uber.com/info/plus/sanfrancisco">$2 flat fares</a> in San Francisco for September.</p>
+
+<p>Is this a good deal? In other words, if you take uberPOOL, how many flat fare rides does it take to <strong>break even</strong> with regular uberPOOL?</p>
+
+<p>In this simple model, we set the price of regular uberPOOL rides (left side of equation) equal to the price of flat fare uberPOOL rides (right side of equation).</p>
+
+<p>The typical ride price for regular uberPOOL rides is <em>MRP</em>, the number of rides is <em>N</em>, and we assume we only pay for the $20 upfront fee which enables a $2/ride flat fare (up to 20 rides max).</p>
+
+<p><img src="/assets/ubermath.png" alt="ubermath" /></p>
+
+<p>We can plot <em>N</em> versus <em>MRP</em>:</p>
+
+<p><img src="/assets/uberplot.png" alt="uberplot" /></p>
+
+<p>Note we round the number of rides up to an integer value.</p>
+
+<p>To determine if the new flat fare is a good deal, estimate your typical ride price for uberPOOL, then check how many rides you’d need to take to at least break even. If you take more rides than that, flat fare makes sense.</p>
+
+<p>If you take fewer than <em>N</em> rides, you are not taking advantage of the flat fare’s cheaper cost per ride. Given the $20 upfront fee, you should stick with regular uberPOOL.</p>
+
+<p>For example, my typical uberPOOL rides cost about $6. Flat fares are therefore cost-effective if I take 5+ rides that month.</p>
+
+<p>If you take longer (and thus more expensive) uberPOOL rides, e.g. Sunset to FiDi, the savings from flat fare are even greater.</p>
+
+<p>This same model applies to other cities, or for UberX. Just adjust the numbers.</p>
+
+<p>Remember, flat fares are only good for specific times, cities, and regions within those cities.</p>
+
+<p>Innovative payment structures like flat fares will help more people afford transportation. Kudos to Uber!</p>
+
+</article>
+
+		</main>
+
+		</div>
+	</body>
+</html>
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
