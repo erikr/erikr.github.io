@@ -12,4 +12,4 @@ I did my PhD in the [Clifford Lab](http://gdclifford.info/people/gari). We used 
 
 We developed and patented an algorithm to monitor PTSD via cardiovascular stress and [licensed it to a company](http://www.fiercebiotech.com/medtech/medibio-s-noninvasive-objective-ptsd-diagnostic-correct-80-time).
 
-See [Google Scholar](https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate) for my papers on informatics, reconstructive surgery, neuro-oncology, biomaterials, and medical education.
+My papers are available via [Google Scholar](https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate).
