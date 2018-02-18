@@ -1,0 +1,28 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+host: localhost
+title: Erik Reinertsen
+url: http://erikreinertsen.com
+
+author:
+    name: Erik Reinertsen
+    url: http://twitter.com/erikrtn
+    email: erikrtn@gmail.com
+
+avatar: erik.jpg
+future: true
+permalink: "/:title/"
+
+pages_list:
+    Blog: '/blog'
+    Research: '/research'
+    Teaching: '/teaching'
+    Tech: '/tech'
+    Talks: '/talks'
+
+markdown: kramdown
+
+plugins:
+    - jekyll-seo-tag
