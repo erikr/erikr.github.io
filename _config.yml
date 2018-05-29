@@ -26,3 +26,5 @@ markdown: kramdown
 
 plugins:
     - jekyll-seo-tag
+
+github: [metadata]
