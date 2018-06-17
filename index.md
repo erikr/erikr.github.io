@@ -24,7 +24,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-MD/PhD candidate at Emory and Georgia Tech interested in tech and venture capital.
+MD/PhD candidate at Emory and Georgia Tech interested in data science and technology.
 
 Published research in data science, neuro-oncology, reconstructive surgery, and regenerative medicine.
 
