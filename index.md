@@ -24,7 +24,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-MD/PhD candidate at Emory and Georgia Tech.
+MD/PhD student at Emory and Georgia Tech.
 
 Worked on signal processing and machine learning for physiological time series data.
 
