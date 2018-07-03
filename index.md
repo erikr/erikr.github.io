@@ -24,9 +24,11 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-MD/PhD candidate at Emory and Georgia Tech interested in data science and technology.
+MD/PhD candidate at Emory and Georgia Tech.
 
-Published research in data science, neuro-oncology, reconstructive surgery, and regenerative medicine.
+Worked on signal processing and machine learning for physiological time series data.
+
+Published research in informatics, neuro-oncology, reconstructive surgery, and regenerative medicine.
 
 Patented and licensed an algorithm for monitoring cardiovascular stress.
 
