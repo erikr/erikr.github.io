@@ -4,7 +4,7 @@ title: Pre-filled surgical consent forms
 tags: medicine
 ---
 
-Instead of wasting time finding the printed form and filling it out by hand, just use these pre-filled PDFs. Now go consent your patient!
+Instead of wasting time finding the printed form and filling it out by hand, just print a pre-filled PDF. Now go consent your patient!
 
 [Blank form](/consents/blank.pdf)  
 [Abscess (EUA, I&D)](/consents/abscess.pdf)  
