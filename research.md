@@ -8,6 +8,6 @@ I did my PhD in the [Clifford Lab](http://gdclifford.info). We extracted feature
 
 Application areas included heart failure, atrial fibrillation, sepsis, mental illness, and neurodegenerative disease.
 
-We patented an algorithm to monitor PTSD via cardiovascular stress. It is now being commercialized.
+We patented an algorithm to monitor PTSD via cardiovascular stress. It was licensed to a company and is being commercialized.
 
 My papers are available via [Google Scholar](https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate).
