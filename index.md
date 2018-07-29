@@ -28,10 +28,10 @@ MD/PhD student at Emory and Georgia Tech.
 
 Venture capital intern at [Takeda](http://takedaventures.com) starting fall 2018.
 
-Published research in signal processing, machine learning, patient monitoring with wearable devices, neuro-oncology, plastic surgery, and regenerative medicine.
+Published research in signal processing and machine learning for EKG and accelerometry data, neuro-oncology, plastic surgery, and regenerative medicine.
 
-Patented and licensed an algorithm for monitoring PTSD using machine learning and heart rate variability.
+Patented and licensed algorithm for monitoring PTSD with heart rate variability.
 
 Cofounded Forge, a nonprofit that helped startups launch clinical pilots.
 
-Holds a BS in Bioengineering from UCLA.
+Holds BS in Bioengineering from UCLA.

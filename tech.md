@@ -4,6 +4,8 @@ permalink: /tech/
 title: "Tech"
 ---
 
+This fall I will work at the early-stage life sience venture capital firm [Takeda Ventures, Inc.](http://takedaventures.com), with [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/). I will help source and evaluate startups that use data science and technology to develop impactful new medicines for patients. 
+
 In 2014 I co-founded [Forge](http://forgehealth.org), a non-profit that provided startups with funding, mentors, and assistance with clinical pilots. In 2016 Forge merged with Sling Health, a biomedical technology incubator with a national presence ([see blog post](http://erikreinertsen.com/forge-merger-sling-health/)).
 
 At Emory I created an elective course for medical students on [Innovation & Entrepreneurship in Medicine](http://erikreinertsen.com/papers/iemed.pdf) and ran it for two years.
