@@ -34,4 +34,4 @@ Patented and licensed algorithm for monitoring PTSD with heart rate variability.
 
 Cofounded Forge, a nonprofit that helped startups launch clinical pilots.
 
-Holds BS in Bioengineering from UCLA.
+BS in Bioengineering from UCLA.
