@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /tech+vc/
-title: "Tech+VC"
+permalink: /tech/
+title: "Tech"
 ---
 
 This fall I will work at the early-stage life sience venture capital firm [Takeda Ventures, Inc.](http://takedaventures.com), with [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/). I will help source and evaluate startups that use data science and technology to develop impactful new medicines for patients. 
