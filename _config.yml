@@ -17,10 +17,10 @@ permalink: "/:title/"
 
 pages_list:
     Blog: '/blog'
-    Tech+VC: '/tech+VC'
+    Tech: '/tech'
     Research: '/research'
     Teaching: '/teaching'
-#    Talks: '/talks'
+    Talks: '/talks'
 
 markdown: kramdown
 
