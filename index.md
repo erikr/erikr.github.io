@@ -25,7 +25,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-MD/PhD student at Emory, interested in anesthesiology.
+MD/PhD student at Emory interested in anesthesiology, venture capital, data science, teaching, and bouldering.
 
 This fall will intern at [Takeda Ventures](http://takedaventures.com), an early-stage life science venture capital firm.
  
