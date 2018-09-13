@@ -25,11 +25,11 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-MD/PhD student at Emory interested in anesthesiology, venture capital, data science, teaching, and bouldering.
+MD/PhD student at Emory, interested in anesthesiology, data science, and teaching.
 
-This fall will intern at [Takeda Ventures](http://takedaventures.com), an early-stage life science venture capital firm.
+Intern at [Takeda Ventures](http://takedaventures.com), an early-stage life science venture capital firm.
  
-Published research and developed intellectual property in signal processing and machine learning for clinical time series data, neuro-oncology, plastic surgery, and regenerative medicine.
+Published research and patented intellectual property in signal processing and machine learning for physiological time series, neuro-oncology, plastic surgery, and biomaterials.
 
 Cofounded Forge, a nonprofit that helped startups launch clinical pilots.
 
