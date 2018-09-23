@@ -33,4 +33,4 @@ Published research and patented intellectual property in signal processing and m
 
 Cofounded Forge, a nonprofit that helped startups launch clinical pilots.
 
-Holds a PhD in Biomedical Engineering from Georgia Institute of Technology, and a BS in Bioengineering from UCLA. 
+Holds a PhD in Biomedical Engineering from Georgia Tech, and a BS in Bioengineering from UCLA. 
