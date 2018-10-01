@@ -6,7 +6,7 @@ title: "Tech"
 
 
 
-I am an intern at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage life science venture capital firm. I work with [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/), Senior Partner at the firm. I source and evaluate startups that use data science and technology to develop impactful new medicines for patients.
+I work at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage life science venture capital firm. My supervisor is [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/). I source and evaluate startups that use data science and technology to develop impactful new medicines, improve clinical trials, etc.
 
 In 2014 I co-founded [Forge](http://forgehealth.org), a non-profit that provided startups with funding, mentors, and assistance with clinical pilots. In 2016 Forge merged with Sling Health, a biomedical technology incubator with a national presence ([see blog post](http://erikreinertsen.com/forge-merger-sling-health/)).
 

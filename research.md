@@ -4,7 +4,13 @@ permalink: /research/
 title: "Research"
 ---
 
-I am interested in developing machine learning algorithms, computational infrastructure, and data exploration tools that improve biomedical research and patient care.
+My backround is in informatics, data science, and machine learning.
+
+I am interested in:
+
+1. Developing algorithms to predict clinical events from physiological data that are robust to noise, sparsity, and nonstationarity.  
+2. Enhancing model interpretability to identify novel pathophysiological mechanisms and improve clinical adoption. 
+3. Applying data science approaches to drug discovery and clinical trials management.
 
 I did my PhD in the [Clifford Lab](http://gdclifford.info). We extracted features from heart rate and accelerometer data using signal processing, estimated illness from these features with machine learning, and improved performance by analyzing information during specific times, over several time scales, and between signals.
 

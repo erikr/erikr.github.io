@@ -17,8 +17,8 @@ permalink: "/:title/"
 
 pages_list:
     Blog: '/blog'
-    Tech: '/tech'
     Research: '/research'
+    Tech: '/tech'
     Teaching: '/teaching'
     Talks: '/talks'
 
