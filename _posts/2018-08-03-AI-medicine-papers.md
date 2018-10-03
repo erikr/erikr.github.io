@@ -35,6 +35,6 @@ I simplified the table, added a few more studies, and linked to PDFs:
 | Drug combo against multiple myeloma | [Rashid et al. Sci Trans Med (2018)](/papers/rashid.pdf) |
 | Acute neurological events from head CTs | [Titano et al. Nature Medicine (2018)](/papers/titano.pdf) |
 | Skin cancer | [Esteva et al. Nature (2018)](/papers/esteva.pdf) |
-
+| Non–small cell lung cancer from histopathology | [Coudray et al. Nature Medicine (2018)](/papers/coudray.pdf) | 
 
 This list will continue to evolve. Tweet or email me if you think a paper should be added.
