@@ -27,7 +27,8 @@ I simplified the table, added a few more studies, and linked to PDFs:
 | Disease onset from lab tests | [Razavian et al. arXiv (2016)](/papers/razavian.pdf) |
 | Suicide | [Walsh et al. Clin Psych Sci (2017)](/papers/walsh.pdf) |
 | Delirium | [Wong et al. JAMA Network Open (2018)](/papers/wong.pdf) |
-| Diabetic retinopathy | [De Fauw et al. Nature Medicine (2018)](/papers/defauw.pdf) |
+| Diabetic retinopathy (retrospective) | [De Fauw et al. Nature Medicine (2018)](/papers/defauw.pdf) |
+| Diabetic retinopathy (prospective pilot) | [Kanagasingam et al. JAMA Network Open (2018)](/papers/kanagasingam.pdf) |
 | Outcomes in colorectal cancer | [Bychkov et al. Sci Reports (2018)](/papers/bychkov.pdf) |
 | Monitoring schizophrenia from wearables data | [Reinertsen et al. Phys Meas (2017)](/papers/reinertsen.pdf) |
 | Arrhythmia | [Rajpurkar et al. arXiv (2017)](/papers/rajpurkar.pdf) |
