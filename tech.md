@@ -5,12 +5,28 @@ title: "Tech"
 ---
 
 
+## Venture capital
 
-I work at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage venture capital firm, with Senior Partner [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/).
+I work at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage venture capital firm. I work with [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/), our Senior Partner who leads the data science and tech practice.
 
-We are interested in data science and technology approaches that contribute to drug discovery & development, clinical trials, and healthcare delivery.
+We focus on the elusive middle ground between tech & life science, and identify and invest in grounded, implementation-focused tech-powered startups that can improve how impactful new treatments are discovered, evaluated, and delivered.
 
-If you are working on something related to the above, please contact me (see my homepage for info). We'd like to see if we can help.
+We are interested in solutions that:
++ Apply technology to a relevant pharma business problem. 
++ Have founders with deep domain expertise in tech and pharma. 
++ Focus on pragmatic implementation (vs tech development).
+
+Some general investment categories we are looking at include:
++ Digital biology: target identification, lead generation, imaging.
++ Clinical evidence: siteless trials, data fusion, phenotyping.
++ Patient engagement: empowerment, education, digital tx. 
+
+If any of the above applies to your work, please get in touch!
+
+
+---
+
+## Past activities
 
 In 2014 I co-founded [Forge](http://forgehealth.org), a non-profit that provided startups with funding, mentors, and assistance with clinical pilots. In 2016 Forge merged with Sling Health, a biomedical technology incubator with a national presence ([see blog post](http://erikreinertsen.com/forge-merger-sling-health/)).
 
