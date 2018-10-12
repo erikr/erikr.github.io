@@ -35,6 +35,7 @@ I simplified the table, added a few more studies, and linked to PDFs:
 | Atrial fibrillation | [Shashikumar et al. (2017)](/papers/shashikumar.pdf) |
 | Drug combo against multiple myeloma | [Rashid et al. Sci Trans Med (2018)](/papers/rashid.pdf) |
 | Acute neurological events from head CTs | [Titano et al. Nature Medicine (2018)](/papers/titano.pdf) |
+| Acute neurological events from head CTs (yes, another paper) | [Chilamkurthy et al. The Lancent (2018)](/papers/chilamkurthy.pdf) |
 | Skin cancer | [Esteva et al. Nature (2018)](/papers/esteva.pdf) |
 | Non–small cell lung cancer from histopathology | [Coudray et al. Nature Medicine (2018)](/papers/coudray.pdf) | 
 | Echocardiography | [Zhang et al. Circulation (2018)](/papers/zhang.pdf) |
