@@ -7,11 +7,11 @@ title: "Home"
    <img align="left" src="assets/erik.jpg" width="180">
 </div>
 
-<i class='fa fa-twitter fa-fw'></i>  [twitter](http://twitter.com/erikrtn) <br>
+<i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/erikrtn) <br>
 <i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/erikreinertsen/) <br>
 <i class='fa fa-github fa-fw'></i>  [github](https://github.com/erikrtn) <br>
 <i class='fa fa-graduation-cap fa-fw'></i>  [google scholar](https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate) <br>
-<i class='fa fa-file-text fa-fw'></i>  [cv](http://erikreinertsen.com/cv) <br>
+<i class='fa fa-file-text fa-fw'></i>  [cv](https://erikreinertsen.com/cv) <br>
 <i class='fa fa-envelope fa-fw'></i> <a id="email"></> <br> 
 
 <script>
