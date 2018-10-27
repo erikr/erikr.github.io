@@ -33,7 +33,7 @@ Acute neurological events from head CTs: [Titano et al. Nat Med (2018)](/papers/
 Mammographic breast density: [Lehman et al. Radiology (2018)](/papers/lehman.pdf)  
 Diabetic retinopathy (retrospective): [De Fauw et al. Nat Med (2018)](/papers/defauw.pdf)  
 Diabetic retinopathy (prospective pilot): [Kanagasingam et al. JAMA Network Open (2018)](/papers/kanagasingam.pdf)  
-
+Diabetic retinopathy (prospective pilot in primary care offices): [Abramoff et al. npj Dig Med (2018)](/papers/abramoff.pdf)  
 
 ## General (readmissions, mortality, dx)
 Readmission: [Shameer et al. Pacific Symp Biocomp (2017)](/papers/shameer.pdf)  
