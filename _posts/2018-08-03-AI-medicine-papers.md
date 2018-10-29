@@ -34,6 +34,7 @@ Mammographic breast density: [Lehman et al. Radiology (2018)](/papers/lehman.pdf
 Diabetic retinopathy (retrospective): [De Fauw et al. Nat Med (2018)](/papers/defauw.pdf)  
 Diabetic retinopathy (prospective pilot): [Kanagasingam et al. JAMA Network Open (2018)](/papers/kanagasingam.pdf)  
 Diabetic retinopathy (prospective pilot in primary care offices): [Abramoff et al. npj Dig Med (2018)](/papers/abramoff.pdf)  
+Congenital cataracts (multihospital collaborative platform): [Long et al. Nature BME (2018)](/papers/long.pdf)  
 
 ## General (readmissions, mortality, dx)
 Readmission: [Shameer et al. Pacific Symp Biocomp (2017)](/papers/shameer.pdf)  
