@@ -12,6 +12,7 @@ Organized by application area and linked to PDF.
 Sepsis in ED triage: [Horng et al. PLoS One (2017)](/papers/horng.pdf)  
 Septic shock: [Henry et al. Sci Trans Med (2015)](/papers/henry.pdf)  
 Sepsis in ICU: [Nemati et al. Crit Care Med (2017)](/papers/nemati.pdf)  
+ICU mortality: [Meiring et al. PLoS One (2018)](/papers/meiring.pdf)  
 
 ## Oncology 
 Glioma outcomes: [Mobadersanya et al. PNAS (2018)](/papers/mobadersany.pdf)  
