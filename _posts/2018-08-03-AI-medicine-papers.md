@@ -7,7 +7,7 @@ tags: medicine
 Organized by application area and linked to PDF.
 
 
-## Sepsis
+## Critical care
 
 Sepsis in ED triage: [Horng et al. PLoS One (2017)](/papers/horng.pdf)  
 Septic shock: [Henry et al. Sci Trans Med (2015)](/papers/henry.pdf)  
