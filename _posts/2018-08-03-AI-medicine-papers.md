@@ -22,6 +22,7 @@ Drug combo for multiple myeloma: [Rashid et al. Sci Trans Med (2018)](/papers/ra
 Skin cancer: [Esteva et al. Nature (2018)](/papers/esteva.pdf)  
 NSCLC from histopathology: [Coudray et al. Nat Med (2018)](/papers/coudray.pdf)  
 Metastatic breast cancer detection: [Liu et al. Arch Pathol Lab Med (2018)](/papers/liu.pdf) & [Steiner et al. Am J Surg Path (2018)](/papers/steiner.pdf)  
+Gleason scoring for prostrate cancer: [Nagpal et al. arXiv:1811.06497 [cs.CV]](https://arxiv.org/abs/1811.06497)
 
 ## Cardiology
 Echocardiography: [Zhang et al. Circulation (2018)](/papers/zhang.pdf)  
