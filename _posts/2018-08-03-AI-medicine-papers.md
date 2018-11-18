@@ -22,11 +22,11 @@ Drug combo for multiple myeloma: [Rashid et al. Sci Trans Med (2018)](/papers/ra
 Skin cancer: [Esteva et al. Nature (2018)](/papers/esteva.pdf)  
 NSCLC from histopathology: [Coudray et al. Nat Med (2018)](/papers/coudray.pdf)  
 Metastatic breast cancer detection: [Liu et al. Arch Pathol Lab Med (2018)](/papers/liu.pdf) & [Steiner et al. Am J Surg Path (2018)](/papers/steiner.pdf)  
-Gleason scoring for prostrate cancer: [Nagpal et al. arXiv:1811.06497 [cs.CV]](https://arxiv.org/abs/1811.06497)
+Gleason scoring for prostrate cancer: [arXiv:1811.06497 [cs.CV]](https://arxiv.org/abs/1811.06497)
 
 ## Cardiology
 Echocardiography: [Zhang et al. Circulation (2018)](/papers/zhang.pdf)  
-Arrhythmia: [Rajpurkar et al. arXiv (2017)](/papers/rajpurkar.pdf)  
+Arrhythmia detection w/ CNNs: [arXiv:1707.01836v1 [cs.CV]](https://arxiv.org/abs/1707.01836)  
 Atrial fibrillation: [Shashikumar et al. (2017)](/papers/shashikumar.pdf)  
 
 
@@ -43,9 +43,9 @@ Readmission: [Shameer et al. Pacific Symp Biocomp (2017)](/papers/shameer.pdf)
 Daily risk of C. dif: [Oh et al. Inf Control & Hosp Epi (2018)](/papers/oh.pdf)  
 Dx from EMR data: [Miotto et al. Sci Reports (2016)](/papers/miotto.pdf)  
 Dx from EMR data: [Yang et al. Sci Reports (2018)](/papers/yang.pdf)  
-Disease onset from lab tests: [Razavian et al. arXiv (2016)](/papers/razavian.pdf)  
+Predict dz onset from lab tests: [arXiv:1608.00647v3 [cs.LG]](https://arxiv.org/abs/1608.00647)  
 In-hospital mortality, unplanned readmission, prolonged LOS, final discharge dx: [Rajkomar et al. npj Digit. Med. (2018)](/papers/rajkomar.pdf)  
-All-cause mortality for palliative care consults: [Avati et al. arXiv (2017)](/papers/avati.pdf)  
+Predict mortality for palliative care consults: [arXiv:1711.06402v1 [cs.CY]](https://arxiv.org/abs/1711.06402)  
 
 
 ## Neuro & psych
@@ -53,4 +53,6 @@ Dementia: [Cleret et al. JMIR (2018)](/papers/cleret.pdf)
 Alzheimer's disease: [Mathotaarachchi et al. Neurobiol Aging (2017)](/papers/mathotaarachchi.pdf)  
 Suicide: [Walsh et al. Clin Psych Sci (2017)](/papers/walsh.pdf)  
 Delirium: [Wong et al. JAMA Network Open (2018)](/papers/wong.pdf)  
-Schizophrenia from wearables data: [Reinertsen et al. Phys Meas (2017)](/papers/reinertsen.pdf)  
+Schizophrenia from HR data: [Reinertsen et al. Phys Meas (2017)](/papers/reinertsen.pdf)  
+Schizophrenia using graph theory on wearables data: [Reinertsen et al. Phys Meas (2018)](http://iopscience.iop.org/article/10.1088/1361-6579/aae1ed)  
+PTSD from HR data: [Reinertsen et al. Phys Meas (2017)](http://iopscience.iop.org/article/10.1088/1361-6579/aa6e9c)  
