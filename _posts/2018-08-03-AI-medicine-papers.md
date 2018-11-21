@@ -4,13 +4,14 @@ title: Papers on AI in medicine
 tags: medicine
 ---
 
-Organized by application area and linked to PDFs or the open-access site.
+Organized by application area.
 
 
 ## Anesthesiology
+
 Bispec during proprofol + remifentanil: [Lee et al. Anesthesiology (2017)](/papers/lee.pdf)  
 Hypotension in ICU or OR from a-line: [Hatib et al. Anesthesiology (2018)](/papers/hatib.pdf)  
-Postinduction hypotension from EHR: [Kendale et al. Anesthesiology (2018)](/papers/kendale.pdf)  
+Postinduction hypotension: [Kendale et al. Anesthesiology (2018)](/papers/kendale.pdf)  
 Intraoperative hypoxemia: [Lundberg et al. Nature BME (2018)](/papers/lundberg.pdf)   
 Review of ML in pain research: [Lotsch et al. Pain (2018)](/papers/lotsch.pdf)  
 
@@ -18,7 +19,7 @@ Review of ML in pain research: [Lotsch et al. Pain (2018)](/papers/lotsch.pdf)
 ## Critical care
 
 Sepsis in ED triage: [Horng et al. PLoS One (2017)](/papers/horng.pdf)  
-Septic shock: [Henry et al. Sci Trans Med (2015)](/papers/henry.pdf)  
+Septic shock in the ICU: [Henry et al. Sci Trans Med (2015)](/papers/henry.pdf)  
 Sepsis in ICU: [Nemati et al. Crit Care Med (2017)](/papers/nemati.pdf)  
 ICU mortality: [Meiring et al. PLoS One (2018)](/papers/meiring.pdf)  
 
