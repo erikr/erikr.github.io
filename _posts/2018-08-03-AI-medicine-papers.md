@@ -11,7 +11,7 @@ Organized by application area and linked to PDFs or the open-access site.
 Bispec during proprofol + remifentanil: [Lee et al. Anesthesiology (2017)](/papers/lee.pdf)  
 Hypotension in ICU or OR from a-line: [Hatib et al. Anesthesiology (2018)](/papers/hatib.pdf)  
 Postinduction hypotension from EHR: [Kendale et al. Anesthesiology (2018)](/papers/kendale.pdf)  
-Intraop. hypoxemia: [Lundberg et al. Nature BME (2018)](/papers/lundberg.pdf)   
+Intraoperative hypoxemia: [Lundberg et al. Nature BME (2018)](/papers/lundberg.pdf)   
 Review of ML in pain research: [Lotsch et al. Pain (2018)](/papers/lotsch.pdf)  
 
 
