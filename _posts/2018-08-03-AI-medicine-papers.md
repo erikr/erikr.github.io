@@ -39,6 +39,7 @@ Echocardiography: [Zhang et al. Circulation (2018)](/papers/zhang.pdf)
 Arrhythmia detection w/ CNNs: [arXiv:1707.01836v1 [cs.CV]](https://arxiv.org/abs/1707.01836)  
 Atrial fibrillation: [Shashikumar et al. IEEE EMBS (2017)](/papers/shashikumar.pdf)  
 Myocardial ischemia via angiography: [Hae et al. PLoS Med (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002693)  
+12-lead EKG vs. conventional algo: [Smith et al. J Elec (2018)](https://www.sciencedirect.com/science/article/pii/S0022073618302292)  
 
 
 ## Imaging
