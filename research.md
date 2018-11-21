@@ -8,8 +8,8 @@ My backround is in informatics, data science, and machine learning.
 
 I am interested in:
 
-1. Developing algorithms to predict clinical events from EHR and physiological data that are robust to noise, sparsity, and nonstationarity, and performant at scale.  
-2. Enhancing interpretability of deep learning models, graph theory, and complexity science to advance our understanding of pathophysiology and/or response to therapy.  
+1. Developing algorithms to predict clinical events from EHR and physiological data that are robust to noise, sparsity, and nonstationarity..  
+2. Enhancing interpretability of deep learning models, graph theory, and complexity science to improve our understanding of pathophysiology and/or response to therapy.  
 3. Building data collection, visualization, exploration, and sharing tools to make computational approaches more accessible to clinicians and scientists.  
 
 I did my PhD in the [Clifford Lab](http://gdclifford.info). We extracted features from heart rate and accelerometer data using signal processing, estimated illness from these features with machine learning, and improved performance by analyzing information during specific times, over several time scales, and between signals.
