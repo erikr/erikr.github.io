@@ -51,6 +51,7 @@ Diabetic retinopathy (prospective pilot): [Kanagasingam et al. JAMA Network Open
 Diabetic retinopathy (prospective pilot in primary care offices): [Abramoff et al. npj Dig Med (2018)](/papers/abramoff.pdf)  
 Congenital cataracts (multihospital collaborative platform): [Long et al. Nature BME (2018)](/papers/long.pdf)  
 Chest radiograph diagnosis: [Rajpurkar et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686)  
+Pneumothorax from CXR: [Taylor, Mielke, & Mongan. PLoS Med.](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002697)  
 
 ## General (readmissions, mortality, dx)
 Readmission: [Shameer et al. Pacific Symp Biocomp (2017)](/papers/shameer.pdf)  
