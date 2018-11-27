@@ -14,6 +14,7 @@ Hypotension in ICU or OR from a-line: [Hatib et al. Anesthesiology (2018)](/pape
 Postinduction hypotension: [Kendale et al. Anesthesiology (2018)](/papers/kendale.pdf)  
 Intraoperative hypoxemia: [Lundberg et al. Nature BME (2018)](/papers/lundberg.pdf)   
 Review of ML in pain research: [Lotsch et al. Pain (2018)](/papers/lotsch.pdf)  
+Identifying high-risk surgical patients: [Corey et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002701)  
 
 
 ## Critical care
@@ -66,6 +67,7 @@ In-hospital mortality, unplanned readmission, prolonged LOS, final discharge dx:
 Mortality for palliative care consults: [arXiv:1711.06402v1 [cs.CY]](https://arxiv.org/abs/1711.06402)  
 ED admission from EMR: [Rahimian et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002695)  
 Relationship between IgE to specific allergens and asthma: [Platts-Mills & Perzanowski. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002696)  
+AKI after PCI: [Huang et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002703)  
 
 
 ## Neuro & psych
