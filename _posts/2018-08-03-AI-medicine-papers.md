@@ -31,6 +31,7 @@ Mortality s/p cancer chemo: [Elfiky et al. JAMA Network Open (2018)](/papers/elf
 Outcomes in colorectal cancer: [Bychkov et al. Sci Reports (2018)](/papers/bychkov.pdf)  
 Drug combo for multiple myeloma: [Rashid et al. Sci Trans Med (2018)](/papers/rashid.pdf)  
 Skin cancer: [Esteva et al. Nature (2018)](/papers/esteva.pdf)  
+Nonpigmented skin cancer: [Tschandl et al. JAMA Derm. (2018)](/papers/tschandl.pdf)  
 NSCLC from histopathology: [Coudray et al. Nature Med (2018)](/papers/coudray.pdf)  
 Metastatic breast cancer detection: [Liu et al. Arch Pathol Lab Med (2018)](/papers/liu.pdf) & [Steiner et al. Am J Surg Path (2018)](/papers/steiner.pdf)  
 Gleason scoring for prostrate cancer: [arXiv:1811.06497 [cs.CV]](https://arxiv.org/abs/1811.06497)
