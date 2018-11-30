@@ -26,6 +26,19 @@ If any of the above applies to your work, please get in touch!
 
 ---
 
+## Emory DST
+
+I work with Emory Data Science and Technology (DST), an initiative to connect students, researchers, clinicians, engineers, and data scientists across Emory and Georgia Tech to solve medical problems.
+
+Our team is creating four initiatives:
+
+1. Seminar and journal club focused on AI in medicine.
+2. Weekly newsletter covering the latest relevant papers, industry activity, and local opportunities.
+3. Think Tank event to catalyze projects and collaboration.
+4. Database of projects for faculty, trainees, and students.
+
+---
+
 ## Past activities
 
 In 2014 I co-founded [Forge](http://forgehealth.org), a non-profit that provided startups with funding, mentors, and assistance with clinical pilots. In 2016 Forge merged with Sling Health, a biomedical technology incubator with a national presence ([see blog post](http://erikreinertsen.com/forge-merger-sling-health/)).
