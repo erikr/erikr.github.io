@@ -28,7 +28,7 @@ If any of the above applies to your work, please get in touch!
 
 ## Emory DST
 
-I work with Emory Data Science and Technology (DST), an initiative to connect students, researchers, clinicians, engineers, and data scientists across Emory and Georgia Tech to solve medical problems.
+I work with Emory Data Science and Technology (DST), an initiative to connect students, researchers, clinicians, engineers, and data scientists across Emory and Georgia Tech so they can solve medical problems.
 
 Our team is creating four initiatives:
 
