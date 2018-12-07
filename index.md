@@ -27,7 +27,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 MD/PhD student at Emory interested in anesthesiology, data science, and teaching.
 
-Intern at [Takeda Ventures](http://takedaventures.com), an early-stage life science venture capital firm.
+Intern at [Takeda Ventures](http://takedaventures.com), focused on the elusive middle ground between tech & life science.
  
 Published research and patented intellectual property in signal processing and machine learning for physiological time series, neuro-oncology, plastic surgery, and biomaterials.
 
