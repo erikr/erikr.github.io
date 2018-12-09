@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div style="float:left;margin:0 20px 1000px 0">
-   <img align="left" src="assets/erik.jpg" width="180">
+   <img align="left" src="assets/2015_erik_compressed.jpg" width="180">
 </div>
 
 <i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/erikrtn) <br>
