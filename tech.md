@@ -9,7 +9,7 @@ title: "Tech"
 
 I am an intern at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage venture capital firm. I work in Palo Alto, CA with [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/), our Senior Partner who leads the data science and tech practice.
 
-We focus on the elusive middle ground between tech & life science, and identify and invest in grounded, implementation-focused tech-powered startups that can improve how impactful new treatments are discovered, evaluated, and delivered.
+We focus on the elusive middle ground between tech & life science, and identify and invest in grounded, implementation-focused tech-powered startups that discover, evaluate, or deliver impactful new treatments for patients.
 
 We are interested in solutions that:
 + Apply technology to a relevant pharma business problem. 
