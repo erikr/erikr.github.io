@@ -4,18 +4,14 @@ permalink: /research/
 title: "Research"
 ---
 
-My backround is in informatics, data science, and machine learning.
+My backround is in data science and machine learning applied to physiological monitoring.
 
-I am interested in:
-
-1. Developing algorithms to predict clinical events from EHR and physiological data that are robust to noise, sparsity, and nonstationarity.  
-2. Enhancing interpretability of deep learning models, graph theory, and complexity science to improve our understanding of pathophysiology and/or response to therapy.  
-3. Building data collection, exploration, and sharing tools that are accessible to more clinicians and scientists.  
+I am working with investigators at UCSF and Columbia to identify pre- and intra-operative predictors of postoperative cognitive dysfunction, as well as associated patterns of gene expression.
 
 I did my PhD in the [Clifford Lab](http://gdclifford.info). We extracted features from heart rate and accelerometer data using signal processing, estimated illness from these features with machine learning, and improved performance by analyzing information during specific times, over several time scales, and between signals.
 
 Application areas included sepsis, heart failure, atrial fibrillation, mental illness, and neurodegenerative disease.
 
-We patented an algorithm to monitor PTSD via heart rate variability. It was licensed to a company and is being commercialized.
+We patented and licensed an algorithm to monitor PTSD via heart rate variability. We also patented an approach to convert physiological time series into graphical models.
 
 My papers are available via [Google Scholar](https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate).
