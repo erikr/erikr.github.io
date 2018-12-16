@@ -7,7 +7,9 @@ title: "Tech"
 
 ## Venture capital
 
-I am an intern at [Takeda Ventures](http://takedaventures.com), an early-stage venture capital firm. I am lucky to work with and be mentored by [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/). We focus on the elusive middle ground between tech & life science, and identify and invest in grounded, implementation-focused tech-powered startups that discover, evaluate, or deliver impactful new treatments for patients.
+I am an intern at [Takeda Ventures](http://takedaventures.com), an early-stage venture capital firm. I am lucky to work with and be mentored by [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/).
+
+We focus on the elusive middle ground between tech & life science, and identify and invest in grounded, implementation-focused tech-powered startups that discover, evaluate, or deliver impactful new treatments for patients.
 
 We are interested in solutions that:
 + Apply technology to a relevant pharma business problem.  
