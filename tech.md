@@ -7,21 +7,21 @@ title: "Tech"
 
 ## Venture capital
 
-I am an intern at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage venture capital firm. I work in Palo Alto, CA with [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/), our Senior Partner who leads the data science and tech practice.
+I am an intern at [Takeda Ventures, Inc.](http://takedaventures.com), an early-stage venture capital firm. I am lucky to work with and be mentored by [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/).
 
 We focus on the elusive middle ground between tech & life science, and identify and invest in grounded, implementation-focused tech-powered startups that discover, evaluate, or deliver impactful new treatments for patients.
 
 We are interested in solutions that:
-+ Apply technology to a relevant pharma business problem. 
-+ Have founders with deep domain expertise in tech and pharma. 
-+ Focus on pragmatic implementation (vs tech development).
++ Apply technology to a relevant pharma business problem.  
++ Have founders with deep domain expertise in tech and pharma.  
++ Focus on pragmatic implementation (vs tech development).  
 
 Some general investment categories we are looking at include:
-+ Digital biology: target identification, lead generation, imaging.
-+ Clinical evidence: siteless trials, data fusion, phenotyping.
-+ Patient engagement: empowerment, education, digital tx. 
++ Digital biology: target identification, lead generation, imaging.  
++ Clinical evidence: siteless trials, data fusion, phenotyping.  
++ Patient engagement: empowerment, education, digital therapeutics.  
 
-If any of the above applies to your work, please get in touch!
+If you are a founder or investigator, and want to translate your work from the lab to the clinic, please get in touch!
 
 
 ---
