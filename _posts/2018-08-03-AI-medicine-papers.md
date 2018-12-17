@@ -83,4 +83,6 @@ PTSD from HR data: [Reinertsen et al. Phys Meas (2017)](http://iopscience.iop.or
 
 
 ## Basic science
-Cell counting, detection, & morphometry [Falk et al. Nature Methods (2018)](https://www.nature.com/articles/s41592-018-0261-2)  
+Cell counting, detection, & morphometry: [Falk et al. Nature Methods (2018)](https://www.nature.com/articles/s41592-018-0261-2)  
+Prediction of cancer cell neoantigens from HLA peptide mass spec: [Bulik-Sullivan et al. Nature Biotech (2018)](https://www.nature.com/articles/nbt.4313)  
+GANs for super-resolution microscopy: [Wang et al. Nature Methods (2018)](https://www.nature.com/articles/s41592-018-0239-0)  
