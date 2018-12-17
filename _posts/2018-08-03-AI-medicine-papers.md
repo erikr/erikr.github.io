@@ -46,6 +46,7 @@ Myocardial ischemia via angiography: [Hae et al. PLoS Med (2018)](https://journa
 
 
 ## Imaging
+Acute intracranial hemorrhage: [Lee et al. Nature BME (2018)](https://www.nature.com/articles/s41551-018-0324-9)  
 Acute neurological events from head CTs: [Titano et al. Nature Med (2018)](/papers/titano.pdf) & [Chilamkurthy et al. Lancet (2018)](/papers/chilamkurthy.pdf)  
 Mammographic breast density: [Lehman et al. Radiology (2018)](/papers/lehman.pdf)  
 Diabetic retinopathy (retrospective): [De Fauw et al. Nature Med (2018)](/papers/defauw.pdf)  
@@ -79,3 +80,7 @@ Delirium: [Wong et al. JAMA Network Open (2018)](/papers/wong.pdf)
 Schizophrenia from HR data: [Reinertsen et al. Phys Meas (2017)](/papers/reinertsen.pdf)  
 Schizophrenia from wearables data: [Reinertsen et al. Phys Meas (2018)](http://iopscience.iop.org/article/10.1088/1361-6579/aae1ed)  
 PTSD from HR data: [Reinertsen et al. Phys Meas (2017)](http://iopscience.iop.org/article/10.1088/1361-6579/aa6e9c)  
+
+
+## Basic science
+Cell counting, detection, & morphometry [Falk et al. Nature Methods (2018)](https://www.nature.com/articles/s41592-018-0261-2)  
