@@ -25,12 +25,12 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-MD/PhD student at Emory interested in anesthesiology, AI, and translational medicine.
+MD/PhD student at Emory interested in machine learning and translational medicine.
 
-Intern at [Takeda Ventures](http://takedaventures.com), a venture capital firm that seeks to partner with startups using data science and technology to improve how impactful new treatments are discovered, evaluated, and delivered.
- 
+Intern at [Takeda Ventures](http://takedaventures.com), a VC firm investing in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
+
 Published and patented research in signal processing and machine learning for physiological time series, neuro-oncology, plastic surgery, and biomaterials.
 
 Cofounded Forge, a nonprofit that helped startups launch clinical pilots.
 
-Holds a PhD in Biomedical Engineering from Georgia Tech, and a BS in Bioengineering from UCLA. 
+Holds a PhD from Georgia Tech and a BS from UCLA, both in Biomedical Engineering. 
