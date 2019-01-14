@@ -9,11 +9,11 @@ Organized by application area.
 
 ## Anesthesiology
 
-Bispec during proprofol + remifentanil: [Lee et al. Anesthesiology (2017)](/papers/lee.pdf)  
-Hypotension in ICU or OR from a-line: [Hatib et al. Anesthesiology (2018)](/papers/hatib.pdf)  
-Postinduction hypotension: [Kendale et al. Anesthesiology (2018)](/papers/kendale.pdf)  
-Intraoperative hypoxemia: [Lundberg et al. Nature BME (2018)](/papers/lundberg.pdf)   
-Review of ML in pain research: [Lotsch et al. Pain (2018)](/papers/lotsch.pdf)  
+Bispec during proprofol + remifentanil: [Lee et al. Anesthesiology (2017)](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=2656314)  
+Post-op mortaltiy: [Lee et al. Anesthesiology (2018)](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=2679105)  
+Hypotension in ICU or OR from a-line: [Hatib et al. Anesthesiology (2018)](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=2685008)  
+Postinduction hypotension: [Kendale et al. Anesthesiology (2018)](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=2696388)  
+Intraoperative hypoxemia: [Lundberg et al. Nature BME (2018)](https://www.nature.com/articles/s41551-018-0304-0)   
 Identifying high-risk surgical patients: [Corey et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002701)  
 
 
@@ -23,7 +23,6 @@ Sepsis in ED triage: [Horng et al. PLoS One (2017)](/papers/horng.pdf)
 Septic shock in the ICU: [Henry et al. Sci Trans Med (2015)](/papers/henry.pdf)  
 Sepsis in ICU: [Nemati et al. Crit Care Med (2017)](/papers/nemati.pdf)  
 ICU mortality: [Meiring et al. PLoS One (2018)](/papers/meiring.pdf)  
-ICU mortality from NLP-derived terms: [Marafino et al. JAMA Network Open (2018)](/papers/marafino.pdf)  
 
 
 ## Oncology 
@@ -35,12 +34,11 @@ Skin cancer: [Esteva et al. Nature (2018)](/papers/esteva.pdf)
 Nonpigmented skin cancer: [Tschandl et al. JAMA Derm. (2018)](/papers/tschandl.pdf)  
 NSCLC from histopathology: [Coudray et al. Nature Med (2018)](/papers/coudray.pdf)  
 Metastatic breast cancer detection: [Liu et al. Arch Pathol Lab Med (2018)](/papers/liu.pdf) & [Steiner et al. Am J Surg Path (2018)](/papers/steiner.pdf)  
-Gleason scoring for prostrate cancer: [arXiv:1811.06497 [cs.CV]](https://arxiv.org/abs/1811.06497)
 
 
 ## Cardiology
 Echocardiography: [Zhang et al. Circulation (2018)](/papers/zhang.pdf)  
-Arrhythmia detection w/ CNNs: [arXiv:1707.01836v1 [cs.CV]](https://arxiv.org/abs/1707.01836)  
+Arrhythmia detection & classification: [Hannun et al. Nature Med (2018)](https://www.nature.com/articles/s41591-018-0268-3)  
 Atrial fibrillation: [Shashikumar et al. IEEE EMBS (2017)](/papers/shashikumar.pdf)  
 Myocardial ischemia via angiography: [Hae et al. PLoS Med (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002693)  
 12-lead EKG vs. conventional algo: [Smith et al. J Elec (2018)](https://www.sciencedirect.com/science/article/pii/S0022073618302292)  
@@ -54,8 +52,9 @@ Diabetic retinopathy (retrospective): [De Fauw et al. Nature Med (2018)](/papers
 Diabetic retinopathy (prospective pilot): [Kanagasingam et al. JAMA Network Open (2018)](/papers/kanagasingam.pdf)  
 Diabetic retinopathy (prospective pilot in primary care offices): [Abramoff et al. npj Dig Med (2018)](/papers/abramoff.pdf)  
 Congenital cataracts (multihospital collaborative platform): [Long et al. Nature BME (2018)](/papers/long.pdf)  
-Chest radiograph diagnosis: [Rajpurkar et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686)  
+Classifying 14 different pathologies from CXR (CheXNeXt): [Rajpurkar et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686)   
 Pneumothorax from CXR: [Taylor, Mielke, & Mongan. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002697)  
+Pneumonia from CXR: [Zech et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002683)  
 Radiology text report classification: [Banerjee et al. AI in Med. (2018)](/papers/banerjee.pdf)  
 Knee MRI: [Bien et al. PLoS Med. (2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699)  
 
