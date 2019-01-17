@@ -6,7 +6,7 @@ title: "Research"
 
 My backround is in data science and machine learning applied to physiological monitoring.
 
-I am working with investigators at UCSF and Columbia to identify pre- and intra-operative predictors of postoperative cognitive dysfunction, as well as associated patterns of gene expression.
+Currently I work with the Department of Anesthesiology at UCSF to identify pre- and intra-operative predictors of postoperative cognitive dysfunction, as well as associated patterns of gene expression.
 
 I did my PhD in the [Clifford Lab](http://gdclifford.info). We extracted features from heart rate and accelerometer data using signal processing, estimated illness from these features with machine learning, and improved performance by analyzing information during specific times, over several time scales, and between signals.
 
