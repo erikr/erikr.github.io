@@ -7,7 +7,7 @@ title: "Tech"
 
 ## Venture capital
 
-I am an intern at [Takeda Ventures](http://takedaventures.com), an early-stage venture capital firm. I work with Senior Partner [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/).
+I am an intern at [Takeda Ventures](http://takedaventures.com), an early-stage venture capital firm within a large pharma company. I work with Senior Partner [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/).
 
 We invest in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
 
@@ -21,21 +21,15 @@ Categories of interest include:
 + Clinical evidence: siteless trials, data fusion, phenotyping.  
 + Patient engagement: empowerment, education, digital therapeutics.  
 
-If you are a founder -- or researcher who wants to translate your work from the lab to the clinic --  please get in touch!
+If you are a founder, or researcher who wants to translate your work from the lab to the clinic, please get in touch!
 
 
 ---
 
-## Emory DST
+## Emory data science & technology (DST)
 
-I work with Emory Data Science and Technology (DST), an initiative to connect students, researchers, clinicians, engineers, and data scientists across Emory and Georgia Tech so they can solve medical problems.
+I work with Emory DST, an initiative to catalyze data science collaborations between students, researchers, clinicians, engineers, and data scientists across Emory and Georgia Tech. We are creating a database of projects, and organizing a ''Think Tank'' event.
 
-Our team is creating four initiatives:
-
-1. Seminar and journal club focused on AI in medicine.
-2. Weekly newsletter covering the latest relevant papers, industry activity, and local opportunities.
-3. Think Tank event to catalyze projects and collaboration.
-4. Database of projects for faculty, trainees, and students.
 
 ---
 
