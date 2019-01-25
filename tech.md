@@ -7,7 +7,7 @@ title: "Tech"
 
 ## Venture capital
 
-I am an intern at [Takeda Ventures](http://takedaventures.com), an early-stage venture capital firm within a large pharma company. I work with Senior Partner [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/).
+I am a consultant at [Takeda Ventures, Inc.](http://takedaventures.com)(TVI), an early-stage venture capital firm within a large pharma company. I work with Senior Partner [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a23e/). Previously I interned at TVI.
 
 We invest in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
 

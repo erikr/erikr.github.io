@@ -27,7 +27,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 MD/PhD student at Emory interested in machine learning and translational medicine.
 
-Intern at [Takeda Ventures](http://takedaventures.com), a VC firm investing in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
+Consultant at [Takeda Ventures](http://takedaventures.com), a VC firm investing in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
 
 Published and patented research in signal processing and machine learning for physiological time series, neuro-oncology, plastic surgery, and biomaterials.
 
