@@ -21,7 +21,15 @@ On the medicine sub-internship ("sub-I") at Emory, we give an 8-15 minute chalk 
 
 > These topics comprise the "Approaches" curriculum designed by the sub-I director Dr. Richard Pittman and are drawn from the textbook ["Symptom to Diagnosis: An Evidence-Based Guide"](https://accessmedicine.mhmedical.com/book.aspx?bookid=383). Topics are organized by a patient's presenting problem or complaint, rather than diagnosis or organ system. This better reflects diagnostic reasoning.
 
-Since I love teaching and did well on the rotation, here I share thoughts on how to prepare and deliver a great chalk talk, especially in the context of the medicine sub-I.
+Here I share thoughts on how to prepare and deliver a great chalk talk, especially in the context of the medicine sub-I.
+
+__To do: insert photo of example Approaches chalk talk.__
+
+)__To do: short paragraph to emphasize that an incentive to doing this is to develop a repertoire of short teaching scripts to retain through residency, fellowship and beyond.__
+
+__To do: emphasize the point of the Approach is to share a mental map of how to work through.__
+
+__To do: Pipes & Water; emphasize branch points that help separate.__
 
 
 ## Prepare
