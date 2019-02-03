@@ -25,7 +25,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-MD/PhD student at Emory interested in machine learning and translational medicine.
+MD/PhD student at Emory interested in machine learning and biomedical informatics.
 
 Consultant at [Takeda Ventures](http://takedaventures.com), a VC firm investing in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
 
