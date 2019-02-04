@@ -23,13 +23,15 @@ On the medicine sub-internship ("sub-I") at Emory, we give an 8-15 minute chalk 
 
 Here I share thoughts on how to prepare and deliver a great chalk talk, especially in the context of the medicine sub-I.
 
-__To do: insert photo of example Approaches chalk talk.__
+_To do: insert photo of example Approaches chalk talk._
 
-)__To do: short paragraph to emphasize that an incentive to doing this is to develop a repertoire of short teaching scripts to retain through residency, fellowship and beyond.__
+_To do: add short paragraph to emphasize that an incentive to doing this is to develop a repertoire of short teaching scripts to retain through residency, fellowship and beyond._
 
-__To do: emphasize the point of the Approach is to share a mental map of how to work through.__
+_To do: emphasize the point of Approaches is to build a mental map of how to work through diagnosis._
 
-__To do: Pipes & Water; emphasize branch points that help separate.__
+_To do: Pipes & Water; emphasize branch points that help separate._
+
+_To do: reduce number of bullet points below.__
 
 
 ## Prepare
