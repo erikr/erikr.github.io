@@ -4,7 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-My backround is biomedical informatics, machine learning, and physiological monitoring. 
+My backround is biomedical informatics & machine learning applied to physiological time series data.
 
 I work with the Department of Anesthesiology at UCSF to identify pre- and intra-operative predictors of postoperative cognitive dysfunction, as well as associated patterns of gene expression.
 
