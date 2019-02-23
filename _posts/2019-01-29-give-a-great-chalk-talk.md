@@ -31,7 +31,7 @@ _To do: emphasize the point of Approaches is to build a mental map of how to wor
 
 _To do: Pipes & Water; emphasize branch points that help separate._
 
-_To do: reduce number of bullet points below.__
+_To do: reduce number of bullet points below._
 
 
 ## Prepare
