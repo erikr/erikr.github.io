@@ -29,4 +29,6 @@ MD/PhD student at Emory University School of Medicine.
 
 Interested in biomedical informatics, machine learning, and technology commercialization.
 
+Experience with academic-industry partnerships and venture capital.
+
 Holds a PhD from Georgia Tech and a BS from UCLA, both in Biomedical Engineering.
