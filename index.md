@@ -25,8 +25,8 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-MD/PhD student at Emory doing biomedical informatics & machine learning.
+MD/PhD student at Emory University School of Medicine.
 
-Consultant at [Takeda Ventures](http://takedaventures.com), a VC firm investing in startups that use data science and technology to discover, evaluate, or deliver impactful new treatments for patients.
+Interested in biomedical informatics, machine learning, and technology commercialization.
 
-Holds a PhD from Georgia Tech and a BS from UCLA, both in Biomedical Engineering. 
+Holds a PhD from Georgia Tech and a BS from UCLA, both in Biomedical Engineering.
