@@ -27,7 +27,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 MD/PhD student at Emory University School of Medicine.
 
-Interested in biomedical informatics, machine learning, and technology commercialization.
+Interested in informatics, machine learning, and critical care. 
 
 Experience with academic-industry partnerships and venture capital.
 
