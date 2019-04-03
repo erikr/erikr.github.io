@@ -25,10 +25,8 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-MD/PhD student at Emory University School of Medicine.
-
-Interested in informatics, machine learning, and critical care. 
+Currently looking for a postdoctoral research fellowship in Boston focused on informatics, machine learning, and critical care. 
 
 Experience with academic-industry partnerships and venture capital.
 
-Holds a PhD from Georgia Tech and a BS from UCLA, both in Biomedical Engineering.
+Holds an MD from Emory, a PhD in Biomedical Engineering from Georgia Tech, and a BS in Bioengineering from UCLA.
