@@ -25,7 +25,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-Currently looking for a postdoctoral research fellowship in Boston focused on informatics, machine learning, and critical care. 
+Interested in the intersection of machine learning, physiological monitoring, and critical care.
 
 Experience with academic-industry partnerships and venture capital.
 
