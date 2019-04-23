@@ -25,7 +25,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 
-Interested in machine learning, physiological monitoring, and critical care.
+Interested in machine learning, cardiovascular monitoring, and critical care.
 
 Experience with academic-industry partnerships and venture capital.
 
