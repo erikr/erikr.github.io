@@ -24,9 +24,10 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
+Clinical interests include anesthesiology, critical care, and medical education.
 
-Interested in machine learning, cardiovascular monitoring, and critical care.
+Research interests include machine learning on physiological time series data to classify phenotypes or predict therapeutic response.
 
-Experience with academic-industry partnerships and venture capital.
+Experience in technology commercialization and venture capital.
 
-Holds an MD from Emory, a PhD in Biomedical Engineering from Georgia Tech, and a BS in Bioengineering from UCLA.
+Received an MD from Emory, a PhD in Biomedical Engineering from Georgia Tech, and a BS in Bioengineering from UCLA.
