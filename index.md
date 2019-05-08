@@ -24,10 +24,8 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Clinical interests include anesthesiology, critical care, and medical education.
+Interested in machine learning on physiological time series data for phenotyping and predicting therapeutic response.
 
-Research interests include machine learning on physiological time series data to classify phenotypes or predict therapeutic response.
+Previously interned at a venture capital firm focused on data science for drug discovery, and founded a nonprofit to help startups launch pilots at an academic medical center. 
 
-Experience in technology commercialization and venture capital.
-
-Received an MD from Emory, a PhD in Biomedical Engineering from Georgia Tech, and a BS in Bioengineering from UCLA.
+Received an MD from Emory University, a PhD in biomedical engineering and statistics from Georgia Institute of Technology, and a BS in bioengineering from UCLA.
