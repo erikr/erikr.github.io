@@ -6,7 +6,7 @@ title: "Research"
 
 My background is in signal processing, machine learning, and information theory applied to physiological time series data.
 
-I did my PhD at Georgia Tech with [Gari Clifford](http://gdclifford.info/people/gari) and [Shamim Nemati](http://nematilab.info/people/shamim/index.html). We extracted features from heart rate and accelerometer data using signal processing, estimated illness from these features with machine learning, and improved performance by analyzing information during specific times, over several time scales, and between signals.
+I did my PhD at Georgia Tech with [Gari Clifford](http://gdclifford.info/people/gari), [Shamim Nemati](http://nematilab.info/people/shamim/index.html), and [Amit Shah](https://www.sph.emory.edu/faculty/profile/#AJSHAH3). We extracted features from heart rate and accelerometer data using signal processing, estimated illness from these features with machine learning, and improved performance by analyzing information during specific times, over several time scales, and between signals.
 
 Application areas included sepsis, heart failure, atrial fibrillation, mental illness, and neurodegenerative disease.
 
