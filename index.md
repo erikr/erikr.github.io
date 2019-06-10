@@ -11,7 +11,7 @@ title: "Home"
 <i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/erikreinertsen/) <br>
 <i class='fa fa-github fa-fw'></i>  [github](https://github.com/erikrtn) <br>
 <i class='fa fa-graduation-cap fa-fw'></i>  [google scholar](https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate) <br>
-<i class='fa fa-file-text fa-fw'></i>  [cv](https://erikreinertsen.com/cv) <br>
+<i class='fa fa-file-text fa-fw'></i>  [cv]() <br>
 <i class='fa fa-envelope fa-fw'></i> <a id="email"></> <br> 
 
 <script>
@@ -24,8 +24,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Interested in machine learning on physiological time series data for phenotyping and predicting therapeutic response.
+Postdoctoral research fellow at MGH and MIT working on machine learning for cardiology and critical care (starting July 2019).
 
-Previously interned at a venture capital firm focused on data science for drug discovery, and founded a nonprofit to help startups launch pilots at an academic medical center. 
-
-Received an MD from Emory University, a PhD in biomedical engineering and statistics from Georgia Institute of Technology, and a BS in bioengineering from UCLA.
+Previously: intern at Takeda Ventures, founder at Forge Health, MD from Emory University, PhD in biomedical engineering and statistics from Georgia Tech, and BS in bioengineering from UCLA.
