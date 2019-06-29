@@ -4,6 +4,8 @@ title: One-click journal access via MIT proxy bookmarklet
 tags: academia
 ---
 
+> Disclaimer: this post is for people affiliated with MIT.
+
 [proxybookmarklet.com](https://proxybookmarklet.com) is the best way to quickly log in to medical journals. Thanks, [Nate Gross](http://nategross.com)!
 
 Unfortunately, that site does not have MIT among its institutions, so you can't generate a bookmarklet.
