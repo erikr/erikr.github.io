@@ -6,8 +6,6 @@ tags: academia
 
 [proxybookmarklet.com](https://proxybookmarklet.com) is the best way to quickly log in to medical journals. Thanks, [Nate Gross](http://nategross.com)!
 
-> When you need to log into a journal article, just click the bookmarklet (on your bookmarks menu or toolbar). It uses your university credentials. No information is passed to me, this simply routes the article through your university proxy server.
-
 Unfortunately, that site does not have MIT among its institutions, so you can't generate a bookmarklet.
 
 The [MIT Libraries site](https://libraries.mit.edu/research-support/connect) does not help either; although there is a section on browser bookmarklets, it is a nonfunctional JPG.
