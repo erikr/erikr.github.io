@@ -21,6 +21,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at MIT and MGH working on machine learning for cardiology and critical care.
+Postdoc at MIT and MGH working on machine learning to predict adverse cardiovascular or respiratory events and to phenotype critical illness.
 
 Previously: intern at Takeda Ventures, founder at Forge Health, MD from Emory University, PhD in biomedical engineering and statistics from Georgia Tech, and BS in bioengineering from UCLA.
