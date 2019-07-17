@@ -21,6 +21,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at MGH and MIT working on machine learning and deep learning to predict adverse cardiovascular events.
+Postdoc at MGH and MIT working on deep learning to predict adverse cardiovascular events.
 
 Previously: intern at Takeda Ventures, founder at Forge Health, MD from Emory University, PhD in biomedical engineering and statistics from Georgia Tech, and BS in bioengineering from UCLA.
