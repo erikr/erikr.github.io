@@ -1,0 +1,19 @@
+I"�<p>If you force-quit any Microsoft Office application on macOS using Option-Command-Esc, this annoying and useless error reporter
+launches:</p>
+
+<p><img src="/assets/mer.png" alt="" /></p>
+
+<p>The Microsoft Error Reporting app exists within <em>each</em> Office app installed on your Mac, i.e. within Word, OneNote,
+PowerPoint, etc.</p>
+
+<p>This is insane, so let’s remove it.</p>
+
+<p>Open terminal and type in the following to delete:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo rm -rf /Applications/Microsoft\ *.app/Contents/SharedSupport/Microsoft\ Error\ Reporting.app/
+</code></pre></div></div>
+
+<p>This will go through <code class="highlighter-rouge">/Microsoft\ Excel.app</code>, <code class="highlighter-rouge">/Microsoft\ PowerPoint.app</code>, etc. and delete the app.</p>
+
+<p>Be extremely careful using <code class="highlighter-rouge">sudo</code> and <code class="highlighter-rouge">rm</code>. Don’t wreck your system.</p>
+:ET
