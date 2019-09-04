@@ -4,6 +4,10 @@ title: Reviews and opinion pieces on machine learning in healthcare
 tags: machine learning, ai, healthcare, medicine
 ---
 
+[Sim, I. Mobile devices and health. NEJM 2019.](https://www.nejm.org/doi/full/10.1056/NEJMra1806949)
+
+[Snyder M, Zhou W. Big data and health. Lancet 2019.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30109-8/fulltext)
+
 [Shah P, Kendall F, Khozin S, et al. Artificial intelligence and machine learning in clinical development: a translational perspective. npj Digit Med 2019](https://www.nature.com/articles/s41746-019-0148-3)
 
 [Wiens J, Saria S, Sendak M, et al. Do no harm: a roadmap for responsible machine learning for health care. Nat Med 2019](http://www.nature.com/articles/s41591-019-0548-6)
