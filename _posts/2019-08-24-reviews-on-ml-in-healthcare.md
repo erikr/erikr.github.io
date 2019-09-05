@@ -56,3 +56,4 @@ tags: machine learning, ai, healthcare, medicine
 
 [Beam AL, Kohane IS. Translating Artificial Intelligence Into Clinical Care. JAMA 2016](https://jamanetwork.com/journals/jama/article-abstract/2588761)
 
+[Deo, R. Machine learning in medicine. Circulation 2015](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.115.001593)
