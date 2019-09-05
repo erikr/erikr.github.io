@@ -34,6 +34,8 @@ tags: machine learning, ai, healthcare, medicine
 
 [Cahan EM, Hernandez-Boussard T, Thadaney-Israni S, Rubin DL. Putting the data before the algorithm in big data addressing personalized healthcare. npj Digit Med 2019](https://www.nature.com/articles/s41746-019-0157-2)
 
+[Yu KH, Kohane IS. Framing the challenges of artificial intelligence in medicine. BMJ Qual Saf 2019](https://qualitysafety.bmj.com/content/28/3/238.abstract)
+
 [Watson DS, Krutzinna J, Bruce IN, et al. Clinical applications of machine learning algorithms: Beyond the black box. BMJ 2019](https://www.bmj.com/content/364/bmj.l886)
 
 [Yu KH, Beam AL, Kohane IS. Artificial intelligence in healthcare. Nat Biomed Eng. 2018](https://www.nature.com/articles/s41551-018-0305-z)
@@ -50,10 +52,10 @@ tags: machine learning, ai, healthcare, medicine
 
 [Nsoesie EO. Evaluating Artificial Intelligence Applications in Clinical Settings. JAMA Netw Open 2018](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2703939)
 
-[Yu KH, Kohane IS. Framing the challenges of artificial intelligence in medicine. BMJ Qual Saf 2019](https://qualitysafety.bmj.com/content/28/3/238.abstract)
-
 [Hinton G. Deep Learning — A Technology With the Potential to Transform Health Care. JAMA 2018](https://jamanetwork.com/journals/jama/article-abstract/2701666)
 
 [Beam AL, Kohane IS. Translating Artificial Intelligence Into Clinical Care. JAMA 2016](https://jamanetwork.com/journals/jama/article-abstract/2588761)
+
+[Obermeyer Z, Emanual EJ. Predicting the Future — Big Data, Machine Learning, and Clinical Medicine. NEJM 2016](https://www.nejm.org/doi/full/10.1056/NEJMp1606181)
 
 [Deo, R. Machine learning in medicine. Circulation 2015](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.115.001593)
