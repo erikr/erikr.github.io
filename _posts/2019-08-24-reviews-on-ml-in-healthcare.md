@@ -54,6 +54,8 @@ tags: machine learning, ai, healthcare, medicine
 
 [Hinton G. Deep Learning — A Technology With the Potential to Transform Health Care. JAMA 2018](https://jamanetwork.com/journals/jama/article-abstract/2701666)
 
+[Chen J, Ash SM. Machine Learning and Prediction in Medicine — Beyond the Peak of Inflated Expectations. NEJM 2017](https://www.nejm.org/doi/10.1056/NEJMp1702071)
+
 [Beam AL, Kohane IS. Translating Artificial Intelligence Into Clinical Care. JAMA 2016](https://jamanetwork.com/journals/jama/article-abstract/2588761)
 
 [Obermeyer Z, Emanual EJ. Predicting the Future — Big Data, Machine Learning, and Clinical Medicine. NEJM 2016](https://www.nejm.org/doi/full/10.1056/NEJMp1606181)
