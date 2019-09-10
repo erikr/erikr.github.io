@@ -46,6 +46,8 @@ tags: machine learning, ai, healthcare, medicine
 
 [Wang F, Casalino LP, Khullar D. Deep Learning in Medicine — Promise, Progress, and Challenges. JAMA Intern Med 2018](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2718342)
 
+[Stead WW. Clinical Implications and Challenges of Artificial Intelligence and Deep Learning. JAMA 2018](https://jamanetwork.com/journals/jama/article-abstract/2701665)
+
 [Naylor CD. On the Prospects for a (Deep) Learning Health Care System. JAMA 2018](https://jamanetwork.com/journals/jama/article-abstract/2701667)
 
 [Zhu L, Zheng WJ. Informatics, Data Science, and Artificial Intelligence. JAMA 2018](https://jamanetwork.com/journals/jama/article-abstract/2702879)
