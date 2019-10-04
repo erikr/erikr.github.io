@@ -38,6 +38,8 @@ tags: machine learning, ai, healthcare, medicine
 
 [Watson DS, Krutzinna J, Bruce IN, et al. Clinical applications of machine learning algorithms: Beyond the black box. BMJ 2019](https://www.bmj.com/content/364/bmj.l886)
 
+[Price NW. Big data and black-box medical algorithms. Science Translational Medicine 2018.](https://stm.sciencemag.org/content/10/471/eaao5333.full)
+
 [Yu KH, Beam AL, Kohane IS. Artificial intelligence in healthcare. Nat Biomed Eng. 2018](https://www.nature.com/articles/s41551-018-0305-z)
 
 [Beam AL, Kohane IS. Big Data and Machine Learning in Health Care. JAMA 2018](https://jamanetwork.com/journals/jama/article-abstract/2675024)
