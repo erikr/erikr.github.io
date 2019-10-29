@@ -21,8 +21,8 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at MGH and MIT.
+Postdoc at MGH and MIT working on machine learning for ECGs and ICU time series data.
 
-Machine learning, cardiology, critical care. 
+Interested in cardiology and critical care. 
 
-Previously: intern at Takeda Ventures, founder at Forge Health, MD from Emory University, PhD in biomedical engineering from Georgia Tech, and BS in bioengineering from UCLA.
+Past: intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, and BS in bioengineering from UCLA.
