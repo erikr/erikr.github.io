@@ -21,7 +21,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at MGH and MIT working on machine learning for ECGs and ICU time series data.
+Postdoc at MGH and MIT working on deep learning for ECGs and ICU time series data.
 
 Interested in cardiology and critical care. 
 
