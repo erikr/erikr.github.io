@@ -4,48 +4,57 @@ title: Linux setup checklist
 ---
 
 ```
-https://www.google.com/chrome/  
-  
-https://ulauncher.io  
-  
-https://anydesk.com/en  
-  
-sudo vim /etc/default/grub  
-  
-sudo apt-get install vim  
-  
-sudo apt-get install git  
-  
-sudo apt-get install curl   
-  
-sudo apt-get install zsh  
 
-sudo apt-get install screen
+# Install stuff that cannot be set up from command line
+https://www.google.com/chrome/  
+https://ulauncher.io    
+https://anydesk.com/en  
+
+
+# Edit grub
+sudo vim /etc/default/grub  
+> --verbose debug nomodeset
   
+
+# Install apps and tools
+sudo apt-get install vim  
+sudo apt-get install git  
+sudo apt-get install curl  
+sudo apt-get install zsh  
+sudo apt-get install screen  
+  
+
+# Oh-My-ZSH
 https://github.com/ohmyzsh/ohmyzsh#basic-installation  
-  
 sudo reboot  
-  
 sudo apt-get install fonts-powerline   
   
 mkdir ~/repos   
-  
+
+
+# Set up dotfiles and shell scripts
 git clone https://github.com/erikr/dotfiles.git  
-  
-sh create_symlinks.sh  
-  
+cd dotfiles && sh create_symlinks.sh  
+
+
+# Set up Vundle
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
-  
 vim +PluginInstall +qall   
-  
+
+
+# Set up ZSH syntax highlighting
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting  
 cd && rm -rf zsh-syntax-highlighting
 
+
+# Set up Solarized for the terminal
 git clone https://github.com/aruhier/gnome-terminal-colors-solarized.git  
 cd gnome-terminal-colors-solarized  
 ./install.sh  
 cd && rm -rf gnome-terminal-colors-solarized  
 
+
+# Set up SSH to mithril
 sudo apt install openssh-server  
 sudo systemctl status ssh  
 sudo ufw allow ssh  
@@ -54,10 +63,8 @@ sudo ufw allow ssh
 
 cat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'  
 
-sudo ln -s ~/repos/dotfiles/.vimrc /.vimrc  
 
-export EDITOR=$(which vim)  
-
+# Auto-mount internal HDDs
 sudo \mkdir /media/8tb  
 sudo \mkdir /media/2tb  
 sudo -E vim /etc/fstab  
@@ -67,5 +74,32 @@ sudo -E vim /etc/fstab
 /dev/sda1 /media/8tb ext4 defaults 0 0  
 /dev/sdb1 /media/2tb ext4 defaults 0 0  
 
+
+# Set up CIFS and SMB mount to mad3
+sudo apt-get install cifs-utils  
+sudo \mkdir /media/mad3  
+sh ~/repos/dotfiles/mount-mad3.sh  
+
+
+# Install Anaconda
+wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
+sh Anaconda3...
+
+
+update 
+
+
+# Install VirtualBox
 https://www.virtualbox.org/wiki/Downloads
+
+
+# Install Dropbox
+https://www.dropbox.com/install-linux  
+> Waiting for the app to ask for the link code never works. Instead, log in at dropbox.com/login.
+
+
+# Set up MUSE repo and dependencies
+cd repos && git clone https://github.com/mghcdac/MUSE-ECG.git
+
+
 ```
