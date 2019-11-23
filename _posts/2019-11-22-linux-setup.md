@@ -66,4 +66,6 @@ sudo -E vim /etc/fstab
 
 /dev/sda1 /media/8tb ext4 defaults 0 0  
 /dev/sdb1 /media/2tb ext4 defaults 0 0  
+
+https://www.virtualbox.org/wiki/Downloads
 ```
