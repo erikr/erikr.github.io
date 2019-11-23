@@ -22,7 +22,8 @@ sudo apt-get install git
 sudo apt-get install curl  
 sudo apt-get install zsh  
 sudo apt-get install screen  
-  
+sudo apt-get install tree  
+
 
 # Oh-My-ZSH
 https://github.com/ohmyzsh/ohmyzsh#basic-installation  
