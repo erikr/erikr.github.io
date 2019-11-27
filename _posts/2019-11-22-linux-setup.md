@@ -25,10 +25,8 @@ https://github.com/ohmyzsh/ohmyzsh#basic-installation
 sudo reboot  
 sudo apt-get install fonts-powerline   
   
-mkdir ~/repos   
-
-
 # Set up dotfiles and shell scripts
+mkdir repos && cd repos
 git clone https://github.com/erikr/dotfiles.git  
 cd dotfiles && sh create_symlinks.sh  
 
