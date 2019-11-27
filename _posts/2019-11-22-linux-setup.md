@@ -79,9 +79,7 @@ sh ~/repos/dotfiles/mount-mad3.sh
 wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
 sh Anaconda3...
 
-
-update 
-
+conda create --name py37 python=3.7.5 scipy numpy pandas matplotlib scikit-learn 
 
 # Install VirtualBox
 https://www.virtualbox.org/wiki/Downloads
