@@ -9,20 +9,15 @@ title: Linux setup checklist
 https://www.google.com/chrome/  
 https://ulauncher.io    
 https://anydesk.com/en  
+  
+
+# Install apps and tools
+sudo apt-get install vim git curl zsh screen tree  
 
 
 # Edit grub
 sudo vim /etc/default/grub  
 > --verbose debug nomodeset
-  
-
-# Install apps and tools
-sudo apt-get install vim  
-sudo apt-get install git  
-sudo apt-get install curl  
-sudo apt-get install zsh  
-sudo apt-get install screen  
-sudo apt-get install tree  
 
 
 # Oh-My-ZSH
