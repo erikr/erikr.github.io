@@ -81,7 +81,7 @@ sh Anaconda3...
 conda config --add channels conda-forge   
 conda config --add channels anaconda  
 conda create --name py37 python=3.7.5
-conda install scipy pandas matplotlib scikit-learn tensorflow-gpu imbalanced-learn beautifulsoup4  
+conda install scipy numpy pandas matplotlib scikit-learn tensorflow-gpu imbalanced-learn beautifulsoup4 pytables 
 
 
 # Install VirtualBox
