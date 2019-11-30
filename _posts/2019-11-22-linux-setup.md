@@ -4,7 +4,6 @@ title: Linux setup checklist
 ---
 
 ```
-
 # Install stuff that cannot be set up from command line
 https://www.google.com/chrome/  
 https://ulauncher.io    
@@ -96,6 +95,4 @@ https://www.dropbox.com/install-linux
 
 # Set up MUSE repo and dependencies
 cd repos && git clone https://github.com/mghcdac/MUSE-ECG.git
-
-
 ```
