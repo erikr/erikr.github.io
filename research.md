@@ -4,11 +4,10 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoctoral research fellow at the Cardiovascular Research Center in MGH, and the Research Laboratory for Electronics at MIT. My advisors are [Aaron Aguirre](https://connects.catalyst.harvard.edu/Profiles/display/Person/10465), [Brandon Westover](http://cdac.mgh.harvard.edu), and [Collin Stultz](http://www.rle.mit.edu/cb/).
+I am a postdoctoral research fellow at MGH (Center for Systems Biology, Cardiovascular Research Center, and Clinical Data Animation Center) and MIT (Research Laboratory for Electronics). My advisors are [Aaron Aguirre](https://connects.catalyst.harvard.edu/Profiles/display/Person/10465), [Brandon Westover](http://cdac.mgh.harvard.edu), and [Collin Stultz](http://www.rle.mit.edu/cb/).
 
-We develop machine & deep learning approaches for several projects:
-* Cardiologist-level interpretation of 12-lead ECGs
-* Inferrence of novel labels from 12-lead ECGs
+We develop deep learning approaches for several projects:
+* Inference of diagnoses and novel outcomes from 12-lead ECGs
 * Prediction of cardiac arrest or shock from ICU time series data
 * Estimation of outcomes after cardiac surgical procedures
 
