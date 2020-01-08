@@ -8,7 +8,7 @@ I am a postdoctoral research fellow at MGH (Center for Systems Biology, Cardiova
 
 We develop deep learning approaches for several projects:
 * Inference of diagnoses and novel outcomes from 12-lead ECGs
-* Prediction of cardiovascular decompensation from ICU time series data
+* Prediction of cardiac shock or arrest from ICU time series data
 * Stratification of outcomes after cardiac surgical procedures
 
 We work closely with the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/data-sciences-platform), particularly the ML4CVD team within the Data Sciences Platform.  
