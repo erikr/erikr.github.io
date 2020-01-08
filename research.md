@@ -11,6 +11,8 @@ We develop deep learning approaches for several projects:
 * Prediction of cardiac arrest or shock from ICU time series data
 * Estimation of outcomes after cardiac surgical procedures
 
+We work closely with the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/data-sciences-platform), particularly the ML4CVD team within the Data Sciences Platform.  
+
 I am also affiliated with the [Healthcare Transformation Lab](http://healthcaretransformation.org) at MGH, which was created to improve the experience and value of health care by inspiring collaborative innovation and leveraging novel technologies.
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford](http://gdclifford.info/people/gari), [Shamim Nemati](http://nematilab.info/people/shamim/index.html), and [Amit Shah](https://www.sph.emory.edu/faculty/profile/#AJSHAH3).
