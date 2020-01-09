@@ -4,16 +4,19 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoctoral research fellow at MGH (Center for Systems Biology, Cardiovascular Research Center, and Clinical Data Animation Center) and MIT (Research Laboratory for Electronics). My advisors are [Aaron Aguirre](https://connects.catalyst.harvard.edu/Profiles/display/Person/10465), [Brandon Westover](http://cdac.mgh.harvard.edu), and [Collin Stultz](http://www.rle.mit.edu/cb/).
+I am a postdoctoral research fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre](https://connects.catalyst.harvard.edu/Profiles/display/Person/10465), [Brandon Westover](http://cdac.mgh.harvard.edu), and [Collin Stultz](http://www.rle.mit.edu/cb/).
 
 We develop deep learning approaches for several projects:
 * Inference of diagnoses and novel outcomes from 12-lead ECGs
 * Prediction of cardiac shock or arrest from ICU time series data
 * Stratification of outcomes after cardiac surgical procedures
 
-We work closely with the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/data-sciences-platform), particularly the ML4CVD team within the Data Sciences Platform.  
-
-I am also affiliated with the [Healthcare Transformation Lab](http://healthcaretransformation.org) at MGH, where I advise Fellows on clinical innovation projects that leverage informatics, machine learning, and wearable sensors.
+I am affiliated with several institutions:
+* [Cardiovascular Research Center, Massachusetts General Hospital](http://cvrc.massgeneral.org).  
+* [Research Laboratory for Electronics, Massachusetts Institute of Technology](https://www.rle.mit.edu).  
+* [ML4CVD, Data Sciences Platform, Broad Institute of MIT and Harvard](https://www.broadinstitute.org/data-sciences-platform).  
+* [Healthcare Transformation Lab, Massachusetts General Hospital](http://healthcaretransformation.org); I advise Fellows on clinical innovation projects that leverage informatics, machine learning, and wearable sensors. 
+* [Clinical Data Animation Center, Massachusetts General Hospital](http://cdac.mgh.harvard.edu).  
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford](http://gdclifford.info/people/gari), [Shamim Nemati](http://nematilab.info/people/shamim/index.html), and [Amit Shah](https://www.sph.emory.edu/faculty/profile/#AJSHAH3).
 
