@@ -21,6 +21,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at Mass General and MIT working on deep learning with ECGs and ICU time series data.
+Postdoc at Mass General and MIT working on deep learning for ECGs and ICU data.
 
 Past: intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, and BS in bioengineering from UCLA.
