@@ -13,10 +13,9 @@ We develop deep learning approaches for several projects:
 
 I am affiliated with several groups:
 * [Cardiovascular Research Center, Mass General](http://cvrc.massgeneral.org).  
+* [Center for Systems Biology, Mass General](http://csb.mgh.harvard.edu).   
 * [Research Laboratory for Electronics, MIT](https://www.rle.mit.edu).  
 * [ML4CVD, Broad Institute of MIT and Harvard](https://www.broadinstitute.org/data-sciences-platform).  
-* [Center for Systems Biology, Mass General](http://csb.mgh.harvard.edu).   
-* [Healthcare Transformation Lab, Mass General](http://healthcaretransformation.org); I advise Fellows on clinical innovation projects that leverage informatics, machine learning, and wearable sensors. 
 * [Clinical Data Animation Center, Mass General](http://cdac.mgh.harvard.edu).  
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford](http://gdclifford.info/people/gari), [Shamim Nemati](http://nematilab.info/people/shamim/index.html), and [Amit Shah](https://www.sph.emory.edu/faculty/profile/#AJSHAH3).
