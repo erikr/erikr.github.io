@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up data science stack on ERISOne
+title: Set up your data science stack on ERISOne
 ---
 
 ERISOne is a powerful Linux cluster at Partners. Full specs are described [here](https://rc.partners.org/research-apps-and-services/boilerplates-templates/it-infrastructure#citing-eris).
@@ -58,89 +58,4 @@ Use 'bsub' (with the '-XF' parameter for X11 forwarding) to start the session wi
 ```
 bsub -Is -XF -R 'rusage[mem=64000]' -n 10 /bin/bash
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
