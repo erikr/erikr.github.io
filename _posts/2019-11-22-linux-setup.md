@@ -80,7 +80,7 @@ sh Anaconda3...
 
 conda config --add channels conda-forge   
 conda config --add channels anaconda  
-conda create --name py37 python=3.7.5
+conda create --name py38 python=3.8.1
 conda install scipy numpy pandas matplotlib scikit-learn tensorflow-gpu beautifulsoup4 pytables lxml  
 conda install -c glemaitre imbalanced-learn  
 
