@@ -9,12 +9,30 @@ This post describes how to set up a basic data science stack on ERISOne. The maj
 
 Follow the [setup instructions](https://rc.partners.org/kb/article/2814), connect via SSH with X11 forwarding, and get to a login node.
 
-Change bash to zsh:
+ERISOne only has an old version of zsh (version 4.3). Install a fresher zsh on ERISOne without root by following a slightly modified set of [these instructions](https://franklingu.github.io/programming/2016/05/24/setup-oh-my-zsh-on-ubuntu-without-sudo/). Download and install the latest version of zsh that comes in a `tar.gz`:
 ```
-chsh -s $(which zsh)
+wget http://www.zsh.org/pub/old/zsh-5.5.1.tar.gz
+tar -xzf zsh-5.5.1.tar.gz
+rm zsh-5.5.1.tar.gz
+cd zsh-5.5.1
+mkdir ~/local
+./configure --prefix=$HOME/local
+make
+make check
+make install
+rm -rf zsh-5.5.1
 ```
 
-Log out and back in.  
+This installs a newer zsh at `~/local/bin/zsh`.
+
+Now, modify `.bashrc` with the path to your freshly installed zsh, and instructions to run it when it starts the bash shell:
+```
+echo "export PATH=$HOME/local/bin:$PATH" >> ~/.bash_profile
+echo "exec zsh" >> ~/.bash_profile
+echo "exec zsh" >> ~/.bashrc # seems odd but necessary for later
+```
+
+Now, whenever you log in to ERISOne, the bash shell is loaded. This runs `~/.bash_profile`, which in turn 1) modifies the path to include where our source-installed zsh, and 2) loads that fresher zsh shell. Circuitous, but it works.
 
 Set up oh-my-zsh:
 ```
@@ -53,9 +71,13 @@ source activate py37_erisone
 
 Next, request a session on a compute node with a particular amount of memory and CPU threads. More documentation [here](https://rc.partners.org/kb/article/2680).  
 
-Use 'bsub' (with the '-XF' parameter for X11 forwarding) to start the session with the desired resource reservation (e.g. for 16000MB (16GB) RAM and 10 CPU threads):
+Use 'bsub' (with the '-XF' parameter for X11 forwarding) to start the session with the desired resource reservation (e.g. for 8000MB (8GB) RAM and 2 CPU threads):
 
+Again, note we are calling the bash shell, but per above our `~/.bash_profile` loads our source-installed zsh shell.
 ```
-bsub -Is -XF -R 'rusage[mem=64000]' -n 10 /bin/bash
+bsub -Is -XF -R 'rusage[mem=8000]' -n 2 ~/local/
 ```
 
+This loads bash, but calls `~/.bashrc` instead of `~/.bash_profile`, hence our earlier modification of `~/.bashrc`.
+
+Now, install vim:
