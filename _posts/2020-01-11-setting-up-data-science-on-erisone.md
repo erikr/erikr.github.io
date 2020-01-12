@@ -1,99 +1,146 @@
 ---
 layout: post
-title: Linux setup checklist
+title: Setting up data science stack on ERISOne
 ---
 
+ERISOne is a powerful Linux cluster at Partners. Full specs are described [here](https://rc.partners.org/research-apps-and-services/boilerplates-templates/it-infrastructure#citing-eris).
+
+This post describes how to set up a basic data science stack on ERISOne. The major components are Conda, Tensorflow, and other usual Python packages.
+
+Follow the [setup instructions](https://rc.partners.org/kb/article/2814), connect via SSH with X11 forwarding, and get to a login node.
+
+Change bash to zsh:
 ```
-# Install stuff that cannot be set up from command line
-https://www.google.com/chrome/  
-https://ulauncher.io    
-https://anydesk.com/en  
-  
-
-# Install apps and tools
-sudo apt-get install vim git curl zsh screen tree  
-
-
-# Edit grub
-sudo vim /etc/default/grub  
-> --verbose debug nomodeset
-
-
-# Oh-My-ZSH
-https://github.com/ohmyzsh/ohmyzsh#basic-installation  
-sudo reboot  
-sudo apt-get install fonts-powerline   
-  
-# Set up dotfiles and shell scripts
-mkdir repos && cd repos
-git clone https://github.com/erikr/dotfiles.git  
-cd dotfiles && sh create_symlinks.sh  
-
-
-# Set up Vundle
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
-vim +PluginInstall +qall   
-
-
-# Set up ZSH syntax highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting  
-cd && rm -rf zsh-syntax-highlighting
-
-
-# Set up Solarized for the terminal
-git clone https://github.com/aruhier/gnome-terminal-colors-solarized.git  
-cd gnome-terminal-colors-solarized  
-./install.sh  
-cd && rm -rf gnome-terminal-colors-solarized  
-
-
-# Set up SSH to mithril
-sudo apt install openssh-server  
-sudo systemctl status ssh  
-sudo ufw allow ssh  
-
-> May need to remove mithril IP address from ~/.ssh/known_hosts  
-
-cat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'  
-
-
-# Auto-mount internal HDDs
-sudo \mkdir /media/8tb  
-sudo \mkdir /media/2tb  
-sudo -E vim /etc/fstab  
-
-> add the following to fstab:
-
-/dev/sda1 /media/8tb ext4 defaults 0 0  
-/dev/sdb1 /media/2tb ext4 defaults 0 0  
-
-
-# Set up CIFS and SMB mount to mad3
-sudo apt-get install cifs-utils  
-sudo \mkdir /media/mad3  
-sh ~/repos/dotfiles/mount-mad3.sh  
-
-
-# Install Anaconda
-wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
-sh Anaconda3...
-
-conda config --add channels conda-forge   
-conda config --add channels anaconda  
-conda create --name py38 python=3.8.1
-conda install scipy numpy pandas matplotlib scikit-learn tensorflow-gpu beautifulsoup4 pytables lxml  
-conda install -c glemaitre imbalanced-learn  
-
-
-# Install VirtualBox
-https://www.virtualbox.org/wiki/Downloads
-
-
-# Install Dropbox
-https://www.dropbox.com/install-linux  
-> Waiting for the app to ask for the link code never works. Instead, log in at dropbox.com/login.
-
-
-# Set up MUSE repo and dependencies
-cd repos && git clone https://github.com/mghcdac/MUSE-ECG.git
+chsh -s $(which zsh)
 ```
+
+Log out and back in.  
+
+Set up oh-my-zsh:
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+Set up dotfiles:
+```
+cd
+mkdir repos
+cd repos
+https://github.com/erikr/dotfiles
+cd dotfiles
+sh create_symlinks.sh
+```
+
+Set up Vundle (I have plugins specified in my `~/.vimrc`, which are symlinked in prior step):
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+vim +PluginInstall +qall
+```
+
+Load Anaconda as a "module". Although the latest release is 4.8.1, only 4.3.30 is available on ERISOne.
+> Note: Since this and other scripts must be manually called every time you log in to ERISOne, I put it in my [.zshrc](https://github.com/erikr/dotfiles/blob/master/.zshrc) to automatically run at login.
+
+```
+module load anaconda
+```
+
+Create your Conda environment. I recommend Python 3.7.6, which is the latest 3.7 version, because Tensorflow is not yet compatible with Python 3.8.
+
+```
+conda create --name py37_erisone python=3.7.6 scipy numpy pandas matplotlib scikit-learn tensorflow-gpu pytables  
+source activate py37_erisone
+```
+
+Next, request a session on a compute node with a particular amount of memory and CPU threads. More documentation [here](https://rc.partners.org/kb/article/2680).  
+
+Use 'bsub' (with the '-XF' parameter for X11 forwarding) to start the session with the desired resource reservation (e.g. for 16000MB (16GB) RAM and 10 CPU threads):
+
+```
+bsub -Is -XF -R 'rusage[mem=64000]' -n 10 /bin/bash
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
