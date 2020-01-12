@@ -38,7 +38,7 @@ vim +PluginInstall +qall
 ```
 
 Load Anaconda as a "module". Although the latest release is 4.8.1, only 4.3.30 is available on ERISOne.
-> Note: Since this and other scripts must be manually called every time you log in to ERISOne, I put it in my [.zshrc](https://github.com/erikr/dotfiles/blob/master/.zshrc) to automatically run at login.
+> Note: This and other scripts must be manually called every time you log in to ERISOne, so I put them in my [.zshrc](https://github.com/erikr/dotfiles/blob/master/.zshrc) to automatically run at login.
 
 ```
 module load anaconda
