@@ -81,9 +81,7 @@ sh Anaconda3...
 conda config --add channels conda-forge   
 conda config --add channels anaconda  
 conda create --name py37 python=3.7.6
-conda install scipy numpy pandas matplotlib scikit-learn tensorflow-gpu beautifulsoup4 pytables lxml  
-conda install -c glemaitre imbalanced-learn  
-
+conda install scipy numpy pandas matplotlib scikit-learn tensorflow-gpu beautifulsoup4 
 
 # Install VirtualBox
 https://www.virtualbox.org/wiki/Downloads
@@ -92,8 +90,4 @@ https://www.virtualbox.org/wiki/Downloads
 # Install Dropbox
 https://www.dropbox.com/install-linux  
 > Waiting for the app to ask for the link code never works. Instead, log in at dropbox.com/login.
-
-
-# Set up MUSE repo and dependencies
-cd repos && git clone https://github.com/mghcdac/MUSE-ECG.git
 ```
