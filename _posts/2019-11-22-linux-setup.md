@@ -30,7 +30,7 @@ git clone https://github.com/erikr/dotfiles.git
 cd dotfiles && sh create_symlinks.sh  
 
 # Install TypeWritten ZSH theme
-git clone https://github.com/reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
+git clone https://github.com/erikr/typewritten.git $ZSH_CUSTOM/themes/typewritten
 ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme"  
 vim ~/repos/dotfiles/.zshrc  
 add ZSH_THEME="typewritten/typewritten"  
