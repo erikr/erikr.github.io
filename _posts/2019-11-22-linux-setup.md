@@ -29,22 +29,28 @@ mkdir repos && cd repos
 git clone https://github.com/erikr/dotfiles.git  
 cd dotfiles && sh create_symlinks.sh  
 
-
-# Set up Vundle
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
-vim +PluginInstall +qall   
-
-
-# Set up ZSH syntax highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting  
-cd && rm -rf zsh-syntax-highlighting
-
+# Install TypeWritten ZSH theme
+git clone https://github.com/reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
+ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme"  
+vim ~/repos/dotfiles/.zshrc  
+add ZSH_THEME="typewritten/typewritten"  
 
 # Set up Solarized for the terminal
 git clone https://github.com/aruhier/gnome-terminal-colors-solarized.git  
 cd gnome-terminal-colors-solarized  
 ./install.sh  
 cd && rm -rf gnome-terminal-colors-solarized  
+
+# Set up ZSH syntax highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting  
+cd && rm -rf zsh-syntax-highlighting
+
+# Install JetBrains Mono font
+https://www.jetbrains.com/lp/mono/
+
+# Set up Vundle
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
+vim +PluginInstall +qall   
 
 
 # Set up SSH to mithril
