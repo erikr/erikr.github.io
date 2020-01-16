@@ -3,6 +3,8 @@ layout: post
 title: Linux setup checklist
 ---
 
+This is my software stack for setting up new machines (or old machines that I messed up, thanks Nvidia).  
+
 ```
 # Install stuff that cannot be set up from command line
 https://www.google.com/chrome/  
