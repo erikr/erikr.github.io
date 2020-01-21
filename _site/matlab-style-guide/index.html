@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55192272-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<head>
+
+<meta charset="UTF-8">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<title>
+    Matlab style guide
+</title>
+
+<!-- CSS & JS -->
+<link rel="stylesheet" href="/css/poole.css">
+<link rel="stylesheet" href="/css/syntax.css">
+<link rel="stylesheet" href="/css/grid.css">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/favicon.ico">
+
+<script type="text/javascript" src="/js/jquery-2.2.1.min.js"></script>
+
+<!-- RSS -->
+<link rel="alternate" type="application/atom+xml" title="Erik Reinertsen" href="/atom.xml">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Matlab style guide | Erik Reinertsen</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Matlab style guide" />
+<meta name="author" content="Erik Reinertsen" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="People often write unreadable and disorganized code. This is especially true in Matlab, which is used by engineers and scientists who lack formal backgrounds in software development." />
+<meta property="og:description" content="People often write unreadable and disorganized code. This is especially true in Matlab, which is used by engineers and scientists who lack formal backgrounds in software development." />
+<link rel="canonical" href="http://localhost:4000/matlab-style-guide/" />
+<meta property="og:url" content="http://localhost:4000/matlab-style-guide/" />
+<meta property="og:site_name" content="Erik Reinertsen" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-05-05T00:00:00-04:00" />
+<script type="application/ld+json">
+{"description":"People often write unreadable and disorganized code. This is especially true in Matlab, which is used by engineers and scientists who lack formal backgrounds in software development.","@type":"BlogPosting","headline":"Matlab style guide","dateModified":"2017-05-05T00:00:00-04:00","datePublished":"2017-05-05T00:00:00-04:00","url":"http://localhost:4000/matlab-style-guide/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/matlab-style-guide/"},"author":{"@type":"Person","name":"Erik Reinertsen"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<body>
+		<div class="container content">
+
+		<header class="masthead">
+			<h3 class="masthead-title">
+				<a href="/" title="Home">Erik Reinertsen</a>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/blog">Blog</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/research">Research</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/tech">Tech</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/teaching">Teaching</a></small>
+				
+					&nbsp;&nbsp;&nbsp;
+					<small><a href="/talks">Talks</a></small>
+				
+			</h3>
+		</header>
+
+		<main>
+			<article class="article">
+    <h2 class="article-title">Matlab style guide</h2>
+    <hr />
+    <p>People often write unreadable and disorganized code. This is especially true in Matlab, which is used by engineers and scientists who lack formal backgrounds in software development.</p>
+
+<p>Using consistent and rational style guidelines will help you, colleagues, and any future users of your code.</p>
+
+<p>Clean code is not just for aesthetics. You’ll write faster and think more clearly.</p>
+
+<p>Here is a Matlab style guide I’ve found helpful.</p>
+
+<hr />
+
+<h3 id="add-spaces-between-arguments">Add spaces between arguments</h3>
+
+<ul>
+  <li>Add a space before each argument.</li>
+  <li>Add spaces before and after <code class="highlighter-rouge">=</code>.</li>
+</ul>
+
+<p><strong>Good</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>myCellArray(i, :) = featureValues;
+[outputA, outputB] = myFunction(inputX, inputY);
+</code></pre></div></div>
+
+<p><strong>Bad</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>myCellArray(i,:)=featureValues;
+[outputA,outputB]=myFunction(inputX,inputY);
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="use-a-neat-and-consistent-style-for-comments">Use a neat and consistent style for comments</h3>
+
+<ul>
+  <li>Add a space between the <code class="highlighter-rouge">%</code> and the comment text.</li>
+  <li>Capitalize the first letter of each comment sentence.</li>
+  <li>Break up long sentences with newlines.</li>
+</ul>
+
+<p><strong>Good</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>% This is a comment.
+% This is the second line of a comment.
+% And also an example of a comment that goes on too long.
+</code></pre></div></div>
+
+<p><strong>Bad</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>%This is a less readable comment.
+%this is the second line of a less readable comment. And also an example of a comment that goes on too long.
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="comment-heavily">Comment heavily</h3>
+
+<p>Comment each chunk of code that does something useful. Help the reader understand the broad conceptual approach.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>% Load data from CSV file in Data folder into Matlab
+data = loadDataFromCSV(pathToCSV);
+
+% Clean data by removing patients with &lt;50 data points
+dataCleaned = cleanData(data);
+
+% Extract features from cleaned data
+features = extractFeatures(dataCleaned);
+
+% Initialize arrays to store outputs
+idxPatientsToRemove = [];
+serumCreatinine = [];
+nMedRecords = [];
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="indent-your-code">Indent your code</h3>
+
+<p>In Python, indentation dictates logic, so you can’t be sloppy.</p>
+
+<p>Unfortunately, Matlab allows awful indentation.</p>
+
+<p>Poorly indented code is hard to follow:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for i=1:10
+a = i*rand(1e3);
+for j = 5:20
+if j &gt; 10 &amp;&amp; a &lt; 50
+b(i, j) = a*j;
+else
+b(i, j) = NaN;
+end
+end
+end
+</code></pre></div></div>
+
+<p>Using tabs makes nested logic more understandable:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for i=1:10
+    a = i*rand(1e3);
+    for j = 5:20
+        if j &gt; 10 &amp;&amp; a &lt; 50
+            b(i, j) = a*j;
+        else
+            b(i, j) = NaN;
+        end
+    end
+end
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="add-space-around-operators-when-performing-math">Add space around operators when performing math</h3>
+
+<p>This line is easy to read:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>a = b * c + (i .^ j) / (500 - alpha);
+</code></pre></div></div>
+
+<p>This line is harder to read:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>a=b*c+(i.^j)/(500-alpha);
+</code></pre></div></div>
+
+<p>You can also use newlines and indentations to improve readibility of long expressions, especially with fractions:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>a = ((b + c) .^ beta) / ...
+    (b - x * pi);
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="use-a-consistent-and-structured-header">Use a consistent and structured header</h3>
+
+<p>The header at the top of your <code class="highlighter-rouge">.m</code> file should explain the:</p>
+<ul>
+  <li>Purpose and broad approach of the function</li>
+  <li>Inputs</li>
+  <li>Outputs</li>
+  <li>Dependencies</li>
+</ul>
+
+<p>A short example of how to call the function is helpful too.</p>
+
+<p>We use <a href="https://github.com/erikrtn/matlabMisc/blob/master/header.m">this matlab header</a>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>% [outputVar] = functionName(inputVar)
+% 
+% Overview
+%    Description of function goes here. 
+%     
+% Input
+%    inputVar:
+%
+% Output
+%    outputVar:
+%
+% Dependencies
+%    https://github.com/...
+%
+% Reference(s)
+% 
+% Copyright (C) 2017 FIRSTNAME LASTNAME &lt;email@address.com&gt;
+% All rights reserved.
+%
+% This software may be modified &amp; distributed under the terms
+% of the BSD license. See LICENSE file in repo for details.
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="write-modular-functions-to-organize-code-by-task">Write modular functions to organize code by task</h3>
+
+<p>This example <code class="highlighter-rouge">pipeline.m</code> script modularizes major tasks into functions, with clear and self-explanatory variable names, input arguments, and outputs:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function pipeline(pathToCSV)
+
+data = loadDataFromCSV(pathToCSV);
+dataCleaned = cleanData(data);
+features = extractFeatures(dataCleaned);
+[trainingData, testData, trainingLabels, testLabels] = ...
+    createCrossValSets(features, labels);
+trainWeights = learnWeights(trainingData, trainingLabels);
+yHat = predictOutputs(trainWeights, testData);
+classifierPerf = assessPerformance(yHat, testLabels);
+
+end
+</code></pre></div></div>
+
+<p>Optimal modularity strikes a balance between depth and breadth.</p>
+
+<p>Too many or too few sub-functions are hard to navigate or delegate.</p>
+
+<p>Don’t write the entire codebase of a project in a single file.</p>
+
+<hr />
+
+<h3 id="use-mixed-case-for-variable-function-and-file-names">Use mixed case for variable, function, and file names</h3>
+
+<p>Also called “camel capitalization”, this is standard practice for C++.</p>
+
+<p>The first letter is lowercase, and new words are capitalized:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>activityVariance
+sepsisScore
+nValidScores
+</code></pre></div></div>
+<p>Underscores are also popular for variable names, i.e. <code class="highlighter-rouge">activity_variance</code>, and works fine too. However, the TeX interpreter in Matlab will read undescores as a switch to subscript. This can be problematic if you label parts of a plot using text derived from variable names.</p>
+
+<hr />
+
+<h3 id="name-variables-and-functions-by-meaning-or-use">Name variables and functions by meaning or use</h3>
+
+<p>Descriptive variable or function names help people understand how your code works.</p>
+
+<p>Even the person who wrote the code forgets how it works if they step away from it for a few days. So make your code easy to understand.</p>
+
+<p>Functions should be <em>verbs</em> because functions perform <em>actions</em> on objects.</p>
+
+<p>Objects should be <em>nouns</em>.</p>
+
+<p><strong>Good</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>featuresMatrix = convertFeatStructToMatrix(featuresStruct);
+betas = estimateBetas(featuresMatrix, labels);
+</code></pre></div></div>
+
+<p><strong>Bad</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>m = featuresmatrix(x);
+b = betascalc(m, y);
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="prefix-variables-representing-number-of-items-with-n">Prefix variables representing number of items with <em>n</em></h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>nFiles
+nSegments
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="suffix-variables-representing-a-single-entity-with-no">Suffix variables representing a single entity with <em>no</em></h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>patientIdNo
+hospitalNo
+</code></pre></div></div>
+
+<h3 id="prefix-iterator-variables-with-the-counter-ie-i">Prefix iterator variables with the counter, i.e. <em>i</em></h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for iPatient = 1:nPatients
+    patientIdNo = patientData(iPatient).id;
+end
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="do-not-use-spaces-for-folder-or-file-names">Do not use spaces for folder or file names</h3>
+
+<p>Matlab and other languages do not handle spaces well.</p>
+
+<p>Also, spaces must be escaped in Unix. If you want to navigate into a directory named <code class="highlighter-rouge">project results</code> and view a file named <code class="highlighter-rouge">beta test values.csv</code>, you have to type:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd project\ results
+less beta\ test\ values.csv
+</code></pre></div></div>
+
+<p>This is annoying. Use mixed case or underscores instead:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd projectResults
+less betaTestValues.csv
+</code></pre></div></div>
+
+<p>This simple bash script (<a href="https://github.com/erikrtn/bashscripts/blob/master/replacespaces.sh">replaceSpaces.sh</a>) replaces spaces with underscores for all files in the current working directory.</p>
+
+<hr />
+
+<p>For a more detailed style guide, I recommend <em>MATLAB Programming Style Guidelines</em> <a href="www.datatool.com/downloads/matlab_style_guidelines.pdf">(link to PDF)</a> by Richard Johnson.</p>
+
+</article>
+
+		</main>
+
+		</div>
+	<script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+	</body>
+</html>
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>

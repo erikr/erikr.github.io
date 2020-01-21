@@ -12,10 +12,10 @@ We develop deep learning approaches for several projects:
 * Stratification of outcomes after cardiac surgical procedures
 
 I am affiliated with:
-* [ML4CVD, Broad Institute of MIT and Harvard][broad]  
-* [Research Laboratory for Electronics, MIT][rle]  
 * [Center for Systems Biology, Mass General][csb]     
 * [Clinical Data Animation Center, Mass General][cdac]   
+* [Research Laboratory for Electronics, MIT][rle]  
+* [ML4CVD, Broad Institute of MIT and Harvard][broad]  
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford][gc], [Shamim Nemati][sn], and [Amit Shah][as].
 
