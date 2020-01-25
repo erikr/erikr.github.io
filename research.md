@@ -6,16 +6,16 @@ title: "Research"
 
 I am a postdoctoral research fellow at Mass General and MIT. My advisors are [Aaron Aguirre][aa], [Brandon Westover][bw], and [Collin Stultz][cs].
 
-We develop deep learning approaches for several projects:
-* Inference of diagnoses and novel outcomes from 12-lead ECGs
-* Prediction of cardiac shock or arrest from ICU time series data
-* Stratification of outcomes after cardiac surgical procedures
+We develop deep learning approaches to:
+* Infer diagnoses and novel outcomes from 12-lead ECGs
+* Predict cardiogenic shock or arrests from ICU time series data
+* Stratify outcomes after cardiac surgical procedures
 
-I am affiliated with:
-* [Center for Systems Biology, Mass General][csb]     
-* [Clinical Data Animation Center, Mass General][cdac]   
-* [Research Laboratory for Electronics, MIT][rle]  
+I am affiliated, and/or collaborate with:
 * [ML4CVD, Broad Institute of MIT and Harvard][broad]  
+* [Center for Systems Biology, Mass General][csb]     
+* [Research Laboratory for Electronics, MIT][rle]  
+* [Clinical Data Animation Center, Mass General][cdac]   
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford][gc], [Shamim Nemati][sn], and [Amit Shah][as].
 

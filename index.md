@@ -21,6 +21,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at Mass General, MIT, and the Broad Institute working on deep learning for ECGs and ICU data.
+Postdoc at Mass General, MIT, and the Broad Institute working on machine learning for cardiovascular disease.
 
 Past: intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, and BS in bioengineering from UCLA.
