@@ -21,10 +21,12 @@ sudo vim /etc/default/grub
 > --verbose debug nomodeset
 
 # ZSH
-sudo apt install zsh  
+sudo apt install zsh
+zsh
+chsh -s $(which zsh)  
 
 # Oh-My-ZSH
-https://github.com/ohmyzsh/ohmyzsh#basic-installation  
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"  
 sudo reboot  
 sudo apt-get install fonts-powerline   
   
