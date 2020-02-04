@@ -20,6 +20,8 @@ sudo apt-get install vim git curl zsh screen tree
 sudo vim /etc/default/grub  
 > --verbose debug nomodeset
 
+# ZSH
+sudo apt install zsh  
 
 # Oh-My-ZSH
 https://github.com/ohmyzsh/ohmyzsh#basic-installation  
