@@ -4,18 +4,17 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoctoral research fellow at Mass General and MIT. My advisors are [Aaron Aguirre][aa], [Brandon Westover][bw], and [Collin Stultz][cs].
+I am a postdoctoral fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa], [Collin Stultz][cs], and [Steven Lubitz][sl].
 
 We develop deep learning approaches to:
-* Infer diagnoses and novel outcomes from 12-lead ECGs
-* Predict cardiogenic shock or arrests from ICU time series data
+* Infer diagnoses and outcomes from 12-lead ECGs
+* Phenotype decompensation using ICU time series data
 * Stratify outcomes after cardiac surgical procedures
 
-I am affiliated, and/or collaborate with:
-* [ML4CVD, Broad Institute of MIT and Harvard][broad]  
+I am affiliated with:
 * [Center for Systems Biology, Mass General][csb]     
+* [Data Sciences Platform, Broad Institute of MIT and Harvard][broad]  
 * [Research Laboratory for Electronics, MIT][rle]  
-* [Clinical Data Animation Center, Mass General][cdac]   
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford][gc], [Shamim Nemati][sn], and [Amit Shah][as].
 
@@ -24,6 +23,7 @@ Prior to my MD/PhD training, I studied Bioengineering at UCLA. I developed cellu
 My papers are available at [Google Scholar][scholar].
 
 [aa]: https://csb.mgh.harvard.edu/aaron_aguirre
+[sl]: https://connects.catalyst.harvard.edu/Profiles/display/Person/14873
 [bw]: https://scholar.google.com/citations?hl=en&user=helCG6IAAAAJ&view_op=list_works&sortby=pubdate
 [cs]: https://www.rle.mit.edu/cb/people/
 [gc]: http://gdclifford.info/people/gari
