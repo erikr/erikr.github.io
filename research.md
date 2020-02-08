@@ -12,7 +12,8 @@ We develop deep learning approaches to:
 * Stratify outcomes after cardiac surgical procedures
 
 I am affiliated with:
-* [Center for Systems Biology, Mass General][csb]     
+* [Cardiovascular Research Center, Mass General][cvrc]  
+* [Center for Systems Biology, Mass General][csb]  
 * [Data Sciences Platform, Broad Institute of MIT and Harvard][broad]  
 * [Research Laboratory for Electronics, MIT][rle]  
 
@@ -29,6 +30,7 @@ My papers are available at [Google Scholar][scholar].
 [gc]: http://gdclifford.info/people/gari
 [sn]: http://nematilab.info/people/shamim/index.html
 [as]: https://sph.emory.edu/faculty/profile/index.php?FID=amit-shah-5975
+[cvrc]: http://cvrc.massgeneral.org  
 [csb]: https://csb.mgh.harvard.edu 
 [rle]: https://www.rle.mit.edu
 [broad]: https://www.broadinstitute.org/data-sciences-platform
