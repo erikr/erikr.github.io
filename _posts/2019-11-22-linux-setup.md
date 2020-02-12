@@ -27,13 +27,11 @@ chsh -s $(which zsh)
 
 # Oh-My-ZSH
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"  
-sudo reboot  
-sudo apt-get install fonts-powerline   
   
 # Set up dotfiles and shell scripts
 mkdir repos && cd repos
 git clone https://github.com/erikr/dotfiles.git  
-cd dotfiles && sh create_symlinks.sh  
+cd dotfiles && sh generate_symlinks.sh  
 
 # Install TypeWritten ZSH theme
 git clone https://github.com/erikr/typewritten.git $ZSH_CUSTOM/themes/typewritten
