@@ -33,8 +33,12 @@ mkdir repos && cd repos
 git clone https://github.com/erikr/dotfiles.git  
 cd dotfiles && sh generate_symlinks.sh  
 
+# Set up Vundle
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
+vim +PluginInstall +qall   
+
 # Install TypeWritten ZSH theme
-git clone https://github.com/erikr/typewritten.git $ZSH_CUSTOM/themes/typewritten
+git clone git@github.com:reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
 ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme"  
 vim ~/repos/dotfiles/.zshrc  
 add ZSH_THEME="typewritten/typewritten"  
@@ -51,10 +55,6 @@ cd && rm -rf zsh-syntax-highlighting
 
 # Install JetBrains Mono font
 https://www.jetbrains.com/lp/mono/
-
-# Set up Vundle
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
-vim +PluginInstall +qall   
 
 
 # Set up SSH to mithril
