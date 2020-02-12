@@ -80,10 +80,15 @@ sh Anaconda3
 conda env create -f ~/repos/dotfiles/py37.yml
 
 > Set up Anaconda for multiple users by setting install location to:
-
 /opt/anaconda3
 
-source opt/anaconda3/bin/activate
+# Activate Conda for each user:
+source /opt/anaconda3/bin/activate
+
+# Set up py37.yml environment
+cd
+wget https://raw.githubusercontent.com/erikr/dotfiles/master/py37.yml
+conda env create -f py37.yml 
 
 # Install Dropbox
 https://www.dropbox.com/install-linux  
