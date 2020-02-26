@@ -4,7 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoctoral fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa], [Collin Stultz][cs], and [Steven Lubitz][sl].
+I am a postdoctoral research fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa], [Collin Stultz][cs], and [Steven Lubitz][sl].
 
 We develop deep learning approaches to:
 * Infer diagnoses and outcomes from 12-lead ECGs
