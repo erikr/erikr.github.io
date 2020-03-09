@@ -12,7 +12,7 @@ I have adopted the following Python style preferences, many of which are from wo
     Minimize use of global variables.
 
 2. Functions only called within a script are *private* functions, whereas scripts imported into other scripts are not private.  
-  
+
     Private functions start with an underscore, e.g. `def _calculate_auc(args):` and `auc = _calculate_auc(args)`.  
 
     Non-private functions (e.g. those defined in `utils.py` that are used elsewhere via `from utils import func`) do not need an underscore, e.g. `load_data(args)`.
