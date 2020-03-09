@@ -7,7 +7,8 @@ I have adopted the following Python style preferences, many of which are from wo
 
 1. Global variables are in upper-case, can be accessed anywhere within a script, and should be initialized at the top of the script.  
   
-    Good global variables are paths to file names, e.g. `FNAME_RESULTS = "./results"`.
+    Good global variables are paths to file names, e.g.  
+    `FNAME_RESULTS = "./results"`.
 
     Minimize use of global variables.
 
@@ -29,7 +30,7 @@ I have adopted the following Python style preferences, many of which are from wo
 
     %-strings are slower and less readable:  
     ```
-    `print("classifier: %s / train AUC %s " % (clf_name, auc_train))
+    print("classifier: %s / train AUC %s " % (clf_name, auc_train))
     ```
     
 4. Use double-quotes for strings, not single-quotes, e.g. `"this is good"` and `'this is bad'`. Other languages use double-quotes, and even within Python there are string formatting situations where double-quotes make life easier.  
@@ -37,7 +38,7 @@ I have adopted the following Python style preferences, many of which are from wo
 5. Use type hints instead of verbose variable / argument names or function documentation. You can indicate types and default values in function definitions:  
 
     ```
-    def string_squareed_op_time(name: str = "hello", op_time: float = 60.0) -> str:
-    new_val = str(op_time**2)
-    return f"patient {name}'s op time squared is: {new_val}"
+    def calc_op_time(name: str = "bob", op_time: float = 60.0) -> str:
+        new_val = str(op_time**2)
+        return f"patient {name}'s op time squared is: {new_val}"
     ```
