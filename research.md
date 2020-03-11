@@ -4,12 +4,11 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoctoral research fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa], [Collin Stultz][cs], and [Steven Lubitz][sl].
+I am a postdoctoral research fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa] and [Collin Stultz][cs].
 
 We develop deep learning approaches to:
 * Infer diagnoses and outcomes from 12-lead ECGs
-* Phenotype decompensation using ICU time series data
-* Stratify outcomes after cardiac surgical procedures
+* Phenotype decompensation from ICU wave form data
 
 I am affiliated with:
 * [Cardiovascular Research Center, Mass General][cvrc]  
