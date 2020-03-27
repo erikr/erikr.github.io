@@ -3,9 +3,9 @@ layout: post
 title: Setting up a Jupyter Lab remote server
 ---
 
-# Intro
+## Intro
 
-# 1. Password setup
+## 1. Password setup
 
 Log in to the remote server:
 
@@ -16,7 +16,7 @@ Verify password: ****
 [NotebookPasswordApp] Wrote hashed password to /Users/you/.jupyter/jupyter_notebook_config.json
 ```
 
-# 2. Add aliases to your `~/.aliases` (or equivalent)
+## 2. Add aliases to your `~/.aliases` (or equivalent)
 
 ```
 remote_user="your_name"
@@ -31,12 +31,12 @@ My `.aliases` dotfile is in my [dotfiles repo](https://github.com/erikr/dotfiles
 
 > Note: non-interactive SSH login does not source your dotfiles, so the path to your Jupyter installation is not set. To address, need to source `.zshrc` (or whichever dotfile you use to set your paths).
 
-# 3. Source your `~/.aliases` so you can use the aliases
+## 3. Source your `~/.aliases` so you can use the aliases
 ```
 source ~/.aliases
 ```
 
-# 4. Start JupyterLab on the remote server from your local machine
+## 4. Start JupyterLab on the remote server from your local machine
 
 ```
 $ remote_notebook_stop
@@ -50,7 +50,7 @@ $ [I 12:57:27.298 LabApp] JupyterLab extension loaded from /home/er498/anaconda3
 
 > Hit "return" after you see above output to return to your console.
 
-# 5. Forward port and open notebook from your local machine
+## 5. Forward port and open notebook from your local machine
 ```
 $ port_forward
 bind [127.0.0.1]:3745: Address already in use
@@ -66,7 +66,7 @@ The `port_forward` alias opens your default browser and navigates to the noteboo
 
 ![](/assets/jupyter-screenshot.png)
 
-# Other resources
+## Other resources
 https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/  
 https://towardsdatascience.com/running-jupyter-notebooks-on-remote-servers-603fbcc256b3  
 https://www.blopig.com/blog/2018/03/running-jupyter-notebook-on-a-remote-server-via-ssh  
