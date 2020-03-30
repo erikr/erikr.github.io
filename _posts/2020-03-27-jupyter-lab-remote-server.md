@@ -16,14 +16,17 @@ Verify password: ****
 [NotebookPasswordApp] Wrote hashed password to /Users/you/.jupyter/jupyter_notebook_config.json
 ```
 
-## 2. Add aliases to your `~/.aliases` (or equivalent)
+## 2. Add aliases to your `~/.aliases` (or equivalent dotfile)
 
 ```
 remote_user="your_name"
 remote_machine="server_address"
 PORT=1234
+
 alias remote_notebook_start='ssh -f ${remote_user}@${remote_machine} ". ~/.zshrc; jupyter-lab --no-browser --port=${PORT}"'
+
 alias remote_notebook_stop='ssh ${remote_user}@${remote_machine} "pkill -u ${remote_user} jupyter"'
+
 alias port_forward='ssh -N -f -L localhost:${PORT}:localhost:${PORT} ${remote_user}@${remote_machine}; open http://localhost:${PORT} &'
 ```
 
@@ -65,9 +68,3 @@ $ [I 12:58:28.234 LabApp] 302 GET / (127.0.0.1) 1.15ms     dotfiles -> master
 The `port_forward` alias opens your default browser and navigates to the notebook:
 
 ![](/assets/jupyter-screenshot.png)
-
-## Other resources
-https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/  
-https://towardsdatascience.com/running-jupyter-notebooks-on-remote-servers-603fbcc256b3  
-https://www.blopig.com/blog/2018/03/running-jupyter-notebook-on-a-remote-server-via-ssh  
-https://agent-jay.github.io/2018/03/jupyterserver/
