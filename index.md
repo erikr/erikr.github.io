@@ -21,6 +21,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Research Fellow at Mass General, MIT, and the Broad Institute working on machine learning for cardiovascular disease.
+Research Fellow and aspiring physician-scientist at Mass General, MIT, and the Broad Institute working on machine learning for cardiovascular disease.
 
 Past: intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, and BS in bioengineering from UCLA.
