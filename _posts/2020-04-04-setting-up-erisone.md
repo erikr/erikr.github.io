@@ -68,7 +68,7 @@ After a long installation process, activate the environment. Your prompt should 
 
 ```bash
 (base) -bash-4.1$ conda activate py37
-(py37) -bash-4.1$
+(py37) -bash-4.1$ 
 ```
 
 You can delete `py37.yml`.
@@ -87,7 +87,7 @@ zsh 4.3.11 (x86_64-redhat-linux-gnu)
 
 This older version lacks some features we want. The current Zsh version is 5.8. Unfortunately since users lack root access on ERISOne, zsh cannot be installed via `yum`.
 
-> Note: you may need to first install ncurses from source.
+> Note: you may need to first install `ncurses` from source.
 
 This means we have to install Zsh from source:
 
@@ -111,7 +111,7 @@ export SHELL=`which zsh`
 [ -f "$SHELL" ] && exec "$SHELL" -l
 ```
 
-Call `source ~.bash_profile` to make the changes take effect. Now, `zsh` will be activated each time you log in to ERISOne.
+`source ~.bash_profile` to make the changes take effect. Now `zsh` will be activated each time you log in to ERISOne.
 
 The next time you log in, you will be prompted to set up the `zsh` shell. The prompt should look different:
 
@@ -154,7 +154,7 @@ git version 2.17.0
 
 ## Set up `.zshrc` and other dotfiles
 
-Here is my [`.zshrc`](https://github.com/erikr/dotfiles/blob/master/.zshrc) for reference. I clone my entire dotfiles repo and run a script to symlink all of my dotfiles.
+Here is my [`.zshrc`](https://github.com/erikr/dotfiles/blob/master/.zshrc) for reference. When I set up a new machine, I clone my [dotfiles repo](https://github.com/erikr/dotfiles) and run a script to symlink my dotfiles:
 
 ```zsh
 % mkdir repos
@@ -186,7 +186,7 @@ Set up oh-my-zsh plugins. I like `zsh-syntax-highlighting` and `zsh-autosuggesti
 % git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
-I use [`vundle`](https://github.com/VundleVim/Vundle.vim) to manage my vim plugins. Install it, and the other plugins I've specified in my `.zshrc`:
+I use [`vundle`](https://github.com/VundleVim/Vundle.vim) to manage my vim plugins. Install it, then install the vim plugins you've specified in your `.vimrc`:
 
 ```zsh
 % git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
