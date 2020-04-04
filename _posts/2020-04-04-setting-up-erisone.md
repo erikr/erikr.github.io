@@ -26,7 +26,7 @@ To set up our desired Python environment, a user must therefore install their ow
 Download the [latest Linux installer for Anaconda with Python 3.x](https://www.anaconda.com/distribution/#download-section)
 
 ```bash
-$ cd && wget url_from_above
+$ cd && wget https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.sh
 $ bash installer_name
 ```
 
