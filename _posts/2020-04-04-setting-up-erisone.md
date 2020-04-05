@@ -213,3 +213,48 @@ You should not run computational jobs on the login nodes (`eris1n2` or `eris1n3`
 This requests an interactive session with 16 GB of RAM and 8 CPU cores, and launches Zsh.
 
 Read more about compute nodes on ERISOne [here](https://rc.partners.org/kb/article/2680). Note their default command calls bash, not Zsh.
+
+
+## Mount ERISOne as a network drive in Linux
+First, create the directory on your local machine in which to mount your ERISOne home directory:
+
+```
+$ USER="ab123"
+$ MOUNTDIR="/mnt/$user"
+$ sudo mdkir $MOUNTDIR
+```
+
+This creates an empty directory in `/mnt/ab123`.
+
+> If you use `zsh` you may need to do `sudo \mkdir $MOUNTDIR`.
+
+
+You have two options to mount:
+
+1. `SSHFS`
+```
+sudo sshfs -o allow_other $USER@erisone.partners.org:/PHShome/$USER $MOUNTDIR
+```
+
+2. `cifs-util`
+
+```
+sudo mount -t cifs -o username=$USER,domain=partners,vers=1.0,uid=1000 //eris1fs2.partners.org/$USER /$MOUNTDIR
+```
+
+You will be prompted to enter your password.
+
+If successful, you won't get any errors. You can then navigate to the local mount location and access your home directory on ERISOne:
+
+```
+$ cd $MOUNTDIR
+$ pwd
+/media/erisone_er498
+$ erik@mithril > ls -l
+total 1024
+drwxrwx---+ 5 erik 10064  0 Jan 12 01:07 local
+drwxrwxr-x+ 3 erik 10064  0 Nov  3  2017 lsf
+drwxrwx---+ 2 erik 10064  0 Jul 29 09:00 perl5
+drwxrwx---+ 4 erik 10064  0 Jan 12 10:10 repos
+lrwxrwxrwx  1 erik root  16 Jul 26  2019 scratch -> /scratch/e/er498
+```
