@@ -192,10 +192,10 @@ A battle for another day.
 Users are told to request a compute node instead of running jobs on the login nodes (`eris1n2` or `eris1n3`):
 
 ```zsh
-bsub -XF -R 'rusage[mem=16000]' -n 10 -Is /bin/bash
+bsub -XF -R 'rusage[mem=10000]' -n 8 -Is /bin/bash
 ```
 
-This requests an interactive bash session with 16 GB RAM and 10 CPU cores. However, if you use my dotfiles, `.bash_profile` will launch zsh.
+This requests an interactive bash session with 10 GB RAM and 8 CPU cores. However, if you use my dotfiles, `.bash_profile` will launch zsh.
 
 Read more about compute nodes on ERISOne [here](https://rc.partners.org/kb/article/2680).
 
