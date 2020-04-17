@@ -113,6 +113,9 @@ Set up oh-my-zsh plugin `zsh-autosuggestions`:
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
+## Vim stuff
+
+
 I use [`vundle`](https://github.com/VundleVim/Vundle.vim) to manage my vim plugins:
 
 ```zsh
@@ -122,6 +125,20 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 Install the plugins specified in your `.vimrc` file via:
 ```zsh
 vim +PluginInstall +qall
+```
+
+Install the Vim solarized colors:
+```
+git clone https://github.com/altercation/vim-colors-solarized.git
+cd vim-colors-solarized/colors
+mv solarized.vim ~/.vim/colors/
+cd .. && rm -rf vim-colors-solarized
+```
+
+Fix the Black plugin:
+```
+cd ~/.vim/bundle/black/
+git checkout 19.10b0
 ```
 
 If you log out and back in, your shell should look much improved:
@@ -186,6 +203,11 @@ After a long installation process, activate the environment. Your prompt should 
 
 A battle for another day.
 
+## Install tmux plugin manager (tpm)
+
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
 
 ## Interactive session on compute node
 
