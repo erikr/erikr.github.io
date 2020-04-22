@@ -13,7 +13,7 @@ We develop deep learning approaches to:
 I am affiliated with:
 * [Cardiovascular Research Center, Mass General][cvrc]  
 * [Center for Systems Biology, Mass General][csb]  
-* [Data Sciences Platform, Broad Institute of MIT and Harvard][broad]  
+* [ML4CVD, Broad Institute of MIT and Harvard][broad]  
 * [Research Laboratory for Electronics, MIT][rle]  
 
 I did my PhD at Georgia Tech. I worked on signal processing and machine learning applied to time series data from wearable devices. My advisors were [Gari Clifford][gc], [Shamim Nemati][sn], and [Amit Shah][as].
@@ -32,6 +32,6 @@ My papers are available at [Google Scholar][scholar].
 [cvrc]: http://cvrc.massgeneral.org  
 [csb]: https://csb.mgh.harvard.edu 
 [rle]: https://www.rle.mit.edu
-[broad]: https://www.broadinstitute.org/data-sciences-platform
+[broad]: https://www.broadinstitute.org/ml4cvd 
 [cdac]: http://cdac.mgh.harvard.edu
 [scholar]: https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate
