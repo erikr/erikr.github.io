@@ -10,30 +10,29 @@ Anaconda is installed in the administrator account, `aguirrelab`. You should acc
 Activate:
 
 ```zsh
-> source /home/aguirrelab/anaconda3/bin/activate
-(base) >
+source /home/aguirrelab/anaconda3/bin/activate
 ```
 
 Your console prompt should now be prepended by `(base)`.
 
-Next, activate the environment `py37`, which contains Python 3.7.7 (Tensorflow 2 does not yet support Python 3.8) and a variety of popular packages such as Tensorflow, Numpy, Pandas, h5py, etc.:
+Create an environment from your `environment.yml`. My usual environment is in my `dotfiles` repo. It is called `py37` and it contains Python 3.7.7 (Tensorflow 2 does not yet support Python 3.8) and a variety of popular packages such as Tensorflow, Numpy, Pandas, h5py, etc. Your repo may have its own `environment.yml`, or you can [create an environment with commands](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
 
 ```zsh
-(base) > conda activate py37
-(py37) >
+conda env create -f environment.yml
+conda activate py37
 ```
 
-Your prompt should now be prepended by `(py37)`.
+Your prompt should now be prepended by `(py37)` (or whatever your environment name is).
 
-Update your shell dotfiles so when you launch a new shell it knows the paths to conda:
+If you use my `.zshrc`, you are done!
 
-> Note: if you use my `.zshrc`, skip this step.
+If not, update your `.zshrc` so when you launch a new shell it knows the paths to conda:
 
 ```zsh
 (py37) > conda init zsh
 ```
 
-Lastly, append to the end of your `~/.zshrc` the following to always activate the `py37`environment when you log in:
+Append to the end of your `~/.zshrc` the following to always activate the `py37`environment when you log in:
 
 ```
 CONDA_CUSTOM_ENV="py37"
