@@ -8,7 +8,7 @@ title: Linux setup guide
 sudo apt-get install vim git curl zsh tmux tree
 ```
 
-## Set up shell, dotfiles, theme
+## Shell, dotfiles, zsh theme
 
 ZSH
 ```
@@ -23,31 +23,69 @@ git clone https://github.com/erikr/dotfiles.git
 cd dotfiles && sh generate_symlinks.sh
 ```
 
-Vundle
+zsh-autosuggestions
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
-vim +PluginInstall +qall
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
 TypeWritten ZSH theme
 ```
 git clone git@github.com:reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
-ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme"  
+ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme" 
 ```
 
 ZSH syntax highlighting
 ```
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting  
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 rm -rf zsh-syntax-highlighting
 ```
 
+
+## Vim plugins
+
+Vundle
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
+```
+
+Solarized dark theme
+```
+git clone https://github.com/altercation/vim-colors-solarized.git
+cd vim-colors-solarized/colors
+mkdir ~/.vim/colors
+mv solarized.vim ~/.vim/colors/
+cd && rm -rf vim-colors-solarized
+```
+
+Install
+```
+vim +PluginInstall +qall
+```
+
 ## Anaconda and environments
+
+Download and install
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
 sh Anaconda3
 source ~/anaconda3/bin/activate
 ```
-No need to run `conda init zsh`. My `.zshrc` sets paths.
+No need to run `conda init zsh` because my `.zshrc` sets paths.
+
+For a multi-user installation
+```
+sudo group add aguirrelab
+sudo chgrp -R aguirrelab /home/aguirrelab/anaconda3
+sudo chmod 777 -R /home/aguirrelab/anaconda3
+```
+
+Add users to this group:
+```
+sudo adduser username aguirrelab
+```
+
+Users should set up Anaconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-set-up-anaconda-aguirrelab %}).
+
 
 ## SSH
 Install some stuff
@@ -101,4 +139,3 @@ sudo apt-get install cifs-utils
 sudo \mkdir /media/mad3  
 ```
 Mount scripts are at `~/dotfiles/mount-mad3.sh`
-
