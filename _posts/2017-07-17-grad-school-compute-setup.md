@@ -1,8 +1,10 @@
 ---
 layout: post
-title: My computing setup
+title: My setup in grad school
 tags: research
 ---
+
+This was my setup in grad school. Note all actual compute was performed on a much more powerful workstation.
 
 ## Hardware
 
