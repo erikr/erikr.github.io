@@ -43,23 +43,15 @@ rm -rf zsh-syntax-highlighting
 
 ## Vim plugins
 
-Vundle
+[vim-plug](https://github.com/junegunn/vim-plug/wiki/tutorial)
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim  
-```
-
-Solarized dark theme
-```
-git clone https://github.com/altercation/vim-colors-solarized.git
-cd vim-colors-solarized/colors
-mkdir ~/.vim/colors
-mv solarized.vim ~/.vim/colors/
-cd && rm -rf vim-colors-solarized
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-Install
+then start vim and call `:PlugInstall` to install the plugins specified in `.vimrc`:
 ```
-vim +PluginInstall +qall
+vim -c PlugInstall
 ```
 
 ## Anaconda and environments
