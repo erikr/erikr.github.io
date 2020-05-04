@@ -40,6 +40,11 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 rm -rf zsh-syntax-highlighting
 ```
 
+## Powerline fonts
+```
+sudo apt-get install fonts-powerline
+```
+
 
 ## Vim plugins
 
