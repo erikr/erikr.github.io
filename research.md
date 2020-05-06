@@ -4,7 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoctoral research fellow at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa], [Brandon Westover][bw], and [Collin Stultz][cs].
+I am a postdoc at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa], [Brandon Westover][bw], and [Collin Stultz][cs].
 
 We develop deep learning approaches to:
 * Predict outcomes from 12-lead ECGs
