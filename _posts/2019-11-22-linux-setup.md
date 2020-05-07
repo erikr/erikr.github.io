@@ -14,7 +14,7 @@ ZSH
 ```
 zsh
 chsh -s $(which zsh)
-sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 Dotfiles and shell scripts
