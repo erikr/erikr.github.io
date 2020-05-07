@@ -90,6 +90,7 @@ Install some stuff
 sudo apt install openssh-server
 sudo systemctl status ssh
 sudo ufw allow ssh
+sudo systemctl enable ssh
 ```
 
 From your local machine, add your public key to the remote machine's authorized keys:
