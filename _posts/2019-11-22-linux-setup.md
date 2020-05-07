@@ -63,7 +63,7 @@ vim -c PlugInstall
 
 Download and install
 ```
-wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
+wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
 sh Anaconda3
 source ~/anaconda3/bin/activate
 ```
@@ -71,7 +71,7 @@ No need to run `conda init zsh` because my `.zshrc` sets paths.
 
 For a multi-user installation
 ```
-sudo group add aguirrelab
+sudo groupadd aguirrelab
 sudo chgrp -R aguirrelab /home/aguirrelab/anaconda3
 sudo chmod 777 -R /home/aguirrelab/anaconda3
 ```
