@@ -45,7 +45,6 @@ rm -rf zsh-syntax-highlighting
 sudo apt-get install fonts-powerline
 ```
 
-
 ## Vim plugins
 
 [vim-plug](https://github.com/junegunn/vim-plug/wiki/tutorial)
@@ -64,10 +63,16 @@ vim -c PlugInstall
 Download and install
 ```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
-sh miniconda3
+sh Miniconda3
 source ~/miniconda3/bin/activate
 ```
+
 No need to run `conda init zsh` because my `.zshrc` sets paths.
+
+Create environment:
+```
+conda env create -f ~/dotfiles/environment.yml
+```
 
 For a multi-user installation
 ```
