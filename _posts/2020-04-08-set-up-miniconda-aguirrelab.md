@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Set up Anaconda on Aguirre Lab machine 
+title: Set up Miniconda on Aguirre Lab machine 
 ---
 
-Here are instructions for a user of an Aguirre Lab machine to set up Anaconda.
+Here are instructions for a user of an Aguirre Lab machine to set up Miniconda.
 
-Anaconda is installed in the administrator account, `aguirrelab`. You should access and use this installation, and can modify it and install packages.
+Miniconda is installed in the administrator account, `aguirrelab`. You should access and use this installation, and can modify it and install packages.
 
 Activate:
 
 ```zsh
-$ source /home/aguirrelab/anaconda3/bin/activate
+$ source /home/aguirrelab/miniconda3/bin/activate
 ```
 
 Your console prompt should now be prepended by `(base)`.
@@ -41,11 +41,11 @@ conda deactivate; conda activate $CONDA_CUSTOM_ENV
 
 The deactivation following by reactivation seems redundant but it is required to avoid problems with `tmux`.
 
-Check to ensure your path has the Anaconda environment version of Python, and that the version is correct:
+Check to ensure your path has the miniconda environment version of Python, and that the version is correct:
 
 ```zsh
 $ which python
-/home/aguirrelab/anaconda3/envs/py37/bin/python
+/home/aguirrelab/miniconda3/envs/py37/bin/python
   
 $ python --version
 Python 3.7.7

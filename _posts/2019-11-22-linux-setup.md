@@ -59,21 +59,21 @@ then start vim and call `:PlugInstall` to install the plugins specified in `.vim
 vim -c PlugInstall
 ```
 
-## Anaconda and environments
+## Miniconda and environments
 
 Download and install
 ```
-wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
-sh Anaconda3
-source ~/anaconda3/bin/activate
+wget 
+sh miniconda3
+source ~/miniconda3/bin/activate
 ```
 No need to run `conda init zsh` because my `.zshrc` sets paths.
 
 For a multi-user installation
 ```
 sudo groupadd aguirrelab
-sudo chgrp -R aguirrelab /home/aguirrelab/anaconda3
-sudo chmod 777 -R /home/aguirrelab/anaconda3
+sudo chgrp -R aguirrelab /home/aguirrelab/miniconda3
+sudo chmod 777 -R /home/aguirrelab/miniconda3
 ```
 
 Add users to this group:
@@ -81,7 +81,7 @@ Add users to this group:
 sudo adduser username aguirrelab
 ```
 
-Users should set up Anaconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-set-up-anaconda-aguirrelab %}).
+Users should set up Miniconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-set-up-miniconda-aguirrelab %}).
 
 
 ## SSH
