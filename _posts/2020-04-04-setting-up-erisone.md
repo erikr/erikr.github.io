@@ -213,16 +213,24 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 Users are told to request a compute node instead of running jobs on the login nodes (`eris1n2` or `eris1n3`):
 
+`mem` specifies Mb of memory, and `-n` specifies number of cores.
+
 ```zsh
-bsub -XF -R 'rusage[mem=10000]' -n 8 -Is /bin/bash
+bsub -Is -XF -R 'rusage[mem=16000]' -n 8 /PHShome/$USERNAME/local/bin/zsh
 ```
 
-This requests an interactive bash session with 10 GB RAM and 8 CPU cores. However, if you use my dotfiles, `.bash_profile` will launch zsh.
+This requests an interactive bash session with 16 GB RAM and 8 CPU cores.
+
+To get more than 9 cores in an interactive session you need to use the `interact-big` queue:
+
+```zsh
+bsub -q interact-big -Is -XF -R 'rusage[mem=16000]' -n 9 -Is /PHShome/$USERNAME/local/bin/zsh
+```
 
 Read more about compute nodes on ERISOne [here](https://rc.partners.org/kb/article/2680).
 
 
-## Mount ERISOne as a network drive in Linux
+## Mount ERISOne as a network drive
 First, create the directory on your local machine in which to mount your ERISOne home directory:
 
 ```
