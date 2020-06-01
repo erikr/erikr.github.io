@@ -5,13 +5,13 @@ title: Setting up ERISOne
 
 ERISOne is a "computing cluster with a job scheduling system for batch jobs, remote desktops for graphical applications and GPUs running on a Linux OS" maintained by Partners Healthcare.
 
-Ideally, users do not need to purchase and maintain workstations. Rather, they use inexpensive machines (i.e. laptops) to connect to a cluster. Centralizing workflow on a cluster behind the Partners firewall is also ideal for working with PHI.
+Ideally, users do not need to purchase and maintain compute workstations. Rather, we use Macbooks to connect to a cluster behind the Partners firewall, This is ideal for working on a shared data repository, especially since we analyze PHI.
 
-Unfortunately, setting up a data science stack on ERISOne is challenging due to old software, lack of root access, and complexity in obtaining needed resources. There is a vague limit on cores one can request in a compute node, and we still do not know how to use GPUs.
+Unfortunately, setting up a modern data science stack on ERISOne is challenging. The default software packages are outdated, and obtaining desired memory, GPU, and CPU resources on a compute node adds friction to workflow.
 
-This guide walks you through setup of 1) Anaconda, Python, and Tensorflow, 2) zsh, and 3) tmux. It assumes you requested and have an ERISOne account, and connect via SSH ([see RISC guide here](https://rc.partners.org/kb/article/2814)).
+This guide walks you through setup of Zsh, git, . It assumes you requested and have an ERISOne account, and connect via SSH ([see RISC guide here](https://rc.partners.org/kb/article/2814)).
 
-> Note: I recommend you follow the steps in order. For example, you should install git before oh-my-zsh because the commands for oh-my-zsh assume you have a version of git that is newer than what is available on ERISOne.
+> Note: I recommend you follow the steps in order. For example, you should install git before oh-my-zsh because the commands for oh-my-zsh require a recent version of git.
 
 ## Install Zsh shell
 
@@ -54,116 +54,34 @@ Delete Zsh source files from your home directory:
 [ab123@eris1n3]~% rm -rf ~/zsh*
 ```
 
+If you log out and back in, your shell should look much improved:
+![](/assets/zsh_erisone.png)
 
-## Load newer version of git via `module`
+## Load `git`, `tmux`, & `vim` via `module`
 
 ERISOne has git 1.7.1 by default, which was released in 2010. Subsequent installation of oh-my-zsh involves a shell script that invokes `-c` in `git clone`, which was introduced in git 1.7.7. Thus, we must upgrade git.
 
 You can install git from source, but there are many other dependencies, so doing this would take a lot of effort.
 
-Instead we can get a sufficiently recent (albeit not most current) version of git using `module`:
+Instead we can get a sufficiently recent (albeit not most current) version of git using the `load` command of `module`:
 
 ```zsh
 module load git/2.17.0
 ```
 
-> Note: check if a more recent version is available via `module avail git`.
+Check if a more recent version of `MODULE_NAME` is available via `module avail MODULE_NAME`.
 
-
-## Install oh-my-zsh
-
-> Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout... "Oh My ZSH!" [https://ohmyz.sh](https://ohmyz.sh)
-
-```zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
-## Set up `.zshrc` and other dotfiles
-
-Here is my [`.zshrc`](https://github.com/erikr/dotfiles/blob/master/.zshrc) for reference. When I set up a new machine, I clone my [dotfiles repo](https://github.com/erikr/dotfiles) and run a script to symlink my dotfiles:
-
-```zsh
-mkdir repos
-cd repos
-git clone git@github.com:erikr/dotfiles.git
-cd dotfiles
-sh generate_symlinks.sh
-```
-
-I use the [typewritten](https://github.com/reobin/typewritten) zsh theme. To set up, clone the repository into your custom oh-my-zsh themes directory:
-
-```zsh
-git clone https://github.com/reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
-```
-
-Symlink `typewritten.zsh-theme` to your oh-my-zsh custom themes directory:
-
-```zsh
-ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme"
-```
-
-Set up oh-my-zsh plugin `zsh-syntax-highlighting`:
-
-```zsh
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting```
-```
-
-Set up oh-my-zsh plugin `zsh-autosuggestions`:
-```
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-```
-
-## Vim stuff
-
-
-I use [`vundle`](https://github.com/VundleVim/Vundle.vim) to manage my vim plugins:
-
-```zsh
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-```
-
-Install the plugins specified in your `.vimrc` file via:
-```zsh
-vim +PluginInstall +qall
-```
-
-Install the Vim solarized colors:
-```
-git clone https://github.com/altercation/vim-colors-solarized.git
-cd vim-colors-solarized/colors
-mv solarized.vim ~/.vim/colors/
-cd .. && rm -rf vim-colors-solarized
-```
-
-Fix the Black plugin:
-```
-cd ~/.vim/bundle/black/
-git checkout 19.10b0
-```
-
-If you log out and back in, your shell should look much improved:
-![](/assets/zsh_erisone.png)
+My `.zshrc` loads newer versions of `git`, `tmux`, and `vim`.
 
 ## Install Anaconda
 
-The newest version of Anaconda on ERISOne (via `module`) is `4.4.0-p3`, whereas the current Linux version is `4.8.2`. Ideally, one would use the existing Anaconda module on ERISOne and set up a new environment with the desired Python version and packages. Unfortunately, there is an error with older versions of Conda that prevents users from even creating new environments:
+The newest version of Anaconda on ERISOne (via `module`) is `4.4.0-p3`, whereas the current Linux version is `4.8.3`. Ideally, one would use the existing Anaconda module on ERISOne and set up a new environment with the desired Python version and packages. Unfortunately, there is an error with older versions of Conda that prevents users from even creating new environments:
 
 ```
 RemoveError: 'setuptools' is a dependency of conda and cannot be removed from conda's operating environment.
 ```
 
-To set up the desired Python environment, install Anaconda:
-
-Download the [latest Linux installer for Anaconda with Python 3.x](https://www.anaconda.com/distribution/#download-section):
-
-```zsh
-wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
-bash Anaconda3-2020.02-Linux-x86_64.sh
-```
-
-When you get to the license terms, hit `q` to jump all the way to the end where you can type `yes` to accept.
-
-Install Anaconda in the default location, `/PHShome/ab123/anaconda3`, where `ab123` is your Partners username and ERISOne home directory name.
+To set up the desired Python environment, install Miniconda following the instructions in my [Linux setup post](../linux-setup). 
 
 Like most Linux machines, ERISOne uses the bash shell by default. Therefore Conda will modify `/.bashrc` with the appropriate path for you to call `conda`. However, only `/.bash_profile` is called when you log in to ERISOne.
 
@@ -179,35 +97,6 @@ After you install Anaconda, log out, and log back in ERISOne, your command line 
 (base) -bash-4.1$ 
 ```
 Don't forget to delete the Anaconda installer.
-
-## Set up Conda environment
-
-You can set up your environment from a `environment.yml` file. Mine is in my `dotfiles` repo which I clone to my home directory.
-```zsh
-conda env create -f ~/dotfiles/environment.yml
-```
-
-
-> Note: I use Python 3.7 because Tensorflow 2 does not yet support Python 3.8.
-
-You can also create an environment using commands instead of an `environment.yml`. Read the [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to learn more.
-
-After a long installation process, activate the environment. Your prompt should change to reflect the activated environment name:
-
-```zsh
-(base) -bash-4.1$ conda activate py37
-(py37) -bash-4.1$ 
-```
-
-## tmux
-
-A battle for another day.
-
-## Install tmux plugin manager (tpm)
-
-```
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-```
 
 ## Interactive session on compute node
 
