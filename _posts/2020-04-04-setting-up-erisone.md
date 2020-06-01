@@ -219,12 +219,12 @@ Users are told to request a compute node instead of running jobs on the login no
 bsub -Is -XF -R 'rusage[mem=8000]' -n 4 /PHShome/$USERNAME/local/bin/zsh
 ```
 
-This requests an interactive bash session with 8 GB RAM and 4 CPU cores.
+This requests an interactive session with 8 GB RAM and 4 CPU cores.
 
 To get more cores in an interactive session, use the `interact-big` queue:
 
 ```zsh
-bsub -q interact-big -Is -XF -R 'rusage[mem=16000]' -n 10 -Is /PHShome/$USERNAME/local/bin/zsh
+bsub -q interact-big -Is -XF -R 'rusage[mem=16000]' -n 10 /PHShome/$USERNAME/local/bin/zsh
 ```
 
 Read more about compute nodes on ERISOne [here](https://rc.partners.org/kb/article/2680).
