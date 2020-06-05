@@ -100,20 +100,11 @@ Don't forget to delete the Anaconda installer.
 
 ## Interactive session on compute node
 
-Users are told to request a compute node instead of running jobs on the login nodes (`eris1n2` or `eris1n3`):
+Request a compute node on `interact-big` instead of running jobs on the login nodes (`eris1n2` or `eris1n3`):
 
-`mem` specifies Mb of memory, and `-n` specifies number of cores.
-
-```zsh
-bsub -Is -XF -R 'rusage[mem=8000]' -n 4 /PHShome/$USERNAME/local/bin/zsh
-```
-
-This requests an interactive session with 8 GB RAM and 4 CPU cores.
-
-To get more cores in an interactive session, use the `interact-big` queue:
 
 ```zsh
-bsub -q interact-big -Is -XF -R 'rusage[mem=16000]' -n 10 /PHShome/$USERNAME/local/bin/zsh
+bsub -q interact-big -Is -XF -R -n 4 /PHShome/$USERNAME/local/bin/zsh
 ```
 
 Read more about compute nodes on ERISOne [here](https://rc.partners.org/kb/article/2680).
