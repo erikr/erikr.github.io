@@ -104,7 +104,7 @@ Request a compute node on `interact-big` instead of running jobs on the login no
 
 
 ```zsh
-bsub -q interact-big -Is -XF -R -n 4 /PHShome/$USERNAME/local/bin/zsh
+bsub -q interact-big -Is -XF -n 4 /PHShome/$USERNAME/local/bin/zsh
 ```
 
 Read more about compute nodes on ERISOne [here](https://rc.partners.org/kb/article/2680).
