@@ -4,7 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-I am a postdoc at Mass General, MIT, and the Broad Institute. My advisors are [Aaron Aguirre][aa] and [Collin Stultz][cs].
+I am a postdoc at Mass General and MIT. My advisors are [Aaron Aguirre][aa] and [Collin Stultz][cs].
 
 We develop computational approaches to stratify risk, predict outcomes, and discover phenotypes from electronic medical record data and complex physiological signals.
 
