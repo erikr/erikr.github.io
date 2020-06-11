@@ -6,7 +6,7 @@ title: "Research"
 
 I am a postdoc at Mass General and MIT. My advisors are [Aaron Aguirre][aa] and [Collin Stultz][cs].
 
-We develop computational approaches to stratify risk, predict outcomes, and discover phenotypes from electronic medical record data and complex physiological signals.
+We develop computational approaches to stratify risk, predict outcomes, and discover phenotypes from electronic medical record data and complex physiological signals such as 12-lead ECGs.
 
 I am affiliated with:
 * [Cardiovascular Research Center, Mass General][cvrc]  
