@@ -108,6 +108,14 @@ From your local machine, add your public key to the remote machine's authorized 
 cat ~/.ssh/id_rsa.pub | ssh b@B 'cat >> ~/.ssh/authorized_keys'
 ```
 
+## `gpg`
+```
+sudo apt install gnupg
+gpg --full-generate-key
+gpg --list-secret-keys --keyid-format LONG
+gpg --armor --export KEY_ID_HERE
+```
+
 ## For local use
 
 Set up Solarized Dark for the terminal
