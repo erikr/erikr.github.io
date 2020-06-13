@@ -40,6 +40,11 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 rm -rf zsh-syntax-highlighting
 ```
 
+Tmux plugin manager (`tpm`)
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
 ## Powerline fonts
 ```
 sudo apt-get install fonts-powerline
