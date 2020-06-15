@@ -15,38 +15,29 @@ $ source /home/aguirrelab/miniconda3/bin/activate
 
 Your console prompt should now be prepended by `(base)`.
 
-Create an environment from your `environment.yml`. My usual environment is in my `dotfiles` repo. It is called `py37` and it contains Python 3.7.7 (Tensorflow 2 does not yet support Python 3.8) and a variety of popular packages such as Tensorflow, Numpy, Pandas, h5py, etc. Your repo may have its own `environment.yml`, or you can [create an environment with commands](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
+Create an environment from your `environment.yml`. My usual environment is in my `dotfiles` repo. It is called `er` and it contains Python 3.8, Tensorflow, Numpy, Pandas, h5py, etc. Your repo may have its own `environment.yml`, or you can [create an environment with commands](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
 
 ```zsh
 $ conda env create -f environment.yml
-$ conda activate py37
+$ conda activate er
 ```
 
-Your prompt should now be prepended by `(py37)` (or whatever your environment name is).
+Your prompt should now be prepended by `(er)` (or whatever your environment name is).
 
-If you use my `.zshrc`, you are done!
+If you use my `.zshrc`, every time a new shell is opened, the script `conda.sh` is called, and if you are in a Tmux session, conda is re-activated.
 
-If not, update your `.zshrc` so when you launch a new shell it knows the paths to conda:
+If you do not use my `.zshrc` or something similar, update your `.zshrc` so new shells know the path to Conda:
 
 ```zsh
 $ conda init zsh
 ```
 
-Append to the end of your `~/.zshrc` the following to always activate the `py37`environment when you log in:
-
-```
-CONDA_CUSTOM_ENV="py37"
-conda deactivate; conda activate $CONDA_CUSTOM_ENV
-```
-
-The deactivation following by reactivation seems redundant but it is required to avoid problems with `tmux`.
-
 Check to ensure your path has the miniconda environment version of Python, and that the version is correct:
 
 ```zsh
 $ which python
-/home/aguirrelab/miniconda3/envs/py37/bin/python
+/home/aguirrelab/miniconda3/envs/er/bin/python
   
 $ python --version
-Python 3.7.7
+Python 3.8.3
 ```
