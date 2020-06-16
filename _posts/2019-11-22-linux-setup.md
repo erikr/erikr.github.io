@@ -63,6 +63,13 @@ then start vim and call `:PlugInstall` to install the plugins specified in `.vim
 vim -c PlugInstall
 ```
 
+Then [fix `Black`](https://github.com/psf/black/issues/1379#issuecomment-623731659):
+```
+cd ~/.vim
+black/bin/pip install --upgrade pip
+black/bin/pip install --upgrade git+https://github.com/psf/black.git
+```
+
 ## Miniconda and environments
 
 Download and install
