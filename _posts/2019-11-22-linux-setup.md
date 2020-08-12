@@ -58,6 +58,14 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
+Solarized colors:
+```
+git clone git@github.com:altercation/vim-colors-solarized.git
+cd vim-colors-solarized/colors
+mv solarized.vim ~/.vim/colors/
+cd && rm -rf vim-colors-solarized
+```
+
 then start vim and call `:PlugInstall` to install the plugins specified in `.vimrc`:
 ```
 vim -c PlugInstall
