@@ -28,11 +28,7 @@ zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
-TypeWritten ZSH theme
-```
-git clone git@github.com:reobin/typewritten.git $ZSH_CUSTOM/themes/typewritten
-ln -s "$ZSH_CUSTOM/themes/typewritten/typewritten.zsh-theme" "$ZSH_CUSTOM/themes/typewritten.zsh-theme" 
-```
+[TypeWritten ZSH theme](https://github.com/reobin/typewritten#manual)
 
 ZSH syntax highlighting
 ```
