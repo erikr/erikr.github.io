@@ -21,5 +21,5 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 
 Postdoc and aspiring physician-scientist at Mass General and MIT working on machine learning for cardiovascular disease.
- 
+
 Past: intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, BS in bioengineering from UCLA.
