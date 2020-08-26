@@ -109,7 +109,7 @@ Add users to this group:
 sudo adduser username aguirrelab
 ```
 
-Users should set up Miniconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-set-up-miniconda-aguirrelab %}).
+Users should set up Miniconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-miniconda-aguirrelab %}).
 
 
 ## SSH

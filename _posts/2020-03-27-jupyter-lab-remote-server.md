@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up a Jupyter Lab remote server
+title: Set up Jupyter notebook on a remote server
 ---
 
 ## Intro
