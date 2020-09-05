@@ -35,15 +35,15 @@ Your prompt should now be prepended by the environment name; if you use my `envi
 Update your `zsh` shell config `.zshrc` so new shell instances have the path to Conda:
 
 ```zsh
-$ conda init zsh
+(er) $ conda init zsh
 ```
 
 Check to ensure your path has the miniconda environment version of Python, and that the version is correct:
 
 ```zsh
-$ which python
+(er) $ which python
 /home/aguirrelab/miniconda3/envs/er/bin/python
   
-$ python --version
+(er) $ python --version
 Python 3.8.5
 ```
