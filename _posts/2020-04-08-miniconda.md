@@ -5,11 +5,13 @@ title: Set up Miniconda on Aguirre or Stultz Lab machine
 
 Here are instructions for a user of an Aguirre or Stultz Lab machine to set up Miniconda.
 
-Miniconda is installed in the administrator account. You should access and use this installation, and can modify it and install packages.
+Please *do not* install Miniconda or Anaconda in your home directory. Doing so is redundant, consumes unncessary storage, and prevents other users from accessing your environments (which we often share, e.g. multiple collaborators using the same Conda environment and project repo).
 
-For Aguirre Lab, this account name is `aguirrelab`. For Stultz Lab, this account name is `stultzlab`.
+Miniconda is already installed in the administrator account (and kept fastidiously up to date). You should use this installation, and can modify it and install packages.
 
-In the below examples I will use `aguirrelab` in paths. If you are working wiht a Stultz Lab machine, use `stultzlab` instead.
+For Aguirre Lab, the administrator account name is `aguirrelab`. For Stultz Lab, the account name is `stultzlab`.
+
+In the below examples I will use `aguirrelab` in paths, referring to an Aguirre Lab machine. If you are using a Stultz Lab machine, use `stultzlab` in the paths instead.
 
 Activate:
 
