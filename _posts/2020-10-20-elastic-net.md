@@ -9,7 +9,7 @@ The objective function and variable names differ between the original paper and 
 
 ---
 
-The elastic net, first proposed by Zou and Hastie ([J. R. Statist. Soc. B. 2005](http://web.stanford.edu/~hastie/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)), adds L1 and L2 penalties of lasso and ridge regression methods to the objective function $ L(\lambda_{1}, \lambda_{2}, \beta) $:
+The elastic net, first proposed by Zou and Hastie ([J. R. Statist. Soc. B. 2005](http://www.stanford.edu/~hastie/Papers/elasticnet.pdf)), adds L1 and L2 penalties of lasso and ridge regression methods to the objective function $ L(\lambda_{1}, \lambda_{2}, \beta) $:
 
 $$
 \vert y - X\beta \vert^{2}
