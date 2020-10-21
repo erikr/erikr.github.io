@@ -40,34 +40,40 @@ There are several differences between (1) and (3):
 
 1. Model coefficients are denoted by $w$, not $\beta$.
 1. Norms are denoted with double instead of single lines.
-1. Terms with $L2$ norms are multiplied by $\frac{1}{2}$. This is a mathematical convenience; when the derivative of the term is taken, each of those terms is multiplied by $2$, which cancels the $\frac{1}{2}$. This does not change the solution because 
-$ \underset{\beta}{\operatorname{argmin}} ( L ) = \underset{\beta}{\operatorname{argmin}} ( kL ) $ for any real value of $k$.
+1. Terms with $L2$ norms are multiplied by $\frac{1}{2}$ or $\frac{1}{2n}$. This is a mathematical convenience that cancels with the $2$ that arises from taking the derivative. Adding $k$ to any term being minimized does not change the solution because 
+$ \underset{\beta}{\operatorname{argmin}} ( L ) = \underset{\beta}{\operatorname{argmin}} ( kL )$ for $k \in \mathbb{R}$.
 1. The lasso term (L1 penalty) comes first, whereas in the paper it comes after the ridge regression term (L2 penalty).
 1. $\alpha \rho$ is used instead of $\lambda_{1}$
 1. $\alpha (1-\rho)$ is used instead of $\lambda_{2}$
 
-The `sklearn` documentation describes the equivalence between the L1 and L2 penalty terms, but use different variable names. To make these equations easier to connect to those in the original Zhou and Hastie paper, I set $a=\lambda_{1}$ and $b=\lambda_{2}$ and use the latter notation below:
+To make variables in the `sklearn` documentation match those in the original Zhou and Hastie paper, I set $a=\lambda_{1}$ and $b=\lambda_{2}$ and use the latter notation below:
 
 $$ \alpha = \lambda_{1} + \lambda_{2} $$
 
 $$ \rho = \frac{\lambda_{1}}{\lambda_{2} + \lambda_{2}} $$
 
-The following Python expressions of the above equations will set elastic net hyperparameters $\alpha$ and $\rho$ for elastic net in `sklearn` using $\lambda_{1}$ and $\lambda_{2}$:
+These equations, written in Python, will set elastic net hyperparameters $\alpha$ and $\rho$ for elastic net in `sklearn` as functions of $\lambda_{1}$ and $\lambda_{2}$:
 
-
-```
+```python
 alpha = lambda1 + lambda2 
 l1_ratio = lambda1 / (lambda1 + lambda2)
 ```
 
+This enables the use of $\lambda_{1}$ and $\lambda_{2}$ for elastic net in either `sklearn` or `keras`:
+
+```python
+from sklearn.linear_model import ElasticNet
+alpha = args.l1 + args.l2
+l1_ratio = args.l1 / (args.l1 + args.l2)
+model = ElasticNet(alpha=alpha, l1_ratio=l1_ratio)
+model.fit(X, y)
+```
+
+
 ---
 
-The [`keras` documentation for elastic net](https://keras.io/api/layers/regularizers/#l1l2-function) is minimal. No equation for the objective function is given. The documentation does not even refer to L1 L2 regularization as elastic net. However, the implementation is straightforward; simply use the `l1_l2` regularizer function and set the parameters `l1` and `l2`, which are equivalent to $\lambda_{1}$ and $\lambda_{2}$, respectively):
+The [`keras` documentation for elastic net](https://keras.io/api/layers/regularizers/#l1l2-function) is minimal. No equation for the objective function is given. L1 L2 regularization is not even referred to as elastic net. However, the implementation is straightforward; simply use the `l1_l2` regularizer function and set the parameters `l1` and `l2`, which are equivalent to $\lambda_{1}$ and $\lambda_{2}$, respectively):
 
+```python
+tf.keras.regularizers.l1_l2(l1=args.l1, l2=args.l2)
 ```
-tf.keras.regularizers.l1_l2(l1=0.01, l2=0.01)
-```
-
----
-
-[^1]: 
