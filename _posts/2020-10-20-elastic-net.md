@@ -9,10 +9,9 @@ The objective function and variable names differ between the original paper and 
 
 ---
 
-The elastic net, first proposed by Zou and Hastie ([J. R. Statist. Soc. B. 2005](http://web.stanford.edu/~hastie/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)), adds L1 and L2 penalties of lasso and ridge regression methods to the objective function:
+The elastic net, first proposed by Zou and Hastie ([J. R. Statist. Soc. B. 2005](http://web.stanford.edu/~hastie/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)), adds L1 and L2 penalties of lasso and ridge regression methods to the objective function $ L(\lambda_{1}, \lambda_{2}, \beta) $:
 
 $$
-L(\lambda_{1}, \lambda_{2}, \beta) = 
 \vert y - X\beta \vert^{2}
 + \lambda_{2} \vert \beta \vert^{2}
 + \lambda_{1} \vert \beta \vert_{1}
@@ -29,9 +28,11 @@ Elastic net with $\lambda_{2}=0$ is simply ridge regression. Likewise, elastic n
 
 ---
 
-In the [`sklearn` documentation for elastic net](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html) the objective function to minimize is different:
+In the [`sklearn` documentation for elastic net](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html) the objective function $ L $ to minimize is different:
 
-$$ L = \frac{1}{2n} \| y - Xw \| ^{2}_{2} + \alpha \rho \|w\|_1 + \frac{1}{2} \alpha \\( 1 - \rho \\) \|w\|^{2}_{2} $$
+$$
+\frac{1}{2n} \| y - Xw \| ^{2}_{2} + \alpha \rho \|w\|_1 + \frac{1}{2} \alpha ( 1 - \rho ) + \|w\|^{2}_{2} \\
+$$
 
 where $\rho$ is `l1_ratio`.
 
@@ -40,7 +41,7 @@ There are several differences:
 1. Model coefficients are denoted by $w$, not $\beta$.
 1. Norms are denoted with double instead of single lines.
 1. Terms with $L2$ norms are multiplied by $\frac{1}{2}$. This is a mathematical convenience; when the derivative of the term is taken, each of those terms is multiplied by $2$, which cancels the $\frac{1}{2}$. This does not change the solution because 
-$ \underset{\beta}{\operatorname{argmin}} \{ L \} = \underset{\beta}{\operatorname{argmin}} \{ kL \} $ for any real value of $k$.
+$ \underset{\beta}{\operatorname{argmin}} ( L ) = \underset{\beta}{\operatorname{argmin}} ( kL ) $ for any real value of $k$.
 1. The lasso term (L1 penalty) comes first, whereas in the paper it comes after the ridge regression term (L2 penalty).
 1. $\alpha \rho$ is used instead of $\lambda_{1}$
 1. $\alpha (1-\rho)$ is used instead of $\lambda_{2}$
