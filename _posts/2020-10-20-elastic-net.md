@@ -31,7 +31,7 @@ Elastic net with $\lambda_{2}=0$ is simply ridge regression. Likewise, elastic n
 In `sklearn`, per the [documentation for elastic net](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html), the objective function $ L $ to minimize is different:
 
 $$
-\frac{1}{2n} \| y - Xw \| ^{2}_{2} + \alpha \rho \|w\|_1 + \frac{1}{2} \alpha ( 1 - \rho ) + \|w\|^{2}_{2} \\
+\frac{1}{2n} \| y - Xw \| ^{2}_{2} + \alpha \rho \|w\|_1 + \frac{1}{2} \alpha ( 1 - \rho ) \|w\|^{2}_{2} \\
 $$
 
 Note `l1_ratio` is denoted as $ \rho $ here.
