@@ -26,6 +26,6 @@ markdown: kramdown
 
 plugins:
     - jekyll-seo-tag
-    - jekyll-latex
+    - jekyll-spaceship
 
 github: [metadata]
