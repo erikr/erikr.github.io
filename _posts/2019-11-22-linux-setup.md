@@ -142,6 +142,7 @@ sudo chmod -x /etc/update-motd.d/50-motd-news
 ```
 
 Remove the printing of the last login datetime and IP:
+
 ```bash
 sudoedit /etc/ssh/sshd_config
 ```
@@ -152,13 +153,14 @@ PrintLastLog yes
 ```
 
 and change to
-```
 
+```
 PrintLastLog no
 ```
 or add if it doesnt exist.
 
 Restart SSH:
+
 ```
 service ssh restart
 ```
