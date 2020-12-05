@@ -134,6 +134,35 @@ gpg --list-secret-keys --keyid-format LONG
 gpg --armor --export KEY_ID_HERE
 ```
 
+## Customize the MOTD
+Disable the help text that appears when you log in, news, etc.:
+```bash
+sudo chmod -x /etc/update-motd.d/10-help-text
+sudo chmod -x /etc/update-motd.d/50-motd-news
+```
+
+Remove the printing of the last login datetime and IP:
+```bash
+sudoedit /etc/ssh/sshd_config
+```
+Find the line that says:
+
+```
+PrintLastLog yes
+```
+
+and change to
+```
+
+PrintLastLog no
+```
+or add if it doesnt exist.
+
+Restart SSH:
+```
+service ssh restart
+```
+
 ## For local use
 
 Set up Solarized Dark for the terminal
@@ -146,9 +175,7 @@ cd && rm -rf gnome-terminal-colors-solarized
 
 Install [JetBrains Mono font](https://www.jetbrains.com/lp/mono/)
 
-Install Dropbox
-https://www.dropbox.com/install-linux  
-> Waiting for the app to ask for the link code never works. Instead, log in at dropbox.com/login.
+Install Dropbox; [refer to this setup guide on our lab wiki](https://github.com/aguirre-lab/aguirre-lab/blob/master/dropbox.md) for instructions.
 
 ## For `mithril`:
 
