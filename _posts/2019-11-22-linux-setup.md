@@ -139,6 +139,7 @@ Disable the help text that appears when you log in, news, etc.:
 ```bash
 sudo chmod -x /etc/update-motd.d/10-help-text
 sudo chmod -x /etc/update-motd.d/50-motd-news
+sudo chmod -x /etc/update-motd.d/95-hwe-eol
 ```
 
 Remove the printing of the last login datetime and IP:
