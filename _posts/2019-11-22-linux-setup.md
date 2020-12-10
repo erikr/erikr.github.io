@@ -85,7 +85,7 @@ black/bin/pip install --upgrade git+https://github.com/psf/black.git
 
 Download and install
 ```
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
+cd && wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
 sh Miniconda3
 source ~/miniconda3/bin/activate
 ```
@@ -93,24 +93,25 @@ source ~/miniconda3/bin/activate
 No need to run `conda init zsh` because my `.zshrc` sets paths.
 
 Create environment:
-```
+```zsh
 conda env create -f ~/dotfiles/environment.yml
 ```
 
-For a multi-user installation
-```
+For a multi-user installation on a machine you administrate, add a group for all users, adjust permissions, and add users to the group:
+```zsh
 sudo groupadd aguirrelab
 sudo chgrp -R aguirrelab /home/aguirrelab/miniconda3
 sudo chmod 777 -R /home/aguirrelab/miniconda3
-```
-
-Add users to this group:
-```
 sudo adduser username aguirrelab
 ```
 
 Users should set up Miniconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-miniconda %}).
 
+Delete the install shell script when you finish:
+
+```zsh
+rm -rf ~/Miniconda3-latest-Linux-x86_64.sh
+```
 
 ## SSH
 Install some stuff
