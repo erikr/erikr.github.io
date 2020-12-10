@@ -105,7 +105,7 @@ sudo chmod 777 -R /home/aguirrelab/miniconda3
 sudo adduser username aguirrelab
 ```
 
-Users should set up Miniconda on an Aguirre Lab machine by following [these instructions]({% post_url 2020-04-08-miniconda %}).
+Users should set up Miniconda on an Aguirre Lab machine by following [these instructions](https://github.com/aguirre-lab/aguirre-lab/blob/master/miniconda.md).
 
 Delete the install shell script when you finish:
 
