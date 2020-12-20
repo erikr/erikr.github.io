@@ -33,8 +33,6 @@ Pure theme
 mkdir -p "$HOME/.zsh"
 git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
 ```
-> The rest of the settings are ready in `.zshrc`
-
 
 ZSH syntax highlighting
 ```
@@ -60,25 +58,9 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-Solarized colors:
-```
-git clone git@github.com:altercation/vim-colors-solarized.git
-cd vim-colors-solarized/colors
-mkdir ~/.vim/colors
-mv solarized.vim ~/.vim/colors/
-cd && rm -rf vim-colors-solarized
-```
-
-then start vim and call `:PlugInstall` to install the plugins specified in `.vimrc`:
+Install plugins specified in `.vimrc`:
 ```
 vim -c PlugInstall
-```
-
-Then [fix `Black`](https://github.com/psf/black/issues/1379#issuecomment-623731659):
-```
-cd ~/.vim
-black/bin/pip install --upgrade pip
-black/bin/pip install --upgrade git+https://github.com/psf/black.git
 ```
 
 ## Miniconda and environments
