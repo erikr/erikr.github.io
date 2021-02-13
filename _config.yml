@@ -19,7 +19,6 @@ pages_list:
     Blog: '/blog'
     Tech: '/tech'
     Research: '/research'
-    Teaching: '/teaching'
     Talks: '/talks'
 
 markdown: kramdown
