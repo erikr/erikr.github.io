@@ -20,6 +20,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 ---
 
-Postdoc at MGH and MIT working on medical machine learning.
+Director of Data Science & Engineering at [Prometheus](https://www.prometheusbiosciences.com), the first company using precision medicine and machine learning to create better medicines for patients with GI disease.
 
-Past: intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, BS in bioengineering from UCLA.
+Previously: postdoc at Mass General, MIT, and the Broad Institute, intern at Takeda Ventures, founder at Forge, MD from Emory, PhD in biomedical engineering & statistics from Georgia Tech, BS in bioengineering from UCLA.

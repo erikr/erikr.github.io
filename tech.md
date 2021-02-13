@@ -4,7 +4,9 @@ permalink: /tech/
 title: "Tech"
 ---
 
-I advise Healthcare Innovation Fellows at the [Healthcare Transformation Lab, Mass General][htl] on projects leveraging machine learning, informatics, and wearable devices to monitor patient physiology, lower costs, and improve outcomes.  
+I am the Director of Data Science and Engineering at [Prometheus](https://www.prometheusbiosciences.com). My role is to create and lead a methods development and software engineering team that will enable Prometheus to leverage proprietary data and sophisticated analyses (including ML) to obtain new insights into IBD immune pathway biology. These analyses will inform all the company’s R&D efforts from target discovery and genotype-phenotype relationships to drug and companion diagnostic product development and commercialization.
+
+From 2019-2021 I was an Innovator in Residence at the [Mass General Healthcare Transformation Lab][htl]. I worked with Innovation Fellows on projects leveraging machine learning to monitor patient physiology, lower costs, and improve outcomes.  
 
 In 2018 I interned at [Takeda Ventures](http://takedaventures.com), an early-stage venture capital firm within Takeda Pharmaceuticals. I worked with Senior Partner [David Shaywitz, MD, PhD](https://www.linkedin.com/in/david-shaywitz-md-phd-232a237/). We evaluated investment opportunities in startups that use data science and technology to discover, assess, or deliver impactful new treatments for patients. 
 
