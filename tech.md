@@ -4,7 +4,7 @@ permalink: /tech/
 title: "Tech"
 ---
 
-I am the Director of Data Science and Engineering at [Prometheus](https://www.prometheusbiosciences.com). My role is to create and lead a methods development and software engineering team that will enable Prometheus to leverage proprietary data and sophisticated analyses (including ML) to obtain new insights into IBD immune pathway biology. These analyses will inform all the company’s R&D efforts from target discovery and genotype-phenotype relationships to drug and companion diagnostic product development and commercialization.
+I lead data science and engineering at [Prometheus](https://www.prometheusbiosciences.com). Our team builds infrastructure that enables Prometheus to leverage powerful compute, proprietary data, and rigorous approaches (including ML) to obtain new insights into IBD immune pathway biology. We accelerate R&D efforts in target discovery, biomarkers, and companion diagnostics. 
 
 From 2019-2021 I was an Innovator in Residence at the [Mass General Healthcare Transformation Lab][htl]. I worked with Innovation Fellows on projects leveraging machine learning to monitor patient physiology, lower costs, and improve outcomes.  
 
