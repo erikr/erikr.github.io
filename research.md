@@ -4,7 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-I completed my postdoctoral fellowship at the [Center for Systems Biology][csb] at Massachusetts General Hospital, [Computational Cardiovascular Research Group][ccrg] at MIT, and [Machine Learing for Health][ml4h] initiative at the Broad Institute.
+I completed my postdoctoral fellowship at the [Center for Systems Biology][csb] at Massachusetts General Hospital, [Computational Cardiovascular Research Group][ccrg] at MIT, and [Machine Learning for Health][ml4h] initiative at the Broad Institute.
 
 My work focused on multimodal data curation, machine learning infrastructure, and clinical outcome prediction using electronic medical record data and complex physiological signals such as ECGs and invasive hemodynamic measurements.
 
