@@ -50,7 +50,7 @@ To make variables in the `sklearn` documentation match those in the original Zho
 
 $$ \alpha = \lambda_{1} + \lambda_{2} $$
 
-$$ \rho = \frac{\lambda_{1}}{\lambda_{2} + \lambda_{2}} $$
+$$ \rho = \frac{\lambda_{1}}{\lambda_{1} + \lambda_{2}} $$
 
 These equations, written in Python, will set elastic net hyperparameters $\alpha$ and $\rho$ for elastic net in `sklearn` as functions of $\lambda_{1}$ and $\lambda_{2}$:
 
