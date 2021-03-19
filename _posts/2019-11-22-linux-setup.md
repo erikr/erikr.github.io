@@ -20,7 +20,7 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 Dotfiles and shell scripts
 ```
 git clone https://github.com/erikr/dotfiles.git  
-cd dotfiles && bash symlinks.sh make
+cd dotfiles && bash generate-symlinks.sh make
 ```
 
 zsh-autosuggestions
