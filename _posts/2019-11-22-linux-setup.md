@@ -76,7 +76,7 @@ vim -c PlugInstall
 Download and install
 ```bash
 cd && wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
-sh Miniconda3
+bash Miniconda3-latest-Linux-x86_64.sh
 source ~/miniconda3/bin/activate
 ```
 
