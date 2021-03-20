@@ -2,7 +2,7 @@
 layout: post
 title: Linux setup guide
 ---
-This is modified to help set up a new Ubuntu machine on GCP or any cloud platform.
+Here are commands to help set up a new Ubuntu machine on GCP or any cloud platform.
 
 ## Install basic utilities
 ```bash
