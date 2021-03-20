@@ -10,12 +10,19 @@ sudo apt update
 sudo apt-get install vim git curl zsh tmux tree
 ```
 
+## Set password
+```bash
+sudo passwd
+```
+
+Log out, then back in.
+
 ## Shell, dotfiles, zsh theme
 
 ZSH
 ```bash
 zsh
-chsh -s $(which zsh)
+sudo chsh -s $(which zsh)
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
