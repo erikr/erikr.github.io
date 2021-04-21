@@ -14,7 +14,7 @@ title: "Home"
 <i class='fa fa-envelope fa-fw'></i> <a id="email"></> <br> 
 
 <script>
-var email_address = "erikr" + "@" + "mit"; email_address += ".edu";
+var email_address = "erikrtn" + "@" + "gmail"; email_address += ".com";
 $("#email").attr("href", "mailto:" + email_address).html("email");
 </script>
 
