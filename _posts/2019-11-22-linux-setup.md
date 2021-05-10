@@ -8,6 +8,8 @@ Here are commands to help set up a new Ubuntu machine on GCP or any cloud platfo
 ```bash
 sudo apt update
 sudo apt-get install vim git curl zsh tmux tree
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
 ```
 
 ## Set password
