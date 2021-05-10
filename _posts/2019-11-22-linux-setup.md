@@ -90,36 +90,7 @@ Delete the install shell script when you finish:
 rm -rf ~/Miniconda3-latest-Linux-x86_64.sh
 ```
 
-## `gpg`
-```bash
-sudo apt install gnupg
-gpg --full-generate-key
-gpg --list-secret-keys --keyid-format LONG
-gpg --armor --export KEY_ID_HERE
+Set up the Conda environment:
+```zsh
+conda env create -f ~/dotfiles/environment.yml
 ```
-
-## Customize the MOTD
-Disable the help text that appears when you log in, news, etc.:
-```bash
-sudo chmod -x /etc/update-motd.d/10-help-text
-sudo chmod -x /etc/update-motd.d/50-motd-news
-sudo chmod -x /etc/update-motd.d/95-hwe-eol
-```
-
-Remove the printing of the last login datetime and IP:
-
-```bash
-sudoedit /etc/ssh/sshd_config
-```
-Find the line that says:
-
-```bash
-PrintLastLog yes
-```
-
-and change to
-
-```bash
-PrintLastLog no
-```
-or add if it doesnt exist.
