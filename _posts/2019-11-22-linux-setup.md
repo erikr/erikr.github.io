@@ -94,3 +94,9 @@ Set up the Conda environment:
 ```zsh
 conda env create -f ~/dotfiles/environment.yml
 ```
+
+## Speedtest CLI
+```zsh
+curl -s https://install.speedtest.net/app/cli/install.deb.sh | sudo bash
+sudo apt-get install speedtest
+```
