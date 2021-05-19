@@ -50,13 +50,5 @@ Read (form a group), get a coach, and obtain feedback.
 
 ---
 
-Emory should hold similar sessions with our Deans and Chairs to teach students and trainees more about leadership. Stay tuned, I'll work on it.
-
-And of course I had to get a picture with the boss!
-
-![selfie](/assets/minor2.jpg)
-
----
-
 [^footnote1]: People should be great solo, but even more amazing together. And don't restrict the independence of amazing people.
 [^footnote2]: Let everyone know you have arrived to serve them, not yourself. And if you leave, make sure the organization endures.
